@@ -1,0 +1,41 @@
+name: מעקב סטטוס הזמנות
+
+on:
+  schedule:
+    # רץ כל 10 דקות
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: הורדת הקוד
+        uses: actions/checkout@v4
+
+      - name: התקנת Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: התקנת ספריות
+        run: pip install requests
+
+      - name: בדיקת סטטוסים
+        env:
+          SOURCE_WC_URL: ${{ secrets.SOURCE_WC_URL }}
+          SOURCE_WC_KEY: ${{ secrets.SOURCE_WC_KEY }}
+          SOURCE_WC_SECRET: ${{ secrets.SOURCE_WC_SECRET }}
+        run: python track_orders.py
+
+      - name: שמירת עדכוני סטטוס
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "עדכון סטטוסי הזמנות אוטומטי"
+          file_pattern: "orders.json"
+          commit_user_name: "אוטומציה"
+          commit_user_email: "bot@masoret-yehudit.co.il"
