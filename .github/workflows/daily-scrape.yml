@@ -2,13 +2,15 @@ name: סריקה יומית של מוצרים
 
 on:
   schedule:
-    # רץ כל יום בשעה 06:00 (שעון ישראל = 03:00 UTC)
     - cron: '0 3 * * *'
-  workflow_dispatch:  # אפשרות להפעיל ידנית
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: הורדת הקוד
@@ -20,18 +22,15 @@ jobs:
           python-version: '3.11'
 
       - name: התקנת ספריות
-        run: |
-          pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4
 
       - name: הפעלת הסריקה
-        run: |
-          cd scraper
-          python scrape_products.py
+        run: python scrape_products.py
 
-      - name: שמירת המוצרים בחזרה ל-GitHub
+      - name: שמירת המוצרים
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "עדכון מוצרים אוטומטי - $(date '+%d/%m/%Y')"
-          file_pattern: "scraper/products.json scraper/last_changes.json"
+          commit_message: "עדכון מוצרים אוטומטי"
+          file_pattern: "products.json last_changes.json"
           commit_user_name: "אוטומציה"
           commit_user_email: "bot@masoret-yehudit.co.il"
