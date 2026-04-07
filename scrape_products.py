@@ -1,9 +1,9 @@
 """
-scrape_products.py
-------------------
-רץ כל יום דרך GitHub Actions.
-סורק את seferkodesh.co.il, מזהה מוצרים חדשים ושינויים,
-ושומר הכל בקובץ products.json שמשמש את האתר החדש.
+scrape_products.py - גרסה מתוקנת
+----------------------------------
+סורק את האתר בחלקים של 500 ספרים ביום.
+שומר התקדמות בקובץ progress.json כך שכל יום ממשיך מאיפה שעצר.
+כשמסיים את כולם — עובר למצב עדכונים בלבד (מהיר מאוד).
 """
 
 import requests
@@ -16,7 +16,11 @@ from datetime import datetime
 BASE_URL = "https://www.seferkodesh.co.il"
 PRICE_MARKUP = 1.15
 PRODUCTS_FILE = "products.json"
+PROGRESS_FILE = "progress.json"
+URLS_FILE = "all_urls.json"
 CHANGES_FILE = "last_changes.json"
+BATCH_SIZE = 500
+MAX_MINUTES = 300
 
 HEADERS = {
     "User-Agent": (
@@ -27,8 +31,26 @@ HEADERS = {
 }
 
 
+def load_json(filename, default):
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return default
+
+
+def save_json(filename, data):
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def get_all_product_urls():
-    """אוסף את כל כתובות המוצרים מהאתר"""
+    if os.path.exists(URLS_FILE):
+        urls = load_json(URLS_FILE, [])
+        if urls:
+            print(f"📋 נטען קובץ URLs קיים: {len(urls)} כתובות")
+            return urls
+
+    print("🌐 סורק עמודי חנות לאיסוף כתובות...")
     urls = set()
     page = 1
 
@@ -41,8 +63,6 @@ def get_all_product_urls():
                 break
 
             soup = BeautifulSoup(res.text, "html.parser")
-
-            # מוצא קישורים למוצרים
             product_links = soup.select("a.woocommerce-LoopProduct-link, ul.products li a")
             found = set()
             for a in product_links:
@@ -54,30 +74,30 @@ def get_all_product_urls():
                 break
 
             urls.update(found)
-            print(f"  עמוד {page}: נמצאו {len(found)} מוצרים (סה\"כ: {len(urls)})")
+            print(f"  עמוד {page}: {len(found)} מוצרים (סה\"כ: {len(urls)})")
             page += 1
-            time.sleep(1)  # המתנה מנומסת בין בקשות
+            time.sleep(1)
 
         except Exception as e:
             print(f"  שגיאה בעמוד {page}: {e}")
             break
 
-    return list(urls)
+    urls_list = list(urls)
+    save_json(URLS_FILE, urls_list)
+    print(f"\n✅ נשמרו {len(urls_list)} כתובות")
+    return urls_list
 
 
 def scrape_product(url):
-    """שולף פרטי מוצר בודד"""
     try:
         res = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(res.text, "html.parser")
 
-        # שם המוצר
         name = ""
         title_el = soup.select_one("h1.product_title, h1.entry-title")
         if title_el:
             name = title_el.get_text(strip=True)
 
-        # מחיר
         price = 0.0
         price_el = soup.select_one("p.price .woocommerce-Price-amount, .price ins .amount, .price .amount")
         if price_el:
@@ -87,25 +107,21 @@ def scrape_product(url):
             except:
                 pass
 
-        # תיאור
         description = ""
         desc_el = soup.select_one("div.woocommerce-product-details__short-description, div#tab-description")
         if desc_el:
             description = desc_el.get_text(separator=" ", strip=True)[:500]
 
-        # תמונה
         image = ""
         img_el = soup.select_one("div.woocommerce-product-gallery img, .wp-post-image")
         if img_el:
             image = img_el.get("src", img_el.get("data-src", ""))
 
-        # קטגוריה
         category = ""
         cat_el = soup.select_one("span.posted_in a, .woocommerce-breadcrumb a:last-child")
         if cat_el:
             category = cat_el.get_text(strip=True)
 
-        # זמינות מלאי
         in_stock = True
         stock_el = soup.select_one("p.stock")
         if stock_el and "אזל" in stock_el.get_text():
@@ -127,85 +143,74 @@ def scrape_product(url):
         }
 
     except Exception as e:
-        print(f"  שגיאה ב-{url}: {e}")
+        print(f"  שגיאה: {e}")
         return None
 
 
-def load_existing():
-    """טוען מוצרים קיימים מהקובץ"""
-    if os.path.exists(PRODUCTS_FILE):
-        with open(PRODUCTS_FILE, "r", encoding="utf-8") as f:
-            return {p["url"]: p for p in json.load(f)}
-    return {}
-
-
-def save_products(products_dict):
-    """שומר את כל המוצרים לקובץ"""
-    products_list = list(products_dict.values())
-    with open(PRODUCTS_FILE, "w", encoding="utf-8") as f:
-        json.dump(products_list, f, ensure_ascii=False, indent=2)
-    print(f"\n✅ נשמרו {len(products_list)} מוצרים ב-{PRODUCTS_FILE}")
-
-
-def save_changes(changes):
-    """שומר סיכום שינויים"""
-    with open(CHANGES_FILE, "w", encoding="utf-8") as f:
-        json.dump(changes, f, ensure_ascii=False, indent=2)
-
-
 def main():
-    print(f"🔍 מתחיל סריקה — {datetime.now().strftime('%d/%m/%Y %H:%M')}")
-    print(f"   אתר: {BASE_URL}")
-    print(f"   תוספת מחיר: {int((PRICE_MARKUP-1)*100)}%\n")
+    start_time = datetime.now()
+    print(f"🔍 מתחיל סריקה — {start_time.strftime('%d/%m/%Y %H:%M')}")
 
-    # טעינת מוצרים קיימים
-    existing = load_existing()
-    print(f"📦 מוצרים קיימים במערכת: {len(existing)}\n")
+    products = load_json(PRODUCTS_FILE, [])
+    products_dict = {p["url"]: p for p in products}
+    progress = load_json(PROGRESS_FILE, {"last_index": 0, "completed": False})
 
-    # שליפת כל כתובות המוצרים
-    print("🌐 סורק עמודי חנות...")
-    urls = get_all_product_urls()
-    print(f"\n📋 סה\"כ {len(urls)} מוצרים באתר המקורי\n")
+    print(f"📦 מוצרים קיימים: {len(products_dict)}")
+    print(f"📍 המשך מאינדקס: {progress['last_index']}")
 
-    # סריקת כל מוצר
-    changes = {"new": [], "updated": [], "out_of_stock": [], "date": datetime.now().isoformat()}
-    updated = dict(existing)
+    if progress.get("completed"):
+        print("✅ סריקה ראשונה הושלמה! עובר למצב עדכונים...")
+        urls = load_json(URLS_FILE, [])
+        updated = 0
+        for url in urls:
+            elapsed = (datetime.now() - start_time).seconds / 60
+            if elapsed > MAX_MINUTES:
+                break
+            product = scrape_product(url)
+            if product:
+                old = products_dict.get(url, {})
+                if old.get("original_price") != product["original_price"]:
+                    products_dict[url] = product
+                    updated += 1
+                    print(f"  💰 עודכן: {product['name']}")
+            time.sleep(0.5)
+        save_json(PRODUCTS_FILE, list(products_dict.values()))
+        print(f"\n✅ עדכון הושלם — {updated} מוצרים שונו")
+        return
 
-    for i, url in enumerate(urls, 1):
-        print(f"[{i}/{len(urls)}] {url.split('/')[-2]}")
+    all_urls = get_all_product_urls()
+    total = len(all_urls)
+    start_idx = progress["last_index"]
+    end_idx = min(start_idx + BATCH_SIZE, total)
+
+    print(f"\n📊 סורק {start_idx+1} עד {end_idx} מתוך {total} מוצרים...")
+
+    for i in range(start_idx, end_idx):
+        elapsed = (datetime.now() - start_time).seconds / 60
+        if elapsed > MAX_MINUTES:
+            print(f"\n⏰ הגענו ל-{MAX_MINUTES} דקות — עוצרים לשמירה")
+            break
+
+        url = all_urls[i]
+        print(f"[{i+1}/{total}] {url.split('/')[-2][:40]}")
+
         product = scrape_product(url)
+        if product:
+            products_dict[url] = product
 
-        if not product:
-            continue
-
-        if url not in existing:
-            changes["new"].append(product["name"])
-            print(f"  ✨ מוצר חדש: {product['name']}")
-        else:
-            old = existing[url]
-            if old.get("original_price") != product["original_price"]:
-                changes["updated"].append({
-                    "name": product["name"],
-                    "old_price": old.get("price"),
-                    "new_price": product["price"],
-                })
-                print(f"  💰 שינוי מחיר: {old.get('price')} → {product['price']}")
-            if not product["in_stock"] and old.get("in_stock"):
-                changes["out_of_stock"].append(product["name"])
-                print(f"  ❌ אזל מהמלאי: {product['name']}")
-
-        updated[url] = product
+        progress["last_index"] = i + 1
         time.sleep(0.5)
 
-    save_products(updated)
-    save_changes(changes)
+    if progress["last_index"] >= total:
+        progress["completed"] = True
+        print(f"\n🎉 סריקה ראשונה הושלמה!")
+    else:
+        remaining = total - progress["last_index"]
+        print(f"\n💾 נשארו {remaining} מוצרים לסריקות הבאות")
 
-    # סיכום
-    print(f"\n📊 סיכום שינויים:")
-    print(f"   מוצרים חדשים: {len(changes['new'])}")
-    print(f"   שינויי מחיר: {len(changes['updated'])}")
-    print(f"   אזלו מהמלאי: {len(changes['out_of_stock'])}")
-    print(f"\n✅ הסריקה הושלמה בהצלחה!")
+    save_json(PRODUCTS_FILE, list(products_dict.values()))
+    save_json(PROGRESS_FILE, progress)
+    print(f"✅ נשמרו {len(products_dict)} מוצרים")
 
 
 if __name__ == "__main__":
