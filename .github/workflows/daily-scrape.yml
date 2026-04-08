@@ -33,7 +33,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "עדכון מוצרים אוטומטי"
-          file_pattern: "products.json last_changes.json progress.json all_urls.json"
+          file_pattern: "products.json progress.json all_urls.json"
           commit_user_name: "אוטומציה"
           commit_user_email: "bot@masoret-yehudit.co.il"
           push_options: '--force'
