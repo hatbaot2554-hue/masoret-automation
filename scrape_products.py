@@ -1,9 +1,9 @@
 """
-scrape_products.py - גרסה מתוקנת
-----------------------------------
-סורק את האתר בחלקים של 500 ספרים ביום.
-שומר התקדמות בקובץ progress.json כך שכל יום ממשיך מאיפה שעצר.
-כשמסיים את כולם — עובר למצב עדכונים בלבד (מהיר מאוד).
+scrape_products.py
+------------------
+רץ כל יום דרך GitHub Actions.
+סורק את seferkodesh.co.il, מזהה מוצרים חדשים ושינויים,
+ושומר הכל בקובץ products.json שמשמש את האתר החדש.
 """
 
 import requests
@@ -18,7 +18,6 @@ PRICE_MARKUP = 1.15
 PRODUCTS_FILE = "products.json"
 PROGRESS_FILE = "progress.json"
 URLS_FILE = "all_urls.json"
-CHANGES_FILE = "last_changes.json"
 BATCH_SIZE = 500
 MAX_MINUTES = 300
 
@@ -58,10 +57,8 @@ def get_all_product_urls():
         try:
             url = f"{BASE_URL}/shop/page/{page}/" if page > 1 else f"{BASE_URL}/shop/"
             res = requests.get(url, headers=HEADERS, timeout=15)
-
             if res.status_code == 404:
                 break
-
             soup = BeautifulSoup(res.text, "html.parser")
             product_links = soup.select("a.woocommerce-LoopProduct-link, ul.products li a")
             found = set()
@@ -69,15 +66,12 @@ def get_all_product_urls():
                 href = a.get("href", "")
                 if "/product-page/" in href or "/product/" in href:
                     found.add(href.split("?")[0])
-
             if not found:
                 break
-
             urls.update(found)
             print(f"  עמוד {page}: {len(found)} מוצרים (סה\"כ: {len(urls)})")
             page += 1
             time.sleep(1)
-
         except Exception as e:
             print(f"  שגיאה בעמוד {page}: {e}")
             break
@@ -93,48 +87,74 @@ def scrape_product(url):
         res = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(res.text, "html.parser")
 
+        # שם המוצר
         name = ""
         title_el = soup.select_one("h1.product_title, h1.entry-title")
         if title_el:
             name = title_el.get_text(strip=True)
 
+        # מחיר — מנסה כמה selectors
         price = 0.0
-        price_el = soup.select_one("p.price .woocommerce-Price-amount, .price ins .amount, .price .amount")
-        if price_el:
-            price_text = price_el.get_text(strip=True).replace("₪", "").replace(",", "").strip()
-            try:
-                price = float(price_text)
-            except:
-                pass
+        for selector in [
+            ".price ins .woocommerce-Price-amount",
+            ".price .woocommerce-Price-amount",
+            "p.price .amount",
+            ".summary .price .amount",
+        ]:
+            price_el = soup.select_one(selector)
+            if price_el:
+                price_text = price_el.get_text(strip=True)
+                price_text = price_text.replace("₪", "").replace(",", "").replace("\xa0", "").strip()
+                try:
+                    val = float(price_text)
+                    if val > 0:
+                        price = val
+                        break
+                except:
+                    continue
 
+        # דלג על מוצרים ללא מחיר תקין
+        if not name or price < 1:
+            return None
+
+        # תיאור
         description = ""
         desc_el = soup.select_one("div.woocommerce-product-details__short-description, div#tab-description")
         if desc_el:
             description = desc_el.get_text(separator=" ", strip=True)[:500]
 
+        # תמונה
         image = ""
         img_el = soup.select_one("div.woocommerce-product-gallery img, .wp-post-image")
         if img_el:
             image = img_el.get("src", img_el.get("data-src", ""))
 
+        # קטגוריה
         category = ""
         cat_el = soup.select_one("span.posted_in a, .woocommerce-breadcrumb a:last-child")
         if cat_el:
             category = cat_el.get_text(strip=True)
 
+        # זמינות מלאי
         in_stock = True
-        stock_el = soup.select_one("p.stock")
-        if stock_el and "אזל" in stock_el.get_text():
-            in_stock = False
+        stock_el = soup.select_one("p.stock, .stock")
+        if stock_el:
+            stock_text = stock_el.get_text(strip=True)
+            if any(word in stock_text for word in ["אזל", "חסר", "out of stock", "Out of stock"]):
+                in_stock = False
 
-        if not name or price == 0:
-            return None
+        # חישוב מחיר עם תוספת 15% ועיגול
+        marked_price = price * PRICE_MARKUP
+        if marked_price > 10:
+            marked_price = round(marked_price)
+        else:
+            marked_price = round(marked_price, 2)
 
         return {
             "url": url,
             "name": name,
             "original_price": round(price, 2),
-            "price": round(price * PRICE_MARKUP, 2),
+            "price": marked_price,
             "description": description,
             "image": image,
             "category": category,
@@ -169,7 +189,7 @@ def main():
             product = scrape_product(url)
             if product:
                 old = products_dict.get(url, {})
-                if old.get("original_price") != product["original_price"]:
+                if old.get("original_price") != product["original_price"] or old.get("in_stock") != product["in_stock"]:
                     products_dict[url] = product
                     updated += 1
                     print(f"  💰 עודכן: {product['name']}")
