@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: התקנת Python
         uses: actions/setup-python@v5
@@ -30,10 +31,10 @@ jobs:
         run: python scrape_products.py
 
       - name: שמירת המוצרים
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "עדכון מוצרים אוטומטי"
-          file_pattern: "products.json progress.json all_urls.json"
-          commit_user_name: "אוטומציה"
-          commit_user_email: "bot@masoret-yehudit.co.il"
-          push_options: '--force'
+        run: |
+          git config user.name "אוטומציה"
+          git config user.email "bot@masoret-yehudit.co.il"
+          git pull --rebase origin main || true
+          git add products.json progress.json all_urls.json || true
+          git diff --staged --quiet || git commit -m "עדכון מוצרים אוטומטי"
+          git push --force origin main || true
