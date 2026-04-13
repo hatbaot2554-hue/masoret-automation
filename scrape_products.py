@@ -14,7 +14,6 @@ import time
 from datetime import datetime
 
 BASE_URL = "https://www.seferkodesh.co.il"
-PRICE_MARKUP = 1.15
 PRODUCTS_FILE = "products.json"
 PROGRESS_FILE = "progress.json"
 URLS_FILE = "all_urls.json"
@@ -40,6 +39,14 @@ def load_json(filename, default):
 def save_json(filename, data):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def calc_our_price(base):
+    """חישוב מחיר שלנו: בסיס + max(15%, 2₪), עיגול חכם"""
+    with_markup = base + max(base * 0.15, 2)
+    if with_markup < 20:
+        return round(with_markup * 2) / 2  # עיגול ל-0.5
+    return round(with_markup)  # עיגול לשלם
 
 
 def get_all_product_urls():
@@ -82,6 +89,17 @@ def get_all_product_urls():
     return urls_list
 
 
+def parse_price(el):
+    """מחלץ מספר מאלמנט HTML של מחיר"""
+    if not el:
+        return 0.0
+    text = el.get_text(strip=True).replace("₪", "").replace(",", "").replace("\xa0", "").strip()
+    try:
+        return float(text)
+    except:
+        return 0.0
+
+
 def scrape_product(url):
     try:
         res = requests.get(url, headers=HEADERS, timeout=15)
@@ -93,28 +111,28 @@ def scrape_product(url):
         if title_el:
             name = title_el.get_text(strip=True)
 
-        # מחיר — מנסה כמה selectors
-        price = 0.0
-        for selector in [
-            ".price ins .woocommerce-Price-amount",
-            ".price .woocommerce-Price-amount",
-            "p.price .amount",
-            ".summary .price .amount",
-        ]:
-            price_el = soup.select_one(selector)
-            if price_el:
-                price_text = price_el.get_text(strip=True)
-                price_text = price_text.replace("₪", "").replace(",", "").replace("\xa0", "").strip()
-                try:
-                    val = float(price_text)
-                    if val > 0:
-                        price = val
-                        break
-                except:
-                    continue
+        # מחיר — מבצע קודם, אחר כך רגיל
+        sale_price = 0.0
+        regular_price = 0.0
 
-        # דלג על מוצרים ללא מחיר תקין
-        if not name or price < 1:
+        sale_el = soup.select_one("p.price ins .woocommerce-Price-amount bdi")
+        regular_el = soup.select_one("p.price del .woocommerce-Price-amount bdi")
+
+        if sale_el:
+            sale_price = parse_price(sale_el)
+            regular_price = parse_price(regular_el) if regular_el else sale_price
+        else:
+            # אין מבצע — מחיר רגיל בלבד
+            price_el = soup.select_one("p.price .woocommerce-Price-amount bdi")
+            if not price_el:
+                price_el = soup.select_one(".woocommerce-Price-amount bdi")
+            regular_price = parse_price(price_el)
+            sale_price = regular_price
+
+        # המחיר הנוכחי שאנחנו משלמים = מחיר המבצע (או רגיל אם אין מבצע)
+        current_price = sale_price if sale_price > 0 else regular_price
+
+        if not name or current_price < 1:
             return None
 
         # תיאור
@@ -143,18 +161,13 @@ def scrape_product(url):
             if any(word in stock_text for word in ["אזל", "חסר", "out of stock", "Out of stock"]):
                 in_stock = False
 
-        # חישוב מחיר עם תוספת 15% ועיגול
-        marked_price = price * PRICE_MARKUP
-        if marked_price > 10:
-            marked_price = round(marked_price)
-        else:
-            marked_price = round(marked_price, 2)
-
         return {
             "url": url,
             "name": name,
-            "original_price": round(price, 2),
-            "price": marked_price,
+            "original_price": round(current_price, 2),   # מחיר נוכחי (כולל מבצע)
+            "regular_price": round(regular_price, 2),    # מחיר רגיל (ללא מבצע)
+            "price": calc_our_price(current_price),       # מחיר שלנו ללקוח
+            "regular_our_price": calc_our_price(regular_price),  # מחיר שלנו ללא מבצע (לפס המחוק)
             "description": description,
             "image": image,
             "category": category,
