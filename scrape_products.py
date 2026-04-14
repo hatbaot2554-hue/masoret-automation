@@ -45,8 +45,8 @@ def calc_our_price(base):
     """חישוב מחיר שלנו: בסיס + max(15%, 2₪), עיגול חכם"""
     with_markup = base + max(base * 0.15, 2)
     if with_markup < 20:
-        return round(with_markup * 2) / 2  # עיגול ל-0.5
-    return round(with_markup)  # עיגול לשלם
+        return round(with_markup * 2) / 2
+    return round(with_markup)
 
 
 def get_all_product_urls():
@@ -90,7 +90,6 @@ def get_all_product_urls():
 
 
 def parse_price(el):
-    """מחלץ מספר מאלמנט HTML של מחיר"""
     if not el:
         return 0.0
     text = el.get_text(strip=True).replace("₪", "").replace(",", "").replace("\xa0", "").strip()
@@ -111,41 +110,69 @@ def scrape_product(url):
         if title_el:
             name = title_el.get_text(strip=True)
 
-        # מחיר — מבצע קודם, אחר כך רגיל
+        # מחיר
         sale_price = 0.0
         regular_price = 0.0
-
         sale_el = soup.select_one("p.price ins .woocommerce-Price-amount bdi")
         regular_el = soup.select_one("p.price del .woocommerce-Price-amount bdi")
-
         if sale_el:
             sale_price = parse_price(sale_el)
             regular_price = parse_price(regular_el) if regular_el else sale_price
         else:
-            # אין מבצע — מחיר רגיל בלבד
             price_el = soup.select_one("p.price .woocommerce-Price-amount bdi")
             if not price_el:
                 price_el = soup.select_one(".woocommerce-Price-amount bdi")
             regular_price = parse_price(price_el)
             sale_price = regular_price
 
-        # המחיר הנוכחי שאנחנו משלמים = מחיר המבצע (או רגיל אם אין מבצע)
         current_price = sale_price if sale_price > 0 else regular_price
 
         if not name or current_price < 1:
             return None
 
-        # תיאור
+        # מק"ט (SKU)
+        sku = ""
+        sku_el = soup.select_one(".sku_wrapper .sku, span.sku")
+        if sku_el:
+            sku = sku_el.get_text(strip=True)
+
+        # מזהה מוצר מהאתר הקיים (חיוני לשליחת הזמנה)
+        product_id = ""
+        add_to_cart = soup.select_one("button.single_add_to_cart_button, [name='add-to-cart']")
+        if add_to_cart:
+            product_id = add_to_cart.get("value", "")
+        if not product_id:
+            form = soup.select_one("form.cart")
+            if form:
+                product_id = form.get("data-product_id", "")
+
+        # תיאור קצר
         description = ""
-        desc_el = soup.select_one("div.woocommerce-product-details__short-description, div#tab-description")
+        desc_el = soup.select_one("div.woocommerce-product-details__short-description")
         if desc_el:
             description = desc_el.get_text(separator=" ", strip=True)[:500]
 
-        # תמונה
+        # תיאור מלא (לשונית)
+        full_description = ""
+        full_desc_el = soup.select_one("div#tab-description div.woocommerce-Tabs-panel--description, div.entry-content")
+        if full_desc_el:
+            full_description = full_desc_el.get_text(separator=" ", strip=True)[:2000]
+
+        # תמונה ראשית
         image = ""
         img_el = soup.select_one("div.woocommerce-product-gallery img, .wp-post-image")
         if img_el:
             image = img_el.get("src", img_el.get("data-src", ""))
+
+        # כל התמונות בגלריה
+        images = []
+        gallery_imgs = soup.select("div.woocommerce-product-gallery__image img, figure.woocommerce-product-gallery__image img")
+        for img in gallery_imgs:
+            src = img.get("data-large_image") or img.get("data-src") or img.get("src", "")
+            if src and src not in images:
+                images.append(src)
+        if not images and image:
+            images = [image]
 
         # קטגוריה
         category = ""
@@ -153,31 +180,110 @@ def scrape_product(url):
         if cat_el:
             category = cat_el.get_text(strip=True)
 
-        # זמינות מלאי
+        # כל הקטגוריות
+        categories = []
+        cat_els = soup.select("span.posted_in a")
+        for c in cat_els:
+            t = c.get_text(strip=True)
+            if t:
+                categories.append(t)
+
+        # תגיות
+        tags = []
+        tag_els = soup.select("span.tagged_as a")
+        for t in tag_els:
+            tags.append(t.get_text(strip=True))
+
+        # מלאי
         in_stock = True
+        stock_text_display = ""
         stock_el = soup.select_one("p.stock, .stock")
         if stock_el:
             stock_text = stock_el.get_text(strip=True)
+            stock_text_display = stock_text
             if any(word in stock_text for word in ["אזל", "חסר", "out of stock", "Out of stock"]):
                 in_stock = False
 
+        # וריאציות / אופציות (למוצרים עם לשוניות כמו כריכה, צבע וכו')
+        variations = []
+        variation_data = soup.select_one("form.variations_form")
+        if variation_data:
+            raw = variation_data.get("data-product_variations", "")
+            if raw:
+                try:
+                    var_list = json.loads(raw)
+                    for v in var_list:
+                        var_price = v.get("display_price", 0)
+                        var_regular = v.get("display_regular_price", var_price)
+                        var_attrs = v.get("attributes", {})
+                        var_image = ""
+                        if v.get("image", {}).get("src"):
+                            var_image = v["image"]["src"]
+                        variations.append({
+                            "variation_id": v.get("variation_id", ""),
+                            "sku": v.get("sku", ""),
+                            "attributes": var_attrs,
+                            "original_price": round(float(var_price), 2),
+                            "regular_price": round(float(var_regular), 2),
+                            "price": calc_our_price(float(var_price)),
+                            "regular_our_price": calc_our_price(float(var_regular)),
+                            "in_stock": v.get("is_in_stock", True),
+                            "image": var_image,
+                        })
+                except:
+                    pass
+
+        # שמות האופציות (למשל: "כריכה", "צבע")
+        attribute_labels = {}
+        select_els = soup.select("table.variations tr")
+        for row in select_els:
+            label_el = row.select_one("label")
+            select_el = row.select_one("select")
+            if label_el and select_el:
+                label = label_el.get_text(strip=True)
+                name_attr = select_el.get("name", "")
+                attribute_labels[name_attr] = label
+
         return {
             "url": url,
+            "product_id": product_id,
+            "sku": sku,
             "name": name,
-            "original_price": round(current_price, 2),   # מחיר נוכחי (כולל מבצע)
-            "regular_price": round(regular_price, 2),    # מחיר רגיל (ללא מבצע)
-            "price": calc_our_price(current_price),       # מחיר שלנו ללקוח
-            "regular_our_price": calc_our_price(regular_price),  # מחיר שלנו ללא מבצע (לפס המחוק)
+            "original_price": round(current_price, 2),
+            "regular_price": round(regular_price, 2),
+            "price": calc_our_price(current_price),
+            "regular_our_price": calc_our_price(regular_price),
             "description": description,
+            "full_description": full_description,
             "image": image,
+            "images": images,
             "category": category,
+            "categories": categories,
+            "tags": tags,
             "in_stock": in_stock,
+            "stock_text": stock_text_display,
+            "variations": variations,
+            "attribute_labels": attribute_labels,
             "last_updated": datetime.now().isoformat(),
         }
 
     except Exception as e:
         print(f"  שגיאה: {e}")
         return None
+
+
+def products_are_different(old, new):
+    """בודק האם יש שינוי כלשהו בין המוצר הישן לחדש"""
+    fields_to_check = [
+        "name", "original_price", "regular_price", "price", "regular_our_price",
+        "description", "full_description", "image", "images", "category",
+        "categories", "tags", "in_stock", "stock_text", "variations",
+        "attribute_labels", "sku", "product_id"
+    ]
+    for field in fields_to_check:
+        if old.get(field) != new.get(field):
+            return True, field
+    return False, None
 
 
 def main():
@@ -202,11 +308,13 @@ def main():
             product = scrape_product(url)
             if product:
                 old = products_dict.get(url, {})
-                if old.get("original_price") != product["original_price"] or old.get("in_stock") != product["in_stock"]:
+                changed, field = products_are_different(old, product)
+                if changed:
                     products_dict[url] = product
                     updated += 1
-                    print(f"  💰 עודכן: {product['name']}")
+                    print(f"  🔄 עודכן [{field}]: {product['name']}")
             time.sleep(0.5)
+
         save_json(PRODUCTS_FILE, list(products_dict.values()))
         print(f"\n✅ עדכון הושלם — {updated} מוצרים שונו")
         return
