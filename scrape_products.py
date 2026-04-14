@@ -42,7 +42,6 @@ def save_json(filename, data):
 
 
 def calc_our_price(base):
-    """חישוב מחיר שלנו: בסיס + max(15%, 2₪), עיגול חכם"""
     with_markup = base + max(base * 0.15, 2)
     if with_markup < 20:
         return round(with_markup * 2) / 2
@@ -130,13 +129,13 @@ def scrape_product(url):
         if not name or current_price < 1:
             return None
 
-        # מק"ט (SKU)
+        # מק"ט
         sku = ""
         sku_el = soup.select_one(".sku_wrapper .sku, span.sku")
         if sku_el:
             sku = sku_el.get_text(strip=True)
 
-        # מזהה מוצר מהאתר הקיים (חיוני לשליחת הזמנה)
+        # מזהה מוצר
         product_id = ""
         add_to_cart = soup.select_one("button.single_add_to_cart_button, [name='add-to-cart']")
         if add_to_cart:
@@ -152,7 +151,7 @@ def scrape_product(url):
         if desc_el:
             description = desc_el.get_text(separator=" ", strip=True)[:500]
 
-        # תיאור מלא (לשונית)
+        # תיאור מלא
         full_description = ""
         full_desc_el = soup.select_one("div#tab-description div.woocommerce-Tabs-panel--description, div.entry-content")
         if full_desc_el:
@@ -164,7 +163,7 @@ def scrape_product(url):
         if img_el:
             image = img_el.get("src", img_el.get("data-src", ""))
 
-        # כל התמונות בגלריה
+        # גלריית תמונות
         images = []
         gallery_imgs = soup.select("div.woocommerce-product-gallery__image img, figure.woocommerce-product-gallery__image img")
         for img in gallery_imgs:
@@ -174,16 +173,39 @@ def scrape_product(url):
         if not images and image:
             images = [image]
 
-        # קטגוריה
+        # קטגוריות מ-breadcrumb — הורה + ילד
+        parent_category = ""
+        child_category = ""
         category = ""
-        cat_el = soup.select_one("span.posted_in a, .woocommerce-breadcrumb a:last-child")
-        if cat_el:
-            category = cat_el.get_text(strip=True)
+
+        breadcrumb_links = soup.select(".woocommerce-breadcrumb a, nav.woocommerce-breadcrumb a")
+        # מסנן רק קישורים שמכילים /product-category/
+        cat_links = [a for a in breadcrumb_links if "/product-category/" in a.get("href", "")]
+
+        if len(cat_links) >= 2:
+            parent_category = cat_links[-2].get_text(strip=True)
+            child_category = cat_links[-1].get_text(strip=True)
+            category = child_category
+        elif len(cat_links) == 1:
+            parent_category = cat_links[0].get_text(strip=True)
+            child_category = ""
+            category = parent_category
+        else:
+            # fallback — posted_in
+            cat_els = soup.select("span.posted_in a")
+            all_cats = [c.get_text(strip=True) for c in cat_els if c.get_text(strip=True)]
+            if len(all_cats) >= 2:
+                parent_category = all_cats[0]
+                child_category = all_cats[-1]
+                category = child_category
+            elif len(all_cats) == 1:
+                parent_category = all_cats[0]
+                category = parent_category
 
         # כל הקטגוריות
         categories = []
-        cat_els = soup.select("span.posted_in a")
-        for c in cat_els:
+        cat_els_all = soup.select("span.posted_in a")
+        for c in cat_els_all:
             t = c.get_text(strip=True)
             if t:
                 categories.append(t)
@@ -204,7 +226,7 @@ def scrape_product(url):
             if any(word in stock_text for word in ["אזל", "חסר", "out of stock", "Out of stock"]):
                 in_stock = False
 
-        # וריאציות / אופציות (למוצרים עם לשוניות כמו כריכה, צבע וכו')
+        # וריאציות
         variations = []
         variation_data = soup.select_one("form.variations_form")
         if variation_data:
@@ -233,7 +255,7 @@ def scrape_product(url):
                 except:
                     pass
 
-        # שמות האופציות (למשל: "כריכה", "צבע")
+        # שמות האופציות
         attribute_labels = {}
         select_els = soup.select("table.variations tr")
         for row in select_els:
@@ -258,6 +280,8 @@ def scrape_product(url):
             "image": image,
             "images": images,
             "category": category,
+            "parent_category": parent_category,
+            "child_category": child_category,
             "categories": categories,
             "tags": tags,
             "in_stock": in_stock,
@@ -273,12 +297,11 @@ def scrape_product(url):
 
 
 def products_are_different(old, new):
-    """בודק האם יש שינוי כלשהו בין המוצר הישן לחדש"""
     fields_to_check = [
         "name", "original_price", "regular_price", "price", "regular_our_price",
         "description", "full_description", "image", "images", "category",
-        "categories", "tags", "in_stock", "stock_text", "variations",
-        "attribute_labels", "sku", "product_id"
+        "parent_category", "child_category", "categories", "tags", "in_stock",
+        "stock_text", "variations", "attribute_labels", "sku", "product_id"
     ]
     for field in fields_to_check:
         if old.get(field) != new.get(field):
