@@ -4,6 +4,7 @@ scrape_products.py
 רץ כל יום דרך GitHub Actions.
 סורק את seferkodesh.co.il, מזהה מוצרים חדשים ושינויים,
 ושומר הכל בקובץ products.json שמשמש את האתר החדש.
+גם סורק את תפריט האתר ושומר ל-categories.json.
 """
 
 import requests
@@ -17,6 +18,7 @@ BASE_URL = "https://www.seferkodesh.co.il"
 PRODUCTS_FILE = "products.json"
 PROGRESS_FILE = "progress.json"
 URLS_FILE = "all_urls.json"
+CATEGORIES_FILE = "categories.json"
 BATCH_SIZE = 500
 MAX_MINUTES = 300
 
@@ -46,6 +48,62 @@ def calc_our_price(base):
     if with_markup < 20:
         return round(with_markup * 2) / 2
     return round(with_markup)
+
+
+def scrape_categories():
+    """סורק את תפריט האתר ומחזיר רשימת קטגוריות ראשיות עם תתי קטגוריות"""
+    print("📂 סורק תפריט קטגוריות...")
+    try:
+        res = requests.get(BASE_URL, headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        categories = []
+        seen_parents = set()
+
+        # מחפש פריטי תפריט עם תפריט משנה
+        menu_items = soup.select("li.menu-item-has-children")
+
+        for item in menu_items:
+            # שם הקטגוריה הראשית
+            parent_link = item.find("a", recursive=False)
+            if not parent_link:
+                continue
+            parent_name = parent_link.get_text(strip=True)
+
+            # מסנן כפילויות
+            if parent_name in seen_parents:
+                continue
+            seen_parents.add(parent_name)
+
+            # תתי קטגוריות
+            sub_menu = item.find("ul", class_="sub-menu")
+            children = []
+            if sub_menu:
+                seen_children = set()
+                for child_link in sub_menu.find_all("a"):
+                    child_name = child_link.get_text(strip=True)
+                    if child_name and child_name not in seen_children:
+                        seen_children.add(child_name)
+                        children.append(child_name)
+
+            # שומר רק קטגוריות עם תתי קטגוריות
+            if children:
+                categories.append({
+                    "parent": parent_name,
+                    "children": children
+                })
+
+        if categories:
+            save_json(CATEGORIES_FILE, categories)
+            print(f"✅ נשמרו {len(categories)} קטגוריות ראשיות")
+        else:
+            print("⚠️ לא נמצאו קטגוריות — שומר קובץ קיים")
+
+        return categories
+
+    except Exception as e:
+        print(f"❌ שגיאה בסריקת קטגוריות: {e}")
+        return load_json(CATEGORIES_FILE, [])
 
 
 def get_all_product_urls():
@@ -173,13 +231,12 @@ def scrape_product(url):
         if not images and image:
             images = [image]
 
-        # קטגוריות מ-breadcrumb — הורה + ילד
+        # קטגוריות מ-breadcrumb
         parent_category = ""
         child_category = ""
         category = ""
 
         breadcrumb_links = soup.select(".woocommerce-breadcrumb a, nav.woocommerce-breadcrumb a")
-        # מסנן רק קישורים שמכילים /product-category/
         cat_links = [a for a in breadcrumb_links if "/product-category/" in a.get("href", "")]
 
         if len(cat_links) >= 2:
@@ -191,7 +248,6 @@ def scrape_product(url):
             child_category = ""
             category = parent_category
         else:
-            # fallback — posted_in
             cat_els = soup.select("span.posted_in a")
             all_cats = [c.get_text(strip=True) for c in cat_els if c.get_text(strip=True)]
             if len(all_cats) >= 2:
@@ -312,6 +368,9 @@ def products_are_different(old, new):
 def main():
     start_time = datetime.now()
     print(f"🔍 מתחיל סריקה — {start_time.strftime('%d/%m/%Y %H:%M')}")
+
+    # ✅ סריקת תפריט קטגוריות בכל ריצה
+    scrape_categories()
 
     products = load_json(PRODUCTS_FILE, [])
     products_dict = {p["url"]: p for p in products}
