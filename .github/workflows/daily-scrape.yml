@@ -55,3 +55,30 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DASHBOARD_API_URL: https://masoret-dashboard.vercel.app
         run: python check_stock.py
+
+  auto_orders:
+    runs-on: ubuntu-latest
+    needs: scrape
+    steps:
+      - name: הורדת הקוד
+        uses: actions/checkout@v4
+
+      - name: התקנת Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: התקנת ספריות
+        run: |
+          pip install requests playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: עיבוד הזמנות אוטומטי
+        env:
+          SOURCE_EMAIL: ${{ secrets.SOURCE_EMAIL }}
+          SOURCE_PASSWORD: ${{ secrets.SOURCE_PASSWORD }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DASHBOARD_API_URL: https://masoret-dashboard.vercel.app
+          OWNER_EMAIL: hatbaot2554@gmail.com
+        run: python auto_order.py
