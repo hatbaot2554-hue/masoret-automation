@@ -2262,8 +2262,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_8e70094472f74e0ab4286f6a5dbcb865mv2.jpeg"
     ],
-    "category": "סידורים",
-    "parent_category": "סידורים",
+    "category": "ספרי קבלה",
+    "parent_category": "ספרי קבלה",
     "child_category": "",
     "categories": [
       "סידורים",
@@ -2275,7 +2275,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:11:49.830167"
+    "last_updated": "2026-04-28T10:37:04.759651"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%94%d7%a4%d7%a8%d7%a9%d7%aa-%d7%97%d7%9c%d7%94-4/",
@@ -3125,8 +3125,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/08/ספק-דברים-חום-e1753602761276-768x924-1.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/08/ספר-דברים-בז-e1753602781395-768x897-1.jpeg"
     ],
-    "category": "תהילים",
-    "parent_category": "תהילים",
+    "category": "ספר דברים",
+    "parent_category": "ספר דברים",
     "child_category": "",
     "categories": [
       "סידור בד",
@@ -3180,7 +3180,7 @@
     "attribute_labels": {
       "attribute_%d7%a6%d7%91%d7%a2": "צבע"
     },
-    "last_updated": "2026-04-27T10:38:51.042951"
+    "last_updated": "2026-04-28T10:38:37.322099"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%9e%d7%a9%d7%94-%d7%97%d7%95%d7%9e%d7%a9%d7%99-%d7%aa%d7%95%d7%a8%d7%94%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%9b%d7%99%d7%a1%d7%91%d7%9b%d7%a8%d7%99%d7%9b%d7%aa-%d7%93%d7%9e%d7%95%d7%99/",
@@ -6381,8 +6381,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_9c2abbd44eac46d88765459ca6b69754mv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_7339e4929ec1471090eff902ee4604f4mv2.jpg"
     ],
-    "category": "ספרי מרן הרב עובדיה",
-    "parent_category": "ספרי מרן הרב עובדיה",
+    "category": "שאלות ותשובות",
+    "parent_category": "שאלות ותשובות",
     "child_category": "",
     "categories": [
       "ספרי מרן הרב עובדיה",
@@ -6394,7 +6394,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T10:45:03.579892"
+    "last_updated": "2026-04-28T10:44:38.448391"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%9e%d7%a2-%d7%94%d7%90%d7%a9-%d7%a9%d7%9c%d7%99-%d7%9e%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99/",
@@ -10301,8 +10301,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_f1bc27714f7c4a36a3da5ddebd473cdfmv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_3ef0a4ac60954662aae376e7812f7612mv2.png"
     ],
-    "category": "פורים",
-    "parent_category": "פורים",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "ספרי חסידות שונים",
@@ -10314,7 +10314,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T10:52:15.045154"
+    "last_updated": "2026-04-28T10:51:50.045612"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9e%d7%a0%d7%97%d7%94-%d7%a2%d7%a8%d7%91%d7%99%d7%aa-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-1014/",
@@ -16796,7 +16796,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-%d7%9e%d7%99%d7%9c%d7%aa%d7%90-%d7%97%d7%93%d7%aa%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "48824",
+    "product_id": "",
     "sku": "711346",
     "name": "הגדה של פסח מילתא חדתא / עוז והדר",
     "original_price": 47.0,
@@ -16817,11 +16817,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:21:47.606760"
+    "last_updated": "2026-04-28T11:03:10.321319"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/copy-of-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9e%d7%95%d7%a6%d7%9c%d7%97%d7%99%d7%9d-%d7%94%d7%a8%d7%91-%d7%a9%d7%9c%d7%95%d7%9d-%d7%90%d7%a8%d7%95%d7%a99/",
@@ -16839,8 +16839,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/04/ba609e_d0df4b3f679944568117d2d543de8d4emv2.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/04/ba609e_24a24e181dd542ddac7c3c8466801812mv2.jpeg"
     ],
-    "category": "ספרי הרב שלום ארוש",
-    "parent_category": "ספרי הרב שלום ארוש",
+    "category": "ספרי אמונה",
+    "parent_category": "ספרי אמונה",
     "child_category": "",
     "categories": [
       "חינוך",
@@ -16853,7 +16853,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T11:03:51.664512"
+    "last_updated": "2026-04-28T11:03:13.314228"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%9e%d7%a1%d7%9b%d7%aa-%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -19051,8 +19051,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_8a0df942428a4d70baab8367b62d5101mv2.jpg"
     ],
-    "category": "ספרי הרב רונן חזיזה",
-    "parent_category": "ספרי הרב רונן חזיזה",
+    "category": "שאלות ותשובות",
+    "parent_category": "שאלות ותשובות",
     "child_category": "",
     "categories": [
       "חיזוק לבת ישראל",
@@ -19065,7 +19065,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T11:07:57.965840"
+    "last_updated": "2026-04-28T11:07:10.491669"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%9e%d7%95%d7%98%d7%99%d7%9d-%d7%9c%d7%a9%d7%91%d7%aa-%d7%93%d7%92%d7%9d-%d7%a8%d7%91%d7%99-%d7%9e%d7%90%d7%99%d7%a8-%d7%91%d7%a2%d7%9c-%d7%94%d7%a0%d7%a1/",
@@ -19278,9 +19278,9 @@
     "product_id": "40842",
     "sku": "523600",
     "name": "סט אבות מתיבתא (6 כרכים) / עוז והדר",
-    "original_price": 295.0,
+    "original_price": 155.0,
     "regular_price": 315.0,
-    "price": 339,
+    "price": 178,
     "regular_our_price": 362,
     "description": "סט \"אבות מתיבתא\" (6 כרכים) – יצירת המופת מבית עוז והדר. המהדורה המקיפה והמבוארת ביותר למסכת אבות, הכוללת ביאור משולב, ילקוט ביאורים, פניני הלכה ואגדה, וכל עזרי הלימוד של סדרת \"מתיבתא\" המפורסמת.",
     "full_description": "תיאור הלימוד המושלם במסכת אבות – מהדורת \"מתיבתא\" רוצים להבין כל משנה במסכת אבות לעומקה, לרוחבה ולכל פרטיה? סט \"אבות מתיבתא\" (6 כרכים) של \"עוז והדר\" הוא בדיוק מה שאתם צריכים. סדרת \"מתיבתא\" חוללה מהפכה בעולם הלימוד, וכעת היא מוגשת לכם על מסכת אבות בהיקף חסר תקדים. אוצרות הלימוד במהדורת מתיבתא: ביאור מתיבתא: ביאור משולב, בהיר וקולח בתוך דברי המשנה, המנגיש את ההבנה הפשוטה והברורה ביותר. ילקוט ביאורים: אוצר עצום של הרחבות, עיונים, קושיות ותירוצים מתוך מאות ספרי מפרשים, ראשונים ואחרונים. פניני הלכה ואגדה: מדור מיוחד המקשר את דברי המשנה להלכה למעשה ולדברי אגדה ומוסר מתוקים מדבש. עימוד מרהיב: כל מדורי הספר מסודרים בצורה מופתית סביב טקסט המשנה, בעימוד מאיר עיניים המאפיין את הוצאת עוז והדר. בין אם אתם לומדים בחברותא, מכינים שיעור או לומדים לעצמכם – סט אבות מתיבתא יעניק לכם חוויית לימוד עשירה ומרתקת. הזמינו את הסט המלא עכשיו!",
@@ -19295,6 +19295,7 @@
     "child_category": "",
     "categories": [
       "ביאורים על פרקי אבות",
+      "מבצעים לוהטים",
       "עוז והדר"
     ],
     "tags": [],
@@ -19302,7 +19303,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:26:10.602474"
+    "last_updated": "2026-04-28T11:07:37.125126"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%95%d7%97-%d7%97%d7%99%d7%99%d7%9d/",
@@ -19380,8 +19381,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/80bc6c_61af22e6cc3344ef9f202b38585cc225mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/80bc6c_43d6e152808d4d8a85849e35364bc374mv2.png"
     ],
-    "category": "קיצור שולחן ערוך",
-    "parent_category": "קיצור שולחן ערוך",
+    "category": "ספרי מרן הרב עובדיה",
+    "parent_category": "ספרי מרן הרב עובדיה",
     "child_category": "",
     "categories": [
       "ספרי מרן הרב עובדיה",
@@ -19393,7 +19394,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T11:08:34.482843"
+    "last_updated": "2026-04-28T11:07:46.373218"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-1217-3/",
@@ -19546,9 +19547,9 @@
     "product_id": "42656",
     "sku": "527643",
     "name": "תיקוני הזוהר המבוארים 9 כרכים / עוז והדר",
-    "original_price": 690.0,
+    "original_price": 495.0,
     "regular_price": 780.0,
-    "price": 794,
+    "price": 569,
     "regular_our_price": 897,
     "description": "",
     "full_description": "תיאור הסט כולל 9 כרכים: תיקוני הזוהר חלק א (הקדמה), תיקוני הזוהר חלק ב (א'-י\"ז), תיקוני הזוהר חלק ג (י\"ח-י\"ט), תיקוני הזוהר חלק ד (כ'-כ\"א), תיקוני הזוהר חלק ה (כ\"ב-מ'), תיקוני הזוהר חלק ו (מ\"א-ס\"ו), תיקוני הזוהר חלק ז (ס\"ט), תיקוני הזוהר חלק ח (ע), חלק ט (השמטות) . 'זוהר הקדוש' ערוך מחדש, מוגה ומזוקק בדקדוק רב עפ\"י דפוסים ישנים. מבואר עם ביאור נכון ומדויק, בשפה ברורה ונעימה, המשולב בתוך תיבות הזוהר הק'. הביאור נערך עפ\"י מפרשי הזוהר, עם הערות וציונים רבים, הפניות לפירושים רבים אחרים, להרחבת העניינים ולתועלת הבנת הלומדים.",
@@ -19567,6 +19568,7 @@
     "child_category": "",
     "categories": [
       "זוהר המבואר",
+      "מבצעים לוהטים",
       "עוז והדר"
     ],
     "tags": [],
@@ -19574,7 +19576,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:26:39.225366"
+    "last_updated": "2026-04-28T11:08:05.942685"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%9d-%d7%9e%d7%9c%d7%95%d7%9b%d7%94-17-%d7%a1%d7%9e-%d7%90%d7%a4%d7%95%d7%a8/",
@@ -20728,7 +20730,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%99%d7%a7%d7%95%d7%a0%d7%99-%d7%94%d7%96%d7%95%d7%94%d7%a8-%d7%97%d7%9c%d7%a7-%d7%90-%d7%94%d7%a7%d7%93%d7%9e%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "41956",
+    "product_id": "",
     "sku": "527621",
     "name": "תיקוני הזוהר חלק א (הקדמה) / עוז והדר",
     "original_price": 78.0,
@@ -20751,11 +20753,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:28:57.038298"
+    "last_updated": "2026-04-28T11:10:15.838122"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%90%d7%95%d7%a8-%d7%94%d7%9b%d7%95%d7%95%d7%a0%d7%95%d7%aa-%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%94%d7%a0%d7%94%d7%a0%d7%99%d7%9f-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -22439,7 +22441,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%91%d7%99%d7%aa-%d7%9b%d7%a0%d7%a1%d7%aa-21-%d7%a1%d7%9e-%d7%90%d7%a9%d7%9b%d7%a0%d7%96-%d7%a2%d7%9d-%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d/",
-    "product_id": "42736",
+    "product_id": "",
     "sku": "715213",
     "name": "סידור בית כנסת (21 ס\"מ) אשכנז עם תהילים",
     "original_price": 34.0,
@@ -22462,11 +22464,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:32:12.819451"
+    "last_updated": "2026-04-28T11:13:24.890529"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%aa-%d7%9e%d7%9c%d7%9a-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%97%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c9/",
@@ -23037,8 +23039,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_c9d9906839434b069701d662638d9e95mv2.jpeg"
     ],
-    "category": "הלכה",
-    "parent_category": "הלכה",
+    "category": "ספרי הלכה מפוסקי זמננו",
+    "parent_category": "ספרי הלכה מפוסקי זמננו",
     "child_category": "",
     "categories": [
       "הלכה",
@@ -23050,7 +23052,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T11:15:40.530556"
+    "last_updated": "2026-04-28T11:14:30.132429"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a0%d7%93%d7%a8%d7%99%d7%9d-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%9e%d7%90%d7%95%d7%a8%d7%95%d7%aa-%d7%93%d7%a3-%d7%94%d7%99%d7%95%d7%9e%d7%99-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -23097,8 +23099,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/5720292.jpg"
     ],
-    "category": "ספרי חסידות שונים",
-    "parent_category": "ספרי חסידות שונים",
+    "category": "חב\"ד",
+    "parent_category": "חב\"ד",
     "child_category": "",
     "categories": [
       "חב\"ד",
@@ -23110,7 +23112,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:33:24.925115"
+    "last_updated": "2026-04-28T11:14:36.949725"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a7%d7%95%d7%9c-%d7%a8%d7%99%d7%a0%d7%94-%d7%95%d7%99%d7%a9%d7%95%d7%a2%d7%94-%d7%9c%d7%97%d7%95%d7%9c-%d7%9e%d7%a2%d7%95%d7%a8-%d7%9e%d7%94%d7%95%d7%93%d7%a8-2/",
@@ -26653,8 +26655,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-01-at-19.33.00.jpeg"
     ],
-    "category": "ספרי אמונה",
-    "parent_category": "ספרי אמונה",
+    "category": "ספרי מוסר",
+    "parent_category": "ספרי מוסר",
     "child_category": "",
     "categories": [
       "ספרי אמונה",
@@ -26665,7 +26667,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:57:12.401595"
+    "last_updated": "2026-04-28T11:21:09.795790"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%98%d7%9c%d7%94-%d7%a7%d7%98%d7%a0%d7%94-%d7%93%d7%92%d7%9d-%d7%a2%d7%99%d7%98%d7%95%d7%a8%d7%99%d7%9d/",
@@ -28819,7 +28821,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a7%d7%99%d7%a6%d7%95%d7%a8-%d7%95%d7%a4%d7%a0%d7%99%d7%a0%d7%99-%d7%90%d7%9c%d7%a9%d7%99%d7%9a-%d7%a2%d7%94%d7%aa-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
-    "product_id": "40724",
+    "product_id": "",
     "sku": "558500",
     "name": "סט קיצור ופניני אלשיך עה\"ת (2 כרכים)",
     "original_price": 95.0,
@@ -28845,11 +28847,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:44:26.586078"
+    "last_updated": "2026-04-28T11:25:07.388992"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%90%d7%a8%d7%96-%d7%9e%d7%97%d7%96%d7%99%d7%a7%d7%99-%d7%9e%d7%a4%d7%aa%d7%97%d7%95%d7%aa-%d7%a9%d7%9e%d7%a2-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
@@ -29089,7 +29091,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%a0%d7%99%d7%90-%d7%91%d7%99%d7%90%d7%95%d7%a8-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%91-%d7%a4%d7%a8%d7%a7%d7%99%d7%9d-%d7%98-%d7%99%d7%96/",
-    "product_id": "42690",
+    "product_id": "",
     "sku": "557202",
     "name": "תניא ביאור משולב ב (פרקים ט-יז) / עוז והדר",
     "original_price": 78.0,
@@ -29115,11 +29117,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-15T08:44:55.303977"
+    "last_updated": "2026-04-28T11:25:36.953430"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%a1%d7%93%d7%a8-%d7%9e%d7%95%d7%a2%d7%93-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%a2%d7%95%d7%96/",
@@ -31601,8 +31603,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2026/01/מנחם-ציון-המפואר.png"
     ],
-    "category": "ספרי מוסר",
-    "parent_category": "ספרי מוסר",
+    "category": "נ\"ך מפורש",
+    "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
       "נ\"ך מפורש",
@@ -31614,7 +31616,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T11:32:05.206109"
+    "last_updated": "2026-04-28T11:30:09.171231"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%a1%d7%95%d7%98%d7%94-%d7%91%d7%95%d7%a8%d7%93%d7%95-%d7%9e%d7%a1%d7%95%d7%a8%d7%aa-%d7%94%d7%a9%d7%a1/",
@@ -33318,8 +33320,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-21.12.51-3.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "ספרי מהרח\"ו",
+    "parent_category": "ספרי מהרח\"ו",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -33332,7 +33334,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:25:06.776419"
+    "last_updated": "2026-04-28T11:33:15.990901"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a2%d7%99%d7%98%d7%95%d7%a8%d7%99%d7%9d-%d7%92%d7%93%d7%95%d7%9c-1422/",
@@ -38540,7 +38542,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%a8%d7%9a-%d7%99%d7%96-%d7%a9%d7%a1-%d7%aa%d7%9c%d7%9e%d7%95%d7%93%d7%95-%d7%91%d7%99%d7%93%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%96%d7%91%d7%97%d7%99%d7%9d-%d7%9e/",
-    "product_id": "42760",
+    "product_id": "",
     "sku": "112117",
     "name": "כרך יז ש\"ס תלמודו בידו כריכה קשה זבחים מנחות / עוז והדר",
     "original_price": 40.0,
@@ -38563,11 +38565,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:35:03.034262"
+    "last_updated": "2026-04-28T11:43:15.945784"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%a0%d7%99-%d7%9c%d7%95%d7%97%d7%95%d7%aa-%d7%94%d7%91%d7%a8%d7%99%d7%aa-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%93-%d7%95%d7%99%d7%a7%d7%a8/",
@@ -38765,8 +38767,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2026/02/2198.jpg"
     ],
-    "category": "גדולי הדורות",
-    "parent_category": "גדולי הדורות",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "גדולי הדורות",
@@ -38777,7 +38779,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T09:20:00.332536"
+    "last_updated": "2026-04-28T11:43:38.983731"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%99%d7%a1%d7%95%d7%93-%d7%94%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -39821,7 +39823,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a0%d7%99-%d7%99%d7%a9%d7%a9%d7%9b%d7%a8-%d7%94%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%95-%d7%a9%d7%91%d7%98-%d7%90%d7%93%d7%a8-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42003",
     "sku": "551906",
     "name": "בני יששכר המשולב ו – שבט אדר / עוז והדר",
     "original_price": 69.0,
@@ -39842,11 +39844,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:37:28.599770"
+    "last_updated": "2026-04-28T11:45:35.671640"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%94-%d7%a9%d7%91%d7%aa-%d7%92%d7%93%d7%95%d7%9c-24-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -41309,8 +41311,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_4daa54ae0c6a4c10b98bf2265725fcc7mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_54947d3bff474bb6b42f6506f7d895admv2.png"
     ],
-    "category": "משניות לתלמידים",
-    "parent_category": "משניות לתלמידים",
+    "category": "משניות כרכים בודדים",
+    "parent_category": "משניות כרכים בודדים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -41322,7 +41324,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T09:24:50.271367"
+    "last_updated": "2026-04-28T11:48:19.271204"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%93%d7%a8%d7%9b%d7%99-%d7%a0%d7%95%d7%a2%d7%9d-%d7%91%d7%91%d7%90-%d7%91%d7%aa%d7%a8%d7%90-%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -41572,8 +41574,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_c964f060f79c49f1910d2d277754304dmv2.png"
     ],
-    "category": "תהילים",
-    "parent_category": "תהילים",
+    "category": "סליחות",
+    "parent_category": "סליחות",
     "child_category": "",
     "categories": [
       "סליחות",
@@ -41585,7 +41587,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:41:04.552140"
+    "last_updated": "2026-04-28T11:48:48.394114"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%a8%d7%a7%d7%9e%d7%94-%d7%a4%d7%99%d7%95-16%d7%a1%d7%9e-%d7%9c%d7%91%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -41838,8 +41840,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/b2f4e01c-d778-4380-9f08-52dfaa4e2ea4.jpg"
     ],
-    "category": "ספרי הלכה מפוסקי זמננו",
-    "parent_category": "ספרי הלכה מפוסקי זמננו",
+    "category": "ספרי הרב מרדכי אליהו",
+    "parent_category": "ספרי הרב מרדכי אליהו",
     "child_category": "",
     "categories": [
       "ספרי הלכה מפוסקי זמננו",
@@ -41850,7 +41852,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:41:33.546249"
+    "last_updated": "2026-04-28T11:49:18.155863"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%95%d7%a6%d7%a8%d7%95%d7%aa-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%92%d7%93%d7%95%d7%9c-24-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -41989,8 +41991,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/3210433-1.jpg"
     ],
-    "category": "ספרי מוסר",
-    "parent_category": "ספרי מוסר",
+    "category": "ספרי מחשבה",
+    "parent_category": "ספרי מחשבה",
     "child_category": "",
     "categories": [
       "ספרי מוסר",
@@ -42001,7 +42003,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:41:49.920929"
+    "last_updated": "2026-04-28T11:49:34.571423"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a2%d7%a9%d7%94-%d7%90%d7%91%d7%95%d7%aa-%d7%a2%d7%9c-%d7%a4%d7%a8%d7%a7%d7%99-%d7%90%d7%91%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c/",
@@ -43078,8 +43080,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ba609e_9ded5f16adb141118803befd50e3cfe0mv2.webp"
     ],
-    "category": "פסח",
-    "parent_category": "פסח",
+    "category": "ספרי מרן הרב עובדיה",
+    "parent_category": "ספרי מרן הרב עובדיה",
     "child_category": "",
     "categories": [
       "הגדות לפסח",
@@ -43092,7 +43094,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T08:43:51.499113"
+    "last_updated": "2026-04-28T11:51:37.721413"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9c%d7%99%d7%a7%d7%95%d7%98%d7%99-%d7%aa%d7%95%d7%9c%d7%93%d7%95%d7%aa-%d7%99%d7%a2%d7%a7%d7%91-%d7%99%d7%95%d7%a1%d7%a3-%d7%aa%d7%a9%d7%a8%d7%99-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -44422,8 +44424,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/WhatsApp-Image-2025-05-22-at-14.36.32.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "מבוא לתורת הקבלה",
+    "parent_category": "מבוא לתורת הקבלה",
     "child_category": "",
     "categories": [
       "מבוא לתורת הקבלה",
@@ -44435,7 +44437,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T11:56:16.368878"
+    "last_updated": "2026-04-28T11:53:59.031823"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%92%d7%93%d7%95%d7%9c-1422-3/",
@@ -45693,7 +45695,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%a4%d7%a0%d7%99%d7%a0%d7%99-%d7%94%d7%97%d7%a1%d7%99%d7%93%d7%95%d7%aa-%d7%aa%d7%a4%d7%99%d7%9c%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "70337",
+    "product_id": "",
     "sku": "528198",
     "name": "אוצר פניני החסידות – תפילה / עוז והדר",
     "original_price": 72.0,
@@ -45714,11 +45716,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T10:36:25.202234"
+    "last_updated": "2026-04-28T11:56:15.661567"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%a7%d7%99%d7%93%d7%95%d7%a9-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%9c%d7%a9%d7%91%d7%aa%d7%95%d7%aa-%d7%95%d7%97%d7%92%d7%99%d7%9d-29/",
@@ -49839,7 +49841,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-15-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "41147",
+    "product_id": "",
     "sku": "711423",
     "name": "סידור שבועות כריכה רכה (15 ס\"מ) / עוז והדר",
     "original_price": 20.0,
@@ -49862,11 +49864,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T10:44:49.206757"
+    "last_updated": "2026-04-28T12:03:53.264594"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%95%d7%a9%d7%a8%d7%95%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%94%d7%9c%d7%9b%d7%aa%d7%99-%d7%9e%d7%a2%d7%a9%d7%99-%d7%9c%d7%9c%d7%99%d7%9e%d7%95%d7%93-%d7%9b%d7%a9%d7%a8%d7%95%d7%aa/",
@@ -50614,8 +50616,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_b87a3978d3e2456bb408ada9115ea8f7mv2.png"
     ],
-    "category": "נ\"ך לתלמידים",
-    "parent_category": "נ\"ך לתלמידים",
+    "category": "ספרי הרב רונן חזיזה",
+    "parent_category": "ספרי הרב רונן חזיזה",
     "child_category": "",
     "categories": [
       "נ\"ך לתלמידים",
@@ -50627,7 +50629,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:07:50.501388"
+    "last_updated": "2026-04-28T12:05:16.952537"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%a9%d7%aa-%d7%97%d7%99%d7%9c-%d7%a9%d7%9c%d7%99-29/",
@@ -50764,8 +50766,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/4f61f236-0832-49e0-a2e3-36191cf790be-1.jpg"
     ],
-    "category": "ספרי הרב מרדכי אליהו",
-    "parent_category": "ספרי הרב מרדכי אליהו",
+    "category": "קיצור שולחן ערוך",
+    "parent_category": "קיצור שולחן ערוך",
     "child_category": "",
     "categories": [
       "ספרי הרב מרדכי אליהו",
@@ -50776,7 +50778,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:08:07.138983"
+    "last_updated": "2026-04-28T12:05:33.386113"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%95%d7%94%d7%a8-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%95-%d7%95%d7%99%d7%a8%d7%90/",
@@ -51002,8 +51004,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_0af2cd43efcf471b8727468358630b7fmv2-rotated.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_2a783ff6f72041dabdad388645a449eemv2.png"
     ],
-    "category": "ספרי מרן הרב עובדיה",
-    "parent_category": "ספרי מרן הרב עובדיה",
+    "category": "ביאורים על פרקי אבות",
+    "parent_category": "ביאורים על פרקי אבות",
     "child_category": "",
     "categories": [
       "ביאורים על פרקי אבות",
@@ -51015,7 +51017,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T10:47:04.592923"
+    "last_updated": "2026-04-28T12:05:59.356545"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%91%d7%95%d7%aa-%d7%a2%d7%9d-%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -51769,8 +51771,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/1895-37.jpg"
     ],
-    "category": "נ\"ך מפורש",
-    "parent_category": "נ\"ך מפורש",
+    "category": "מפרשי התורה",
+    "parent_category": "מפרשי התורה",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -51781,7 +51783,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T10:48:36.423443"
+    "last_updated": "2026-04-28T12:07:33.343413"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%a8%d7%9b%d7%99%d7%90%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%94-%d7%aa%d7%a0%d7%9b%d7%99%d7%aa-%d7%91-%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f/",
@@ -52213,8 +52215,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_67584ff8b53e4e72bcd6ee6fe83940a4mv2.png"
     ],
-    "category": "פורים",
-    "parent_category": "פורים",
+    "category": "מחזורים",
+    "parent_category": "מחזורים",
     "child_category": "",
     "categories": [
       "מחזורים",
@@ -52226,7 +52228,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:10:52.493131"
+    "last_updated": "2026-04-28T12:08:21.773179"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%94%d7%a7%d7%99%d7%93%d7%95%d7%a9-%d7%9e%d7%a7%d7%93%d7%a9-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%95%d7%94%d7%96%d7%9e%d7%a0%d7%99%d7%9d-%d7%93%d7%92%d7%9d-%d7%aa%d7%97%d7%a8/",
@@ -54067,8 +54069,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/04/ba609e_7f049cfe76f747e3851ad1e0a4ca3c57mv2.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/04/ba609e_cfb2d2425bcc4997858161f57bb11d56mv2.jpeg"
     ],
-    "category": "ספרי הרב שלום ארוש",
-    "parent_category": "ספרי הרב שלום ארוש",
+    "category": "ספרי אמונה",
+    "parent_category": "ספרי אמונה",
     "child_category": "",
     "categories": [
       "ספרי אמונה",
@@ -54080,7 +54082,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:14:22.241761"
+    "last_updated": "2026-04-28T12:11:48.756168"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%98%d7%9c%d7%94-%d7%a7%d7%98%d7%a0%d7%94-%d7%93%d7%92%d7%9d-%d7%a4%d7%a8%d7%97-%d7%a4%d7%a2%d7%9e%d7%95%d7%9f/",
@@ -57810,8 +57812,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_c2bb5a2b1f4a44e0824e1053839500a8mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_2187e293eb5c4f509dc69e2f576aefd6mv2.png"
     ],
-    "category": "מגנטים",
-    "parent_category": "מגנטים",
+    "category": "ברכת אשר יצר",
+    "parent_category": "ברכת אשר יצר",
     "child_category": "",
     "categories": [
       "ברכת אשר יצר",
@@ -57823,7 +57825,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T11:00:32.782407"
+    "last_updated": "2026-04-28T12:18:33.035220"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%93%d7%a3-%d7%94%d7%99%d7%95%d7%9e%d7%99-12-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -57988,8 +57990,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/5720847-1.jpg"
     ],
-    "category": "בית המקדש",
-    "parent_category": "בית המקדש",
+    "category": "ספרים לילדים",
+    "parent_category": "ספרים לילדים",
     "child_category": "",
     "categories": [
       "בית המקדש",
@@ -58000,7 +58002,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:21:43.049531"
+    "last_updated": "2026-04-28T12:18:53.443652"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%94%d7%a0%d7%99%d7%a7%d7%95%d7%93-%d7%a9%d7%a2%d7%a8-%d7%94%d7%90%d7%95%d7%aa%d7%99%d7%95%d7%aa-%d7%95%d7%94%d7%a6%d7%99%d7%a8%d7%95%d7%a4%d7%99%d7%9d-%d7%a8%d7%91/",
@@ -61024,8 +61026,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/5220121.jpg"
     ],
-    "category": "ספרי מוסר",
-    "parent_category": "ספרי מוסר",
+    "category": "ספרי הרב שלום ארוש",
+    "parent_category": "ספרי הרב שלום ארוש",
     "child_category": "",
     "categories": [
       "ספרי הרב שלום ארוש",
@@ -61037,7 +61039,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:20:06.011228"
+    "last_updated": "2026-04-28T12:24:20.673986"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a0%d7%93%d7%a8%d7%99%d7%9d-%d7%91-%d7%99%d7%96-%d7%9c%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -62942,7 +62944,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%95%d7%a6%d7%a8%d7%95%d7%aa-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%91%d7%99%d7%a0%d7%95%d7%a0%d7%99-21-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42280",
     "sku": "513167",
     "name": "יוצרות מתיבתא בינוני (21 ס\"מ) / עוז והדר",
     "original_price": 50.0,
@@ -62965,11 +62967,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:23:52.161946"
+    "last_updated": "2026-04-28T12:27:53.257183"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%97%d7%99%d7%a0%d7%95%d7%aa-%d7%9e%d7%9c%d7%95%d7%9b%d7%94-17-%d7%a1%d7%9e-%d7%90%d7%a4%d7%95%d7%a8/",
@@ -64573,8 +64575,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_a030ea1ab7e148a2b9a9daa10ae3a277mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_7a87e82dca3f412cbaa7cabab257b65amv2.png"
     ],
-    "category": "תלמוד ירושלמי",
-    "parent_category": "תלמוד ירושלמי",
+    "category": "מפרשי הירושלמי",
+    "parent_category": "מפרשי הירושלמי",
     "child_category": "",
     "categories": [
       "מפרשי הירושלמי",
@@ -64586,7 +64588,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:33:49.683582"
+    "last_updated": "2026-04-28T12:30:49.119296"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%91%d7%91%d7%90-%d7%9e%d7%a6%d7%99%d7%a2%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%9e%d7%a4%d7%a8%d7%a9%d7%99%d7%9d-%d7%97%d7%95%d7%9d-%d7%a2%d7%95%d7%96/",
@@ -65194,8 +65196,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-26-at-12.09.29.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "מחזורים",
+    "parent_category": "מחזורים",
     "child_category": "",
     "categories": [
       "מחזורים",
@@ -65207,7 +65209,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:35:00.275569"
+    "last_updated": "2026-04-28T12:31:56.602284"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%97%d7%95%d7%9c%d7%99%d7%9f-%d7%96-%d7%a7%d7%99%d7%96-%d7%a7%d7%9e%d7%91-%d7%a2%d7%95%d7%96/",
@@ -65847,8 +65849,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_1f4f5b519b704535b0320f50de8eecfbmv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_d4b5aea02ef64a4f8a3b7dd9da7123b4mv2.jpg"
     ],
-    "category": "תפילת תודה",
-    "parent_category": "תפילת תודה",
+    "category": "תפילת תודה הפרשת חלה הדלקת נרות",
+    "parent_category": "תפילת תודה הפרשת חלה הדלקת נרות",
     "child_category": "",
     "categories": [
       "תפילת תודה",
@@ -65860,7 +65862,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:29:20.178740"
+    "last_updated": "2026-04-28T12:33:07.413994"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%99%d7%9c%d7%95%d7%98-%d7%9c%d7%91%d7%99%d7%aa-%d7%9b%d7%a0%d7%a1%d7%aa-%d7%a9%d7%95%d7%99%d7%aa%d7%99-%d7%94-%d7%9c%d7%a0%d7%92%d7%93%d7%99-%d7%aa%d7%9e%d7%99%d7%93/",
@@ -68022,7 +68024,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%90-%d7%91-%d7%99%d7%96-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
-    "product_id": "",
+    "product_id": "42657",
     "sku": "142101",
     "name": "גמרא מתיבתא פנינים ברכות א (ב-יז) / עוז והדר",
     "original_price": 95.0,
@@ -68043,11 +68045,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:33:28.478458"
+    "last_updated": "2026-04-28T12:37:08.069658"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9b%d7%95%d7%95%d7%a0%d7%95%d7%aa-%d7%94%d7%a8%d7%a9%d7%a9-%d7%98%d7%95-%d7%91%d7%a9%d7%91%d7%98-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -68066,8 +68068,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_63f0f8df89594462bd00486a2bfa862emv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_4b7f3aaacea44dd1b07c1ddc067760ffmv2.jpg"
     ],
-    "category": "סידורים",
-    "parent_category": "סידורים",
+    "category": "ט\"ו בשבט",
+    "parent_category": "ט\"ו בשבט",
     "child_category": "",
     "categories": [
       "ט\"ו בשבט",
@@ -68080,7 +68082,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:33:32.093070"
+    "last_updated": "2026-04-28T12:37:11.311924"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%91%d7%a8%d7%aa-%d7%9e%d7%a7%d7%a8%d7%90%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%a4%d7%99%d7%95-%d7%aa%d7%95%d7%9c%d7%93%d7%95%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -69018,8 +69020,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/04/ba609e_34cb32112d4948789f4b937d8d43b2fdmv2.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/04/ba609e_29810256bec74ad5b30f91351d34590dmv2.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "ספרי האר\"י",
+    "parent_category": "ספרי האר\"י",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -69031,7 +69033,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:35:17.443659"
+    "last_updated": "2026-04-28T12:38:55.944884"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%96%d7%90-%d7%93%d7%a9%d7%91%d7%aa%d7%99-%d7%91%d7%91%d7%9e/",
@@ -69992,8 +69994,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_cef0af1fc2084409b0c95be7aa9e82ecmv2.jpeg"
     ],
-    "category": "ספרי האר\"י",
-    "parent_category": "ספרי האר\"י",
+    "category": "ספרי קבלה",
+    "parent_category": "ספרי קבלה",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -70006,7 +70008,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T12:44:04.709158"
+    "last_updated": "2026-04-28T12:40:43.216889"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%93%d7%92-%d7%9c%d7%90%d7%a8%d7%91%d7%a2%d7%aa-%d7%9e%d7%99%d7%a0%d7%99%d7%9d-%d7%94%d7%93%d7%91%d7%a8%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%9e%d7%90%d7%99%d7%a8%d7%99%d7%9d-25-%d7%a2%d7%95%d7%96/",
@@ -70611,8 +70613,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/cc9cc155-b2e0-4584-9ed0-276decaa3e1c.jpg"
     ],
-    "category": "ספרי מחשבה",
-    "parent_category": "ספרי מחשבה",
+    "category": "ספרי הראשונים",
+    "parent_category": "ספרי הראשונים",
     "child_category": "",
     "categories": [
       "ספרי הראשונים",
@@ -70623,7 +70625,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T10:19:30.558054"
+    "last_updated": "2026-04-28T12:41:46.641134"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%92%d7%99%d7%98%d7%99%d7%9f-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%90%d7%93%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -74360,8 +74362,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ba609e_7f03d43ade81436db8760605f91ec9f8mv2.jpeg"
     ],
-    "category": "נ\"ך מפורש",
-    "parent_category": "נ\"ך מפורש",
+    "category": "פרשת השבוע",
+    "parent_category": "פרשת השבוע",
     "child_category": "",
     "categories": [
       "נ\"ך מפורש",
@@ -74372,7 +74374,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-17T08:45:42.508490"
+    "last_updated": "2026-04-28T12:48:37.301739"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%a9%d7%9e%d7%a2-%d7%a2%d7%9c-%d7%94%d7%9e%d7%99%d7%98%d7%94/",
@@ -74960,7 +74962,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-6-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-26-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95/",
-    "product_id": "",
+    "product_id": "40841",
     "sku": "221100",
     "name": "סט משנה ברורה לא מנוקד (6 כרכים) (26 ס\"מ) / עוז והדר",
     "original_price": 224.0,
@@ -74981,11 +74983,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:50:13.190910"
+    "last_updated": "2026-04-28T12:49:44.856340"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/5-%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%99%d7%92%d7%9c-%d7%99%d7%a2%d7%a7%d7%91-%d7%91%d7%9e%d7%a2%d7%9e%d7%93-%d7%a9%d7%a7%d7%95%d7%a3-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-14-%d7%a1/",
@@ -76326,8 +76328,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_d80cf303b77a4f4986f17c44f73414e5mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_8edd5a5718c84568b92f3e497f17ea9bmv2.png"
     ],
-    "category": "משניות כרכים בודדים",
-    "parent_category": "משניות כרכים בודדים",
+    "category": "משניות לתלמידים",
+    "parent_category": "משניות לתלמידים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -76339,7 +76341,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:52:56.807858"
+    "last_updated": "2026-04-28T12:52:13.457901"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a9%d7%97%d7%a8%d7%99%d7%aa-%d7%9c%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f-%d7%a1%d7%a7%d7%90%d7%99-17-%d7%a1%d7%9e-%d7%a2/",
@@ -76621,8 +76623,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/2071046-9.jpg"
     ],
-    "category": "פרשת השבוע",
-    "parent_category": "פרשת השבוע",
+    "category": "פרשת השבוע לילדים",
+    "parent_category": "פרשת השבוע לילדים",
     "child_category": "",
     "categories": [
       "פרשת השבוע",
@@ -76633,7 +76635,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:53:32.003013"
+    "last_updated": "2026-04-28T12:52:47.643561"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%95%d7%94%d7%a8-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%90%d7%93%d7%a8%d7%90-%d7%93%d7%9e%d7%a9%d7%9b%d7%a0%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -77450,8 +77452,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ba609e_7d00212117ef49fda9c6770ba93a02c1mv2.jpeg"
     ],
-    "category": "ספרי הראשונים",
-    "parent_category": "ספרי הראשונים",
+    "category": "ספרי מוסר",
+    "parent_category": "ספרי מוסר",
     "child_category": "",
     "categories": [
       "ספרי הראשונים",
@@ -77463,7 +77465,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:55:07.831324"
+    "last_updated": "2026-04-28T12:54:17.364189"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%aa%d7%99%d7%91%d7%95%d7%aa-%d7%93%d7%a2%d7%aa-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -77509,8 +77511,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/WhatsApp-Image-2025-05-22-at-14.36.31-2.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "מבוא לתורת הקבלה",
+    "parent_category": "מבוא לתורת הקבלה",
     "child_category": "",
     "categories": [
       "מבוא לתורת הקבלה",
@@ -77523,7 +77525,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:55:14.544462"
+    "last_updated": "2026-04-28T12:54:23.587147"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a1%d7%a0%d7%94%d7%93%d7%a8%d7%99%d7%9f-%d7%93-%d7%a1%d7%97-%d7%a6-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -77820,7 +77822,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%a2%d7%a8%d7%95%d7%9a-%d7%99%d7%95%d7%9e%d7%99-%d7%91%d7%9b%d7%a8%d7%9a-%d7%90%d7%97%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "56616",
+    "product_id": "",
     "sku": "252300",
     "name": "שולחן ערוך יומי בכרך אחד / עוז והדר",
     "original_price": 86.0,
@@ -77845,11 +77847,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:55:52.113554"
+    "last_updated": "2026-04-28T12:54:59.497143"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%9e%d7%a1%d7%94-%d7%9e%d7%91%d7%98%d7%95%d7%9f-%d7%93%d7%92%d7%9d-%d7%98%d7%a7%d7%a1%d7%98/",
@@ -79274,7 +79276,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a8-%d7%97%d7%93%d7%a9-%d7%9c%d7%9e%d7%94%d7%a8%d7%9c-%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42159",
     "sku": "513104",
     "name": "אור חדש למהר\"ל – פורים / עוז והדר",
     "original_price": 57.0,
@@ -79295,11 +79297,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T06:58:38.161631"
+    "last_updated": "2026-04-28T12:57:43.896409"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a8%d7%97%d7%91%d7%99-%d7%a8%d7%a7%d7%99%d7%a2-%d7%9e%d7%a1%d7%9b%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -83631,7 +83633,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%96%d7%91%d7%97%d7%99%d7%9d-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%90%d7%93%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "41622",
     "sku": "122127",
     "name": "גמרא זבחים מורחב (אדום) / עוז והדר",
     "original_price": 117.0,
@@ -83652,11 +83654,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:07:11.385447"
+    "last_updated": "2026-04-28T13:05:46.265718"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%94%d7%aa%d7%95%d7%a1%d7%a4%d7%95%d7%aa-%d7%a2%d7%99%d7%a8%d7%95%d7%91%d7%99%d7%9f-%d7%91-%d7%a0%d7%91-%d7%a7%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
@@ -84829,7 +84831,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%9e%d7%95%d7%a2%d7%93%d7%99%d7%9d-%d7%9c%d7%92-%d7%91%d7%a2%d7%95%d7%9e%d7%a8-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
-    "product_id": "45737",
+    "product_id": "",
     "sku": "421111",
     "name": "אוצר המועדים לג בעומר כריכה קשה / עוז והדר",
     "original_price": 36.0,
@@ -84851,11 +84853,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:09:28.172163"
+    "last_updated": "2026-04-28T13:07:54.587110"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%94%d7%a9%d7%97%d7%a8-%d7%93%d7%92%d7%9d-%d7%99%d7%95%d7%a0%d7%99%d7%9d/",
@@ -85098,7 +85100,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%a8%d7%95%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "45757",
+    "product_id": "",
     "sku": "431104",
     "name": "אוצר המגילה רות כריכה קשה / עוז והדר",
     "original_price": 32.0,
@@ -85119,11 +85121,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:09:58.365653"
+    "last_updated": "2026-04-28T13:08:24.478417"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%92%d7%9d-%d7%9e%d7%a2%d7%a8%d7%aa-%d7%94%d7%9e%d7%9b%d7%a4%d7%9c%d7%94-29/",
@@ -86091,7 +86093,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%a1-%d7%97%d7%aa%d7%a0%d7%99%d7%9d-%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a2%d7%95%d7%a8-%d7%a2%d7%aa%d7%99%d7%a7-%d7%a4%d7%99%d7%95-26-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96/",
-    "product_id": "40785",
+    "product_id": "",
     "sku": "112700",
     "name": "ש\"ס חתנים סגנון עור עתיק פיו (26 כרכים) / עוז והדר",
     "original_price": 4900.0,
@@ -86114,11 +86116,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:12:05.622031"
+    "last_updated": "2026-04-28T13:10:16.277891"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%99%d7%aa-%d7%99%d7%a2%d7%a7%d7%91-16-%d7%a1%d7%9e-%d7%9b%d7%a1%d7%a3-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -86667,8 +86669,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_db6c5e102e2d4e65ad34ae2426561c0bmv2.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_581f9f727d664bc6b6ed62b26d47c3efmv2.png"
     ],
-    "category": "ספרי הרב רונן חזיזה",
-    "parent_category": "ספרי הרב רונן חזיזה",
+    "category": "סליחות",
+    "parent_category": "סליחות",
     "child_category": "",
     "categories": [
       "סליחות",
@@ -86680,7 +86682,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T13:16:17.031860"
+    "last_updated": "2026-04-28T13:11:19.210556"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%99%d7%a4%d7%94-%d7%a2%d7%99%d7%a0%d7%99%d7%99%d7%9d-13-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a4%d7%95%d7%a8%d7%9e%d7%98-%d7%91%d7%99%d7%a0%d7%95/",
@@ -87184,9 +87186,9 @@
     "product_id": "50601",
     "sku": "H2534",
     "name": "סט הזוהר הקדוש עם פירוש דמשק אליעזר (14 כרכים)",
-    "original_price": 880.0,
+    "original_price": 540.0,
     "regular_price": 980.0,
-    "price": 1012,
+    "price": 621,
     "regular_our_price": 1127,
     "description": "",
     "full_description": "תיאור סט הזוהר הקדוש עם פירוש דמשק אליעזר (14 כרכים) סט מפואר ומלא של ספר הזוהר הקדוש, הכולל את פירושו המקיף והיסודי \"דמשק אליעזר\". מהדורה זו, בת ארבעה עשר כרכים, מציגה את החיבור הקבלי המרכזי בבהירות יוצאת דופן, ומאפשרת ללומדים לצלול אל מעמקי סודות התורה. על פירוש \"דמשק אליעזר\" הפירוש \"דמשק אליעזר\" הוא פרי עטו של הגאון הקדוש והמקובל האלוקי, רבי אליעזר צבי ספרין מקאמרנא זי\"ע, בנו של התנא האלוקי רבי יצחק אייזיק מקאמרנא זי\"ע. רבינו, הממשיך את מסורת בית אבותיו, ראה לעצמו מטרה נעלה לפרש את דברי הזוהר הקדוש על דרך החסידות והקבלה, באופן שלא יותיר אף מילה ללא ביאור. כפי שכתב בהקדמתו: \"גמרתי בלבי לפרש פירוש מספיק על כל הזהר, והוא יהיה בעזהי\"ת פירוש מספיק לכל בעלי נפש דקדושה, ולא הנחתי אפילו אות אחת בלי פירוש\". ייחודיותו של הפירוש ייחודו המובהק של פירוש \"דמשק אליעזר\" טמון בשיטתו לפרש ולתרגם כמעט כל מילה ומילה מן הזוהר על פי פשטי סודות התורה – גישה חסרת תקדים עד לתקופתו. בעניינים מורכבים הדורשים הרחבה, צולל המחבר אל יסודות חכמת הקבלה ומבאר את הדברים באופן שיטתי ומעמיק, כדי להבטיח הבנה מלאה ובהירה. הפירוש נאמן לחלוטין לכתבי האר\"י הקדוש, ומהווה כלי עזר יקר ערך ללומדים הבקיאים בתורתו, אשר ימצאו בו אור גדול והרחבה על יסודותיו. בזכות מעלות אלו, התקבל הפירוש בכל תפוצות ישראל והפך ליסוד מוסד להבנת דברי הזוהר הקדוש, כאשר גם חכמים ומפרשים שבאו אחריו שילבו מדבריו בספריהם. סט זה מהווה נכס צאן ברזל לכל בית בישראל, ומעניק הזדמנות ייחודית להעמיק ברזי התורה ובספר הספרים של חכמת הקבלה, בליווי אחד הפירושים המרכזיים והמקובלים ביותר שנכתבו עליו.",
@@ -87194,12 +87196,13 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/2534-scaled-1.jpg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "זוהר",
+    "parent_category": "זוהר",
     "child_category": "",
     "categories": [
       "זוהר",
       "זוהר המבואר",
+      "מבצעים לוהטים",
       "ספרי קבלה"
     ],
     "tags": [],
@@ -87207,7 +87210,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T13:17:20.151516"
+    "last_updated": "2026-04-28T13:12:22.591590"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%a4%d7%a8%d7%a9%d7%aa-%d7%97%d7%9c%d7%94-%d7%a4%d7%99%d7%95-1217/",
@@ -87726,8 +87729,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_fa5debcb59514930b974bc9c76d7d2c1mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_4c2933ea79174ae68949b175439582e9mv2.png"
     ],
-    "category": "נ\"ך לתלמידים",
-    "parent_category": "נ\"ך לתלמידים",
+    "category": "נ\"ך מפורש",
+    "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
       "נ\"ך לתלמידים",
@@ -87739,7 +87742,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T13:18:22.499274"
+    "last_updated": "2026-04-28T13:13:21.285288"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%99%d7%a9-%d7%94%d7%90%d7%9e%d7%aa-%d7%9e%d7%a8%d7%9f-%d7%94%d7%a8%d7%91-%d7%a9%d7%98%d7%99%d7%99%d7%a0%d7%9e%d7%9f/",
@@ -88400,8 +88403,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_713a02fb74eb4ceab20166c521722b68mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_2d44e6b9320449e69fcb887faa685e3fmv2.png"
     ],
-    "category": "משניות כרכים בודדים",
-    "parent_category": "משניות כרכים בודדים",
+    "category": "משניות לתלמידים",
+    "parent_category": "משניות לתלמידים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -88413,7 +88416,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:16:30.207456"
+    "last_updated": "2026-04-28T13:14:34.499817"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%91%d7%91%d7%90-%d7%a7%d7%9e%d7%90-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%90%d7%93%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -89426,7 +89429,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%aa-%d7%94%d7%9e%d7%95%d7%a2%d7%93%d7%99%d7%9d-%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "41930",
     "sku": "411117",
     "name": "משנת המועדים פורים / עוז והדר",
     "original_price": 69.0,
@@ -89447,11 +89450,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:18:27.593944"
+    "last_updated": "2026-04-28T13:16:27.883378"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%aa%d7%9e%d7%99%d7%93%d7%99%d7%9f-%d7%95%d7%9e%d7%95%d7%a1%d7%a4%d7%99%d7%9f/",
@@ -89582,9 +89585,9 @@
     "product_id": "41640",
     "sku": "527644",
     "name": "סט זוהר המבואר 23 כרכים / עוז והדר",
-    "original_price": 1779.0,
+    "original_price": 1279.0,
     "regular_price": 1930.0,
-    "price": 2046,
+    "price": 1471,
     "regular_our_price": 2220,
     "description": "",
     "full_description": "תיאור הסט כולל את 23 הכרכים שיצאו לאור עד עתה מתוך הסדרה השלמה שתכלול 25 כרכים: זוהר המבואר בראשית א (הקדמה – א-יח), זוהר המבואר בראשית ב (יח-לח), זוהר המבואר בראשית ג (לח-נט), זוהר המבואר בראשית ד (נח), זוהר המבואר בראשית ה (לך לך), זוהר המבואר בראשית ו (וירא), זוהר המבואר בראשית ז  (חיי שרה-תולדות), זוהר המבואר שמות א (שמות-וארא), זוהר המבואר שמות ב (בא בשלח), זוהר המבואר שמות ג (יתרו), שמות י (פקודי היכלות), זוהר המבואר ויקרא א (ויקרא), זוהר המבואר ויקרא ב (צו-שמיני), זוהר המבואר ויקרא ג (תזריע-מצורע), זוהר המבואר ויקרא ד (אחרי מות), זוהר המבואר ויקרא ה (קדושים-אמור א), זוהר המבואר ויקרא ו (אמור ב-בחוקותי), זוהר המבואר במדבר א (במדבר-נשא א), זוהר המבואר במדבר ב (נשא ב), זוהר המבואר במדבר ג (בהעלותך-קורח), זוהר המבואר במדבר ד (חוקת-בלק א), זוהר המבואר במדבר ה (בלק ב), זוהר המבואר דברים א (ואתחנן-וילך). 'זוהר הקדוש' ערוך מחדש, מוגה ומזוקק בדקדוק רב עפ\"י דפוסים ישנים. מבואר עם ביאור נכון ומדויק, בשפה ברורה ונעימה, המשולב בתוך תיבות הזוהר הק'. הביאור נערך עפ\"י מפרשי הזוהר, עם הערות וציונים רבים, הפניות לפירושים רבים אחרים, להרחבת העניינים ולתועלת הבנת הלומדים.",
@@ -89602,6 +89605,7 @@
     "child_category": "",
     "categories": [
       "זוהר המבואר",
+      "מבצעים לוהטים",
       "עוז והדר"
     ],
     "tags": [],
@@ -89609,7 +89613,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-18T07:18:45.112324"
+    "last_updated": "2026-04-28T13:16:44.072695"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%aa-%d7%9e%d7%9c%d7%9a-%d7%91%d7%a6%d7%a8%d7%a4%d7%aa%d7%99%d7%aa-%d7%a4%d7%95%d7%a0%d7%98%d7%99%d7%a7%d7%94/",
@@ -92676,7 +92680,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a0%d7%95%d7%a2%d7%9d-%d7%90%d7%9c%d7%99%d7%9e%d7%9c%d7%9a-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42783",
     "sku": "557800",
     "name": "סט נועם אלימלך המבואר (2 כרכים) / עוז והדר",
     "original_price": 79.0,
@@ -92703,11 +92707,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:00:56.386876"
+    "last_updated": "2026-04-28T13:22:21.651225"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a9%d7%91%d7%9c%d7%91-%d7%9b%d7%99%d7%a1-%d7%a1%d7%a7%d7%90%d7%99-%d7%9c%d7%91/",
@@ -93653,7 +93657,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%9e%d7%a9-%d7%a8%d7%9e%d7%91%d7%9f-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-10-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "40774",
+    "product_id": "",
     "sku": "321100",
     "name": "סט חומש רמב\"ן המבואר (10 כרכים) / עוז והדר",
     "original_price": 595.0,
@@ -93675,11 +93679,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:02:50.414541"
+    "last_updated": "2026-04-28T13:24:20.945246"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%aa%d7%99%d7%91%d7%95%d7%aa-%d7%93%d7%a2%d7%aa-%d7%91%d7%9e%d7%93%d7%91%d7%a8-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -95088,7 +95092,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%99%d7%98%d7%95%d7%9d-%d7%94%d7%a7%d7%98%d7%95%d7%a8%d7%aa-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "41171",
+    "product_id": "",
     "sku": "531604",
     "name": "פיטום הקטורת – למינציה / עוז והדר",
     "original_price": 48.0,
@@ -95110,11 +95114,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:05:35.434209"
+    "last_updated": "2026-04-28T13:27:10.457806"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%9e%d7%97%d7%9e%d7%93%d7%99%d7%9d-%d7%97%d7%9c%d7%a7-%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -95863,8 +95867,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/09/D7A9D7A2D7A8D799-D7A7D793D795D7A9D794-D794D79ED791D795D790D7A8.png"
     ],
-    "category": "ספרי מוסר",
-    "parent_category": "ספרי מוסר",
+    "category": "ספרי קבלה",
+    "parent_category": "ספרי קבלה",
     "child_category": "",
     "categories": [
       "ספרי מהרח\"ו",
@@ -95877,7 +95881,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T13:33:41.866856"
+    "last_updated": "2026-04-28T13:28:36.187488"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-%d7%9e%d7%a4%d7%95%d7%90%d7%a8%d7%aa-49/",
@@ -95941,7 +95945,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%92%d7%99%d7%9c%d7%aa-%d7%90%d7%a1%d7%aa%d7%a8-%d7%91%d7%99%d7%90%d7%95%d7%a8-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%a2%d7%95%d7%96-%d7%95/",
-    "product_id": "",
+    "product_id": "45806",
     "sku": "711507",
     "name": "מגילת אסתר ביאור משולב כריכה קשה / עוז והדר",
     "original_price": 28.0,
@@ -95962,11 +95966,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:07:13.363450"
+    "last_updated": "2026-04-28T13:28:46.034061"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%9b%d7%aa%d7%a8-17-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%97%d7%95%d7%9d-%d7%9b%d7%94%d7%94/",
@@ -96311,8 +96315,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/5721401.jpg"
     ],
-    "category": "ספרי חסידות שונים",
-    "parent_category": "ספרי חסידות שונים",
+    "category": "ספרי הרב שטיינזלץ",
+    "parent_category": "ספרי הרב שטיינזלץ",
     "child_category": "",
     "categories": [
       "חב\"ד",
@@ -96324,7 +96328,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T11:07:44.839382"
+    "last_updated": "2026-04-28T13:29:26.110178"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%a7%d7%95%d7%a6%d7%a8-%d7%92%d7%93%d7%95%d7%9c-%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%a4%d7%90%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -97318,8 +97322,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_b672da82653e4d9aa02e5f2237659184mv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_b5e51acce2264e55a0b93fcc12d8dd9amv2.jpg"
     ],
-    "category": "מבצעים לוהטים",
-    "parent_category": "מבצעים לוהטים",
+    "category": "פסח",
+    "parent_category": "פסח",
     "child_category": "",
     "categories": [
       "ל\"ג בעומר",
@@ -97333,7 +97337,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T13:36:29.183836"
+    "last_updated": "2026-04-28T13:31:17.072214"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-%d7%93%d7%9e%d7%95%d7%99-%d7%a2%d7%95%d7%a8-%d7%a7%d7%a9%d7%99%d7%97/",
@@ -100281,7 +100285,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%9c%d7%99%d7%9c-%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "45813",
+    "product_id": "",
     "sku": "714302",
     "name": "תיקון ליל שבועות כריכה רכה / עוז והדר",
     "original_price": 21.0,
@@ -100302,15 +100306,15 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:15:49.294683"
+    "last_updated": "2026-04-28T13:36:45.025174"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%91%d7%90%d7%95%d7%aa%d7%99%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%9c/",
-    "product_id": "",
+    "product_id": "42219",
     "sku": "711320",
     "name": "הגדה מתיבתא באותיות גדולות כריכה קשה למינציה (24 ס\"מ) / עוז והדר",
     "original_price": 45.0,
@@ -100332,11 +100336,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:15:53.047466"
+    "last_updated": "2026-04-28T13:36:48.087294"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%9a-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -101106,7 +101110,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%a8%d7%9a-%d7%92-%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%94%d7%9e%d7%a0%d7%95%d7%a7%d7%93-26-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "41652",
     "sku": "212103",
     "name": "כרך ג משנה ברורה המנוקד (26 ס\"מ) / עוז והדר",
     "original_price": 43.0,
@@ -101127,11 +101131,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:17:23.637065"
+    "last_updated": "2026-04-28T13:38:15.079982"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%91%d7%95%d7%aa-%d7%94%d7%9c%d7%91%d7%91%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c-%d7%a2%d7%9d-%d7%91%d7%99%d7%90%d7%95%d7%a8-%d7%9c%d7%91-%d7%98%d7%95%d7%91-2-%d7%9b%d7%a8/",
@@ -105446,7 +105450,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "41213",
+    "product_id": "",
     "sku": "611106",
     "name": "ירושלמי מורחב תרומות / עוז והדר",
     "original_price": 114.0,
@@ -105467,11 +105471,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-20T09:30:14.213541"
+    "last_updated": "2026-04-28T13:46:08.613920"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9b%d7%a8%d7%99%d7%aa%d7%95%d7%aa-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%92%d7%93%d7%95%d7%9c-%d7%91%d7%9c%d7%99-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95/",
@@ -106642,8 +106646,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_873d829d3770496a9084c8945f125090mv2.jpeg"
     ],
-    "category": "מפרשי התורה",
-    "parent_category": "מפרשי התורה",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -106655,7 +106659,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T13:54:21.060323"
+    "last_updated": "2026-04-28T13:48:19.610063"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7%d7%99-%d7%94%d7%a0%d7%94%d7%92%d7%aa-%d7%94%d7%91%d7%99%d7%aa-%d7%94%d7%a8%d7%91-%d7%a6%d7%91%d7%99-%d7%93%d7%91-%d7%98%d7%a8%d7%90%d7%95%d7%95%d7%99%d7%a9/",
@@ -108767,7 +108771,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%91%d7%90-%d7%9e%d7%a6%d7%99%d7%a2%d7%90-%d7%9b%d7%99%d7%a1-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "42942",
+    "product_id": "",
     "sku": "162572",
     "name": "בבא מציעא כיס עם שינון התלמוד / עוז והדר",
     "original_price": 10.5,
@@ -108788,11 +108792,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-20T09:36:27.481397"
+    "last_updated": "2026-04-28T13:52:18.234196"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-10-%d7%a1%d7%a4%d7%a8%d7%99-%d7%9e%d7%90%d7%99%d7%a8%d7%99%d7%9d-1-10-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -109867,7 +109871,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%a4%d7%90%d7%a8%d7%aa-%d7%a9%d7%9c%d7%9e%d7%94-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%aa%d7%95%d7%a8%d7%94-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "41661",
+    "product_id": "",
     "sku": "527510",
     "name": "תפארת שלמה המבואר תורה (3 כרכים) / עוז והדר",
     "original_price": 186.0,
@@ -109890,11 +109894,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-20T09:38:30.893226"
+    "last_updated": "2026-04-28T13:54:19.051411"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a9%d7%97%d7%a8%d7%99%d7%aa-%d7%9c%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-21-%d7%a1%d7%9e-%d7%a1/",
@@ -111154,8 +111158,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_2cf2faadbab247ca92c2ea4bf275cef6mv2.jpeg"
     ],
-    "category": "ספרי הראשונים",
-    "parent_category": "ספרי הראשונים",
+    "category": "ספרי מחשבה",
+    "parent_category": "ספרי מחשבה",
     "child_category": "",
     "categories": [
       "ספרי הראשונים",
@@ -111168,7 +111172,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-20T09:41:02.302423"
+    "last_updated": "2026-04-28T13:56:51.187366"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%98%d7%94%d7%a8%d7%94-%d7%98%d7%95%d7%9e%d7%90%d7%aa-%d7%90%d7%95%d7%9b%d7%9c%d7%99%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
@@ -111976,7 +111980,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%91%d7%90-%d7%91%d7%aa%d7%a8%d7%90-%d7%9b%d7%99%d7%a1-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42943",
     "sku": "162573",
     "name": "בבא בתרא כיס עם שינון התלמוד / עוז והדר",
     "original_price": 10.5,
@@ -111997,11 +112001,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-20T09:42:36.836132"
+    "last_updated": "2026-04-28T13:58:25.263826"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%99%d7%91%d7%9e%d7%95%d7%aa-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%9e%d7%a4%d7%a8%d7%a9%d7%99%d7%9d-%d7%97%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
@@ -113108,8 +113112,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_dd462eca3fe54721864113f7facad584mv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_d796aaddd40a4f5db8e9f821d4e24917mv2.jpg"
     ],
-    "category": "תפילת תודה הפרשת חלה הדלקת נרות",
-    "parent_category": "תפילת תודה הפרשת חלה הדלקת נרות",
+    "category": "ספרוני כיס מנחה וערבית",
+    "parent_category": "ספרוני כיס מנחה וערבית",
     "child_category": "",
     "categories": [
       "ספרוני כיס מנחה וערבית",
@@ -113121,7 +113125,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T11:39:26.509885"
+    "last_updated": "2026-04-28T14:00:28.178919"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%9b%d7%99%d7%a1-%d7%a4%d7%a8%d7%97-%d7%95%d7%a8%d7%95%d7%93/",
@@ -113587,8 +113591,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_448abf6331c94a558f6d9b24b742a46bmv2.png"
     ],
-    "category": "משניות לתלמידים",
-    "parent_category": "משניות לתלמידים",
+    "category": "משניות כרכים בודדים",
+    "parent_category": "משניות כרכים בודדים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -113600,7 +113604,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:07:59.380227"
+    "last_updated": "2026-04-28T14:01:20.682124"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%99%d7%95-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%9e%d7%a2%d7%95%d7%9c%d7%9d-3-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -114214,8 +114218,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ba609e_03428a2973ea477a89e1947cf5151169mv2.jpeg"
     ],
-    "category": "ימים נוראים",
-    "parent_category": "ימים נוראים",
+    "category": "ספרי מוסר",
+    "parent_category": "ספרי מוסר",
     "child_category": "",
     "categories": [
       "ימים נוראים",
@@ -114227,7 +114231,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:09:20.719980"
+    "last_updated": "2026-04-28T14:02:25.239034"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%97%d7%95%d7%9c-%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-14-%d7%a1%d7%9e-%d7%9e%d7%95%d7%a7%d7%94/",
@@ -117364,8 +117368,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-21.12.51-2.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "ספרי האר\"י",
+    "parent_category": "ספרי האר\"י",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -117378,7 +117382,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:15:14.654505"
+    "last_updated": "2026-04-28T14:08:02.819071"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%93%d7%9c%d7%a7%d7%aa-%d7%a0%d7%a8%d7%95%d7%aa/",
@@ -118406,8 +118410,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_92d48b4eb4cf4993816c34a924fd2520mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_b983ca8b3b8040a994b1bd7f39f6f524mv2.png"
     ],
-    "category": "נ\"ך מפורש",
-    "parent_category": "נ\"ך מפורש",
+    "category": "נ\"ך לתלמידים",
+    "parent_category": "נ\"ך לתלמידים",
     "child_category": "",
     "categories": [
       "נ\"ך לתלמידים",
@@ -118419,7 +118423,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-20T09:54:41.441033"
+    "last_updated": "2026-04-28T14:09:56.704712"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%93%d7%92%d7%9d-%d7%9e%d7%a2%d7%98%d7%a4%d7%949/",
@@ -120487,8 +120491,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/2398-1-scaled-1.jpg"
     ],
-    "category": "ספרי מחשבה",
-    "parent_category": "ספרי מחשבה",
+    "category": "ספרי מוסר",
+    "parent_category": "ספרי מוסר",
     "child_category": "",
     "categories": [
       "ספרי מוסר",
@@ -120499,7 +120503,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:21:08.634510"
+    "last_updated": "2026-04-28T14:13:53.094310"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%96%d7%a8%d7%94-%d7%94%d7%95%d7%a8%d7%99%d7%95%d7%aa-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa/",
@@ -122429,8 +122433,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_38b52fe56e34445b9b8462e630d43cb0mv2.png"
     ],
-    "category": "משניות כרכים בודדים",
-    "parent_category": "משניות כרכים בודדים",
+    "category": "משניות לתלמידים",
+    "parent_category": "משניות לתלמידים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -122442,11 +122446,11 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:24:53.568615"
+    "last_updated": "2026-04-28T14:17:27.300155"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%9c%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f-%d7%90%d7%95%d7%a6%d7%a8-%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%99-%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f/",
-    "product_id": "70319",
+    "product_id": "",
     "sku": "514141",
     "name": "מתיבתא לנישואין – אוצר ענייני נישואין בהלכה ובאגדה / עוז והדר",
     "original_price": 76.0,
@@ -122467,11 +122471,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:18:11.863999"
+    "last_updated": "2026-04-28T14:17:30.739696"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%9c%d7%99%d7%94-%d7%93%d7%92%d7%9d-%d7%a4%d7%a1%d7%99%d7%9d-%d7%a1/",
@@ -123110,8 +123114,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_56e5be44c1824aae84d9f1a502edc23fmv2.jpg"
     ],
-    "category": "סידורים",
-    "parent_category": "סידורים",
+    "category": "ספרי הרב רונן חזיזה",
+    "parent_category": "ספרי הרב רונן חזיזה",
     "child_category": "",
     "categories": [
       "סידורים",
@@ -123123,7 +123127,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:20:25.766995"
+    "last_updated": "2026-04-28T14:18:47.604927"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%9e%d7%90%d7%91%d7%9f-%d7%aa%d7%a8%d7%a9%d7%99%d7%a99/",
@@ -124109,8 +124113,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/5720823.jpg"
     ],
-    "category": "ספרי חסידות שונים",
-    "parent_category": "ספרי חסידות שונים",
+    "category": "חב\"ד",
+    "parent_category": "חב\"ד",
     "child_category": "",
     "categories": [
       "חב\"ד",
@@ -124122,7 +124126,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:22:34.443754"
+    "last_updated": "2026-04-28T14:20:36.706523"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%9c%d7%9e%d7%a2%d7%9f-%d7%a9%d7%9e%d7%95-%d7%91%d7%90%d7%94%d7%91%d7%94-%d7%9c%d7%97%d7%92-%d7%94%d7%a4%d7%a1%d7%97-%d7%a2%d7%9d-%d7%aa%d7%99%d7%a7%d7%95%d7%9f/",
@@ -125289,8 +125293,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-21-at-09.31.41-2.jpeg"
     ],
-    "category": "ספרי הראשונים",
-    "parent_category": "ספרי הראשונים",
+    "category": "ספרי מחשבה",
+    "parent_category": "ספרי מחשבה",
     "child_category": "",
     "categories": [
       "ספרי אמונה",
@@ -125303,7 +125307,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:25:24.399893"
+    "last_updated": "2026-04-28T14:22:50.299888"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%9e%d7%93%d7%95%d7%a8%d7%92-1217-2/",
@@ -125617,8 +125621,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_6b6c79d38db343e4a1909fe086259782mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_bd97f8cb4387409e9ed6e4fd96e2c7b3mv2.png"
     ],
-    "category": "משניות מבוארות",
-    "parent_category": "משניות מבוארות",
+    "category": "ש\"ס משניות",
+    "parent_category": "ש\"ס משניות",
     "child_category": "",
     "categories": [
       "משניות מבוארות",
@@ -125630,7 +125634,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:26:11.120835"
+    "last_updated": "2026-04-28T14:23:26.171046"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%9e%d7%a9-%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%9e%d7%97%d7%95%d7%93%d7%93%d7%99%d7%9f-%d7%91%d7%a4%d7%99%d7%9a-%d7%a8%d7%a9%d7%99-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95/",
@@ -127668,8 +127672,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_448abf6331c94a558f6d9b24b742a46bmv2.png"
     ],
-    "category": "משניות כרכים בודדים",
-    "parent_category": "משניות כרכים בודדים",
+    "category": "משניות לתלמידים",
+    "parent_category": "משניות לתלמידים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -127681,7 +127685,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:30:48.516318"
+    "last_updated": "2026-04-28T14:27:11.705817"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%95%d7%9b%d7%aa-%d7%a9%d7%9c%d7%9d-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -128532,8 +128536,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_1995d804c1f34dd0b2e06f6f252effa3mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_3f6f249d6b1b43cc9ab9dd96b6695ad6mv2.png"
     ],
-    "category": "ספרי האר\"י",
-    "parent_category": "ספרי האר\"י",
+    "category": "ימים נוראים",
+    "parent_category": "ימים נוראים",
     "child_category": "",
     "categories": [
       "ימים נוראים",
@@ -128545,7 +128549,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:32:37.014614"
+    "last_updated": "2026-04-28T14:28:45.561261"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%93%d7%a8%d7%a9-%d7%90%d7%9c%d7%99%d7%94%d7%95-%d7%a2%d7%9c-%d7%94%d7%aa%d7%95%d7%a8%d7%94-%d7%a2%d7%9d-%d7%91%d7%99%d7%90%d7%95%d7%a8-%d7%a4%d7%a8%d7%93%d7%a1-%d7%99%d7%a6%d7%97%d7%a7/",
@@ -128562,8 +128566,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_a3ccc4b8f75a4f06a4e0779dcc772cf4mv2.jpeg"
     ],
-    "category": "פרשת השבוע",
-    "parent_category": "פרשת השבוע",
+    "category": "מפרשי התורה",
+    "parent_category": "מפרשי התורה",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -128574,7 +128578,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:36:35.412824"
+    "last_updated": "2026-04-28T14:28:49.061367"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%99%d7%97%d7%96%d7%a7%d7%90%d7%9c-%d7%94%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%95%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a0%d7%91%d7%99%d7%90%d7%99%d7%9d-%d7%9e%d7%90%d7%99%d7%a8/",
@@ -129273,8 +129277,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-19-at-00.28.12-3.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-19-at-00.28.13-1.jpeg"
     ],
-    "category": "מחזורים",
-    "parent_category": "מחזורים",
+    "category": "סידור בד",
+    "parent_category": "סידור בד",
     "child_category": "",
     "categories": [
       "מחזורים",
@@ -129366,7 +129370,7 @@
     "attribute_labels": {
       "attribute_%d7%a6%d7%91%d7%a2": "צבע"
     },
-    "last_updated": "2026-04-21T09:34:09.741380"
+    "last_updated": "2026-04-28T14:30:03.866619"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%99%d7%93%d7%95%d7%a9%d7%99%d7%9f-%d7%9b%d7%99%d7%a1-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -129662,7 +129666,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%a0%d7%97%d7%95%d7%aa-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%90%d7%93%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "41623",
     "sku": "122128",
     "name": "גמרא מנחות מורחב (אדום) / עוז והדר",
     "original_price": 112.0,
@@ -129683,11 +129687,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:34:52.117520"
+    "last_updated": "2026-04-28T14:30:40.077022"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-20-2/",
@@ -131088,10 +131092,10 @@
     ],
     "tags": [],
     "in_stock": true,
-    "stock_text": "16 במלאי",
+    "stock_text": "15 במלאי",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T12:12:26.825450"
+    "last_updated": "2026-04-28T14:33:17.740353"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-12-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%95%d7%a8/",
@@ -131588,8 +131592,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/4540729-scaled-1.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ba609e_ead3fca9d7704785a8dffc0508d4ad6emv2.jpg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "מפרשי התורה",
+    "parent_category": "מפרשי התורה",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -131601,7 +131605,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-21T09:39:02.959251"
+    "last_updated": "2026-04-28T14:34:12.263947"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%a8%d7%a4%d7%90%d7%9c-%d7%94%d7%9e%d7%9c%d7%90%d7%9a-%d7%94%d7%9e%d7%a0%d7%95%d7%a7%d7%93/",
@@ -132747,8 +132751,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2026/01/אורים-ותומים-אסתר-557113.png"
     ],
-    "category": "נ\"ך מפורש",
-    "parent_category": "נ\"ך מפורש",
+    "category": "ספרי מוסר",
+    "parent_category": "ספרי מוסר",
     "child_category": "",
     "categories": [
       "נ\"ך מפורש",
@@ -132760,7 +132764,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T12:15:30.971901"
+    "last_updated": "2026-04-28T14:36:17.995941"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%a8-21-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%9c%d7%91%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -134652,8 +134656,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_d04013611c664849b47db2b1ad1e1210mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_58f2375324e04eb68438b6fd8e07cadcmv2.png"
     ],
-    "category": "סידורים מבוארים",
-    "parent_category": "סידורים מבוארים",
+    "category": "ספרי קבלה",
+    "parent_category": "ספרי קבלה",
     "child_category": "",
     "categories": [
       "סידורים מבוארים",
@@ -134665,7 +134669,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-22T09:00:50.909010"
+    "last_updated": "2026-04-28T14:39:45.924026"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%99%d7%a1%d7%95%d7%93-%d7%9e%d7%9c%d7%9b%d7%95%d7%aa-%d7%9c%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%91%d7%99%d7%a0/",
@@ -134933,7 +134937,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%90%d7%a8%d7%99%d7%96%d7%9c-%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42056",
     "sku": "553104",
     "name": "אוצר האריז\"ל פורים / עוז והדר",
     "original_price": 78.0,
@@ -134948,8 +134952,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_ff0cbc7417d74ddaacf4e729730b7891mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_b7bca70fdbc0449ab76eefc8a079c4c6mv2.png"
     ],
-    "category": "ספרי האר\"י",
-    "parent_category": "ספרי האר\"י",
+    "category": "פורים",
+    "parent_category": "פורים",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -134957,11 +134961,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:48:34.823345"
+    "last_updated": "2026-04-28T14:40:17.569185"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a1%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a-%d7%94%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%94%d7%95%d7%a6%d7%90%d7%aa-%d7%99%d7%a8%d7%99%d7%93-%d7%94%d7%a1%d7%a4%d7%a8%d7%99%d7%9d/",
@@ -136406,9 +136410,9 @@
     "product_id": "57485",
     "sku": "H2533",
     "name": "סט חומשים היכל הברכה 5 כרכים – האדמו\"ר מקאמרנא",
-    "original_price": 545.0,
+    "original_price": 440.0,
     "regular_price": 560.0,
-    "price": 627,
+    "price": 506,
     "regular_our_price": 644,
     "description": "",
     "full_description": "תיאור חומש היכל הברכה קאמרנא – מהדורה חדשה ומפוארת לראשונה, יוצא לאור החומש המקודש, אשר היה יקר ערך בקרב צדיקים וחסידים בכל הדורות, במהדורה חדשה ומאירת עיניים. מהדורה זו מציגה עימוד מרהיב שתוכנן מחדש מתחילתו ועד סופו, ומגישה את התכנים העתיקים והיקרים בכלי חדש ומפואר – קנקן חדש מלא יין ישן. חומש 'היכל הברכה' קאמרנא, אשר חובר על ידי הגאון הקדוש, רבן של ישראל, שר התורה ושר בית הזוהר, רבי יצחק אייזיק יהודה יחיאל מקאמרנא זיע\"א, מהווה ספר יסוד בעולם החסידות. החיבור הוא פירוש מעמיק על התורה על דרך הפרד\"ס (פשט, רמז, דרש, סוד) והחסידות. מצורף אליו ספר 'אוצר החיים', המבאר כל מצווה ומצווה בדרך הפרד\"ס והחסידות. תוכן החומש המהדורה כוללת אוצר בלום של פירושים וביאורים קלאסיים: פירושים יסודיים: פירוש רש\"י, תרגום אונקלוס, ופירוש בעל הטורים. מפרשי רש\"י: תולדות אהרן ומשכיל לדוד. ביאורי המסורה: מסורה גדולה, מסורה קטנה, מנורת שלמה ומנחת שי. ליקוט חסידי: החיבור 'לקט אמרי פנינים', המכיל אמרות טהורות ממרן הבעל שם טוב זיע\"א, בתוספת ביאורים והערות. חמש מגילות בנוסף לחמשת חומשי התורה, הכרך כולל את חמש המגילות עם הפירושים הבאים: פירוש רש\"י, תרגום ומסורה. מגילת אסתר: פירוש 'כתם אופיר'. שיר השירים: פירוש 'ערוגת הבושם'. מגילת רות: פירוש 'ברטנורה'. מגילת איכה: פירוש 'דמעות שליש'. סגולה לשמירה וברכה החומש ידוע בסגולתו המיוחדת, כפי שהבטיח המחבר הקדוש בעצמו, לשמש כשמירה מעולה לבית. וזה לשונו הקדושה באגרתו: \"ומובטחני, כל מי שיהיה לו החומש שלנו בביתו, יהיה ניצל מכל דבר רע, ומכל פגע רע, ומחלים רעים, ומחוסר פרנסה, ויהיה ביתו מלא ברכות ה', וכל טוב, הצלחה ועושר וחיים, לו ולבניו בלי ספק, ובפרט באמונה שלימה\".",
@@ -136420,14 +136424,15 @@
     "parent_category": "חומשים",
     "child_category": "",
     "categories": [
-      "חומשים"
+      "חומשים",
+      "מבצעים לוהטים"
     ],
     "tags": [],
     "in_stock": true,
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-22T09:04:13.319431"
+    "last_updated": "2026-04-28T14:42:56.165523"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%96%d7%a8%d7%94-%d7%a2%d7%93%d7%95%d7%99%d7%95%d7%aa/",
@@ -136947,8 +136952,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_2d855f93301b49e6ad588f6f3c0a2d8emv2.webp"
     ],
-    "category": "ספרי מחשבה",
-    "parent_category": "ספרי מחשבה",
+    "category": "ספרי מוסר",
+    "parent_category": "ספרי מוסר",
     "child_category": "",
     "categories": [
       "ספרי מוסר",
@@ -136959,7 +136964,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:52:21.997754"
+    "last_updated": "2026-04-28T14:43:54.970037"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%92%d7%99%d7%98%d7%99%d7%9f-%d7%92-%d7%9c%d7%96-%d7%a0%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -137066,8 +137071,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_a23b3eeeddb945a2952200356628b763mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_c6ee9fc06bc242f38c630f93ce3813afmv2.png"
     ],
-    "category": "ספרי האר\"י",
-    "parent_category": "ספרי האר\"י",
+    "category": "חנוכה",
+    "parent_category": "חנוכה",
     "child_category": "",
     "categories": [
       "חנוכה",
@@ -137079,7 +137084,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:52:35.504048"
+    "last_updated": "2026-04-28T14:44:07.844221"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%93%d7%92%d7%9d-%d7%a0%d7%95%d7%a4%d7%99%d7%9d-2/",
@@ -137214,8 +137219,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/3210255.jpg"
     ],
-    "category": "ילקוט יוסף",
-    "parent_category": "ילקוט יוסף",
+    "category": "קיצור שולחן ערוך",
+    "parent_category": "קיצור שולחן ערוך",
     "child_category": "",
     "categories": [
       "ילקוט יוסף",
@@ -137226,7 +137231,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T12:23:51.531040"
+    "last_updated": "2026-04-28T14:44:24.802153"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a2%d7%99%d7%a8%d7%95%d7%91%d7%99%d7%9f-%d7%94-%d7%a4%d7%91-%d7%a7%d7%94-%d7%a2%d7%95%d7%96/",
@@ -137450,8 +137455,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_56e5be44c1824aae84d9f1a502edc23fmv2.jpg"
     ],
-    "category": "סידורים",
-    "parent_category": "סידורים",
+    "category": "ספרי הרב רונן חזיזה",
+    "parent_category": "ספרי הרב רונן חזיזה",
     "child_category": "",
     "categories": [
       "סידורים",
@@ -137463,7 +137468,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T14:53:18.297572"
+    "last_updated": "2026-04-28T14:44:50.760530"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%a4%d7%99%d7%95-1217-3/",
@@ -138308,8 +138313,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_f9e4a24e9d8d49b6aa9d6a63de2b556amv2.png"
     ],
-    "category": "סידורים",
-    "parent_category": "סידורים",
+    "category": "סידורים לילדים",
+    "parent_category": "סידורים לילדים",
     "child_category": "",
     "categories": [
       "סידורים",
@@ -138321,7 +138326,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-22T09:07:51.794506"
+    "last_updated": "2026-04-28T14:46:24.379439"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a7%d7%95%d7%9c-%d7%a6%d7%99%d7%95%d7%9f-%d7%94%d7%a8%d7%91-%d7%9e%d7%95%d7%a6%d7%a4%d7%99-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -141403,8 +141408,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2026/03/6645654298b64f503f8fa4955bb4f9e0.jpg"
     ],
-    "category": "שבועות",
-    "parent_category": "שבועות",
+    "category": "נ\"ך מפורש",
+    "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
       "נ\"ך מפורש",
@@ -141416,7 +141421,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:00:47.870671"
+    "last_updated": "2026-04-28T14:51:57.502105"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%92%d7%93%d7%95%d7%9c-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -141961,8 +141966,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_a75595e58dd54af6af900f39c43c9eb9mv2.jpeg"
     ],
-    "category": "ספרי האר\"י",
-    "parent_category": "ספרי האר\"י",
+    "category": "ספרי קבלה",
+    "parent_category": "ספרי קבלה",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -141975,7 +141980,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:01:53.876083"
+    "last_updated": "2026-04-28T14:52:59.913949"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%94%d7%a7%d7%99%d7%93%d7%95%d7%a9-%d7%9e%d7%a7%d7%93%d7%a9-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%95%d7%94%d7%96%d7%9e%d7%a0%d7%99%d7%9d-%d7%93%d7%92%d7%9d-%d7%9e%d7%a2%d7%95-2/",
@@ -143736,8 +143741,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/8282612.jpg"
     ],
-    "category": "ש\"ס משניות",
-    "parent_category": "ש\"ס משניות",
+    "category": "משניות כרכים בודדים",
+    "parent_category": "משניות כרכים בודדים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -143750,7 +143755,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:05:21.398095"
+    "last_updated": "2026-04-28T14:56:17.075030"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%9b%d7%9c%d7%949/",
@@ -147732,8 +147737,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_64e733561bfc4d4ca11fda635ca5e700mv2.png"
     ],
-    "category": "מחזורים",
-    "parent_category": "מחזורים",
+    "category": "סידורים",
+    "parent_category": "סידורים",
     "child_category": "",
     "categories": [
       "מחזורים",
@@ -147745,7 +147750,7 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:12:57.012099"
+    "last_updated": "2026-04-28T15:03:38.023782"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%9b%d7%97%d7%95%d7%9c-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -148662,7 +148667,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%a7%d7%98%d7%9f-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96/",
-    "product_id": "",
+    "product_id": "45753",
     "sku": "431100",
     "name": "סט אוצר המגילה קטן כריכה קשה (5 כרכים) / עוז והדר",
     "original_price": 121.0,
@@ -148683,11 +148688,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-22T09:27:56.662903"
+    "last_updated": "2026-04-28T15:05:20.653629"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%a4%d7%9c%d7%90%d7%95%d7%aa-%d7%94%d7%aa%d7%95%d7%a8%d7%94-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -148885,8 +148890,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/03/WhatsApp-Image-2025-02-16-at-14.50.42.jpeg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/03/WhatsApp-Image-2025-02-16-at-14.49.41.jpeg"
     ],
-    "category": "ספרי הרב רונן חזיזה",
-    "parent_category": "ספרי הרב רונן חזיזה",
+    "category": "מבצעים לוהטים",
+    "parent_category": "מבצעים לוהטים",
     "child_category": "",
     "categories": [
       "מבצעים לוהטים",
@@ -148898,7 +148903,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-22T09:28:20.668518"
+    "last_updated": "2026-04-28T15:05:42.337504"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%91%d7%95%d7%90-%d7%9c%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%91%d7%99%d7%a0%d7%95%d7%a0%d7%99/",
@@ -149746,10 +149751,10 @@
     "product_id": "43449",
     "sku": "700030",
     "name": "גמרא שוטנשטיין ירושלמי כרך בודד גדול לבחירה",
-    "original_price": 12.5,
-    "regular_price": 12.5,
-    "price": 14.5,
-    "regular_our_price": 14.5,
+    "original_price": 23.0,
+    "regular_price": 23.0,
+    "price": 26,
+    "regular_our_price": 26,
     "description": "כרך בודד לבחירה מתלמוד ירושלמי המבואר מהדורת שוטנשטיין בפורמט גדול ומהודר. חוויית הלימוד האולטימטיבית עם אותיות מאירות עיניים, ביאור מקיף הפותח את שערי הירושלמי, והערות שוליים מעמיקות. אידיאלי ללימוד ממושך ועיון מעמיק.",
     "full_description": "תיאור תלמוד ירושלמי המבואר שוטנשטיין – כרך בודד לבחירה (גודל גדול ומהודר) ללמוד את תורת ארץ ישראל מתוך הרחבת הדעת אמיתית. התלמוד הירושלמי, שעד כה היה נחלתם של יחידי סגולה בשל מורכבותו, מוגש לכם כעת ב מהדורת שוטנשטיין המפוארת בפורמט גדול . זהו הכלי המושלם והמהודר ביותר לצלול לעומקן של סוגיות הירושלמי בבהירות חסרת תקדים. גולת הכותרת של עולם התורה: פתיחת \"הספר החתום\": ביאור מדויק, רציף וזורם המגשר על פערי השפה, הסגנון התמציתי והמונחים הייחודיים לתלמוד הירושלמי. עושר של מפרשים: מערכת הערות שוליים אנציקלופדית המלקטת את מיטב מפרשי הירושלמי (פני משה, קרבן העדה ועוד), ומנגישה את דבריהם בשפה ברורה. השוואות מרתקות: ציונים, הקבלות והשוואות מפורטות לסוגיות המקבילות בתלמוד הבבלי, המעניקים מבט רחב ומקיף על כל סוגיא. היתרון העצום של הפורמט הגדול: אותיות ענק מאירות עיניים: הפורמט הגדול מאפשר הדפסה מרווחת וגדולה במיוחד, המונעת עייפות ומאפשרת שעות של לימוד רצוף ללא מאמץ. עימוד יוקרתי: מרווח נשימה בין השורות והפסקאות, המעניק חוויית קריאה נינוחה ונעימה. פאר והדר: כרכים מרשימים ומהודרים המוסיפים כבוד ופאר לכל ארון ספרים יהודי ולכל בית מדרש. השקיעו בלימוד התורה שלכם עם המהדורה המושקעת ביותר שיצאה אי פעם לתלמוד הירושלמי. בחרו את הכרך החסר לכם או את המסכת הבאה שברצונכם ללמוד, והוסיפו לסל!",
     "image": "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_c38106e9f323414597f0f7a4bd51588emv2-600x402.jpg",
@@ -149770,7 +149775,7 @@
     "stock_text": "מוצר זה חסר כרגע במלאי ואינו זמין.",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:16:45.916725"
+    "last_updated": "2026-04-28T15:07:16.171937"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9c%d7%99%d7%a7%d7%95%d7%98%d7%99-%d7%90%d7%91%d7%99%d7%a8-%d7%99%d7%a2%d7%a7%d7%91-%d7%a7%d7%93%d7%95%d7%a9%d7%94-%d7%95%d7%98%d7%94%d7%a8%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -151211,8 +151216,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_3e91c815f34844e284f3473c77f35db9mv2.png"
     ],
-    "category": "משניות מבוארות",
-    "parent_category": "משניות מבוארות",
+    "category": "משניות כרכים בודדים",
+    "parent_category": "משניות כרכים בודדים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -151224,7 +151229,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:19:26.808764"
+    "last_updated": "2026-04-28T15:09:52.205748"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%94%d7%9b%d7%9c%d7%9c%d7%99-%d7%93%d7%92%d7%9d-%d7%a8%d7%91%d7%99-%d7%a0%d7%aa%d7%9f-l/",
@@ -151852,8 +151857,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_e5f23ae66f454811a158c311ebf366f9mv2.png"
     ],
-    "category": "מבצעים לוהטים",
-    "parent_category": "מבצעים לוהטים",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "חנוכה",
@@ -151867,7 +151872,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:20:26.362914"
+    "last_updated": "2026-04-28T15:10:49.114803"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%a4%d7%99%d7%98%d7%95%d7%9d-%d7%94%d7%a7%d7%98%d7%95%d7%a8%d7%aa-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%95%d7%9e%d7%94%d7%95%d7%93%d7%a8/",
@@ -153067,8 +153072,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_b584a1f96d0f459fadd9547e0523df90mv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_aedfc0ea6f494bceaf0eb687fe828eb3mv2.jpg"
     ],
-    "category": "תפילת תודה",
-    "parent_category": "תפילת תודה",
+    "category": "תפילת תודה הפרשת חלה הדלקת נרות",
+    "parent_category": "תפילת תודה הפרשת חלה הדלקת נרות",
     "child_category": "",
     "categories": [
       "תפילת תודה",
@@ -153080,7 +153085,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:19:34.215947"
+    "last_updated": "2026-04-28T15:13:12.153004"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a0%d7%99-%d7%99%d7%a9%d7%a9%d7%9b%d7%a8-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%92%d7%93%d7%95%d7%9c-%d7%96-%d7%9e%d7%a4%d7%aa%d7%97%d7%95%d7%aa/",
@@ -154400,8 +154405,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/06/8282376.jpg"
     ],
-    "category": "משניות מבוארות",
-    "parent_category": "משניות מבוארות",
+    "category": "משניות כרכים בודדים",
+    "parent_category": "משניות כרכים בודדים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -154414,7 +154419,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:25:18.454753"
+    "last_updated": "2026-04-28T15:15:49.433572"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%99%d7%aa-%d7%9b%d7%94%d7%95%d7%a0%d7%94-%d7%91-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -155079,8 +155084,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ba609e_d73beb1159a24fa998f22dcb22b876e1mv2.jpg"
     ],
-    "category": "מפרשי התורה",
-    "parent_category": "מפרשי התורה",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -155093,7 +155098,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-27T15:26:35.881230"
+    "last_updated": "2026-04-28T15:17:03.484074"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%92%d7%a2%d7%92%d7%95%d7%a2%d7%99%d7%9d-%d7%9c%d7%94-%d7%94%d7%a8%d7%91-%d7%a8%d7%95%d7%a0%d7%9f-%d7%97%d7%96%d7%99%d7%96%d7%94/",
@@ -156531,8 +156536,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_aaf3b0290ebd49319cb68b635145640cmv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_a3624b4c3f3946df85860460c2be8781mv2.png"
     ],
-    "category": "ספרים לילדים",
-    "parent_category": "ספרים לילדים",
+    "category": "הגדות לפסח",
+    "parent_category": "הגדות לפסח",
     "child_category": "",
     "categories": [
       "הגדות לפסח",
@@ -156544,7 +156549,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:26:07.728751"
+    "last_updated": "2026-04-28T15:19:38.697808"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%9b%d7%aa%d7%9c%d7%99-%d7%91%d7%99%d7%aa-%d7%94%d7%93%d7%99%d7%9f-%d7%90-%d7%92-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -158516,7 +158521,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a7%d7%a8%d7%91%d7%a0%d7%95%d7%aa-%d7%a7%d7%a8%d7%91%d7%9f-%d7%a4%d7%a1%d7%97-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "42025",
+    "product_id": "",
     "sku": "552637",
     "name": "רמב\"ם המבואר קרבנות – קרבן פסח / עוז והדר",
     "original_price": 78.0,
@@ -158530,8 +158535,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_6c14ee107fb54226857a2e1cfef171f3mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_7f425e64eb63458587651ebc682873b7mv2.png"
     ],
-    "category": "פסח",
-    "parent_category": "פסח",
+    "category": "משנה תורה להרמב\"ם",
+    "parent_category": "משנה תורה להרמב\"ם",
     "child_category": "",
     "categories": [
       "משנה תורה להרמב\"ם",
@@ -158539,11 +158544,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T13:03:08.831325"
+    "last_updated": "2026-04-28T15:23:15.510096"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%a0%d7%93%d7%94-%d7%91%d7%95%d7%a8%d7%93%d7%95-%d7%9e%d7%a1%d7%95%d7%a8%d7%aa-%d7%94%d7%a9%d7%a1/",
@@ -158652,8 +158657,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_9fe53ca126a54435914e8529753bf8d6mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_fb2af4d8280e4d0fbea2140cbc76b771mv2.png"
     ],
-    "category": "שבועות",
-    "parent_category": "שבועות",
+    "category": "ספרי האר\"י",
+    "parent_category": "ספרי האר\"י",
     "child_category": "",
     "categories": [
       "ספרי האר\"י",
@@ -158665,7 +158670,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:29:56.751596"
+    "last_updated": "2026-04-28T15:23:28.579193"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%9e%d7%9c%d7%9b%d7%aa-%d7%9b%d7%94%d7%a0%d7%99%d7%9d/",
@@ -159049,7 +159054,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a0%d7%95%d7%aa-%d7%94%d7%9c%d7%95%d7%99-%d7%a2%d7%9c-%d7%9e%d7%92%d7%99%d7%9c%d7%aa-%d7%90%d7%a1%d7%aa%d7%a8-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "45216",
     "sku": "521500",
     "name": "מנות הלוי על מגילת אסתר (2 כרכים) / עוז והדר",
     "original_price": 80.0,
@@ -159073,11 +159078,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:30:40.342165"
+    "last_updated": "2026-04-28T15:24:13.862968"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%a9%d7%97%d7%a8%d7%99%d7%aa-%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-14-%d7%a1%d7%9e-%d7%a1-3/",
@@ -159424,8 +159429,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/03/ff491258-315d-4252-83d2-ed556f9d0a2d.jpg"
     ],
-    "category": "ספרי מרן הרב עובדיה",
-    "parent_category": "ספרי מרן הרב עובדיה",
+    "category": "קיצור שולחן ערוך",
+    "parent_category": "קיצור שולחן ערוך",
     "child_category": "",
     "categories": [
       "ספרי מרן הרב עובדיה",
@@ -159437,7 +159442,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:31:18.133930"
+    "last_updated": "2026-04-28T15:24:52.564048"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%92%d7%9d-%d7%a6%d7%91%d7%a2%d7%99-%d7%a9%d7%9e%d7%9f9/",
@@ -161024,7 +161029,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%99%d7%9c%d7%a0%d7%90-%d7%93%d7%97%d7%99%d7%99%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "70335",
+    "product_id": "",
     "sku": "514133",
     "name": "אילנא דחייא / עוז והדר",
     "original_price": 72.0,
@@ -161045,11 +161050,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:34:23.931225"
+    "last_updated": "2026-04-28T15:27:51.324341"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%9b%d7%aa%d7%91%d7%99-%d7%94%d7%9e%d7%92%d7%99%d7%93%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%90-%d7%a4%d7%a8%d7%a9%d7%aa-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa/",
@@ -162258,7 +162263,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%9e%d7%93%d7%a2-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%96%d7%a8%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42008",
     "sku": "552603",
     "name": "רמב\"ם המבואר מדע – עבודה זרה / עוז והדר",
     "original_price": 78.0,
@@ -162279,11 +162284,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:36:43.191724"
+    "last_updated": "2026-04-28T15:30:06.887781"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%9e%d7%a0%d7%97%d7%94-%d7%95%d7%a2%d7%a8%d7%91%d7%99%d7%aa-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a9%d7%91%d7%9c%d7%91-%d7%94%d7%98%d7%91%d7%a2%d7%95%d7%aa/",
@@ -163307,8 +163312,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-14-at-13.40.34.jpeg"
     ],
-    "category": "מפרשי התורה",
-    "parent_category": "מפרשי התורה",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -163320,7 +163325,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:38:32.468614"
+    "last_updated": "2026-04-28T15:32:02.997738"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%a0%d7%93%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -163469,7 +163474,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%92%d7%99%d7%9c%d7%aa-%d7%90%d7%a1%d7%aa%d7%a8-%d7%90%d7%95%d7%a8-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "45807",
     "sku": "711508",
     "name": "מגילת אסתר אור החיים / עוז והדר",
     "original_price": 41.0,
@@ -163490,11 +163495,11 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-23T09:38:51.283580"
+    "last_updated": "2026-04-28T15:32:23.176162"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%9f-%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%a9%d7%9e%d7%a2-%d7%a2%d7%9c-%d7%94%d7%9e%d7%99%d7%98%d7%94-%d7%93%d7%92%d7%9d-%d7%9e%d7%99%d7%95%d7%97%d7%939/",
