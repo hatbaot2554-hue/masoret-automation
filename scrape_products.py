@@ -10,6 +10,7 @@ scrape_products.py
 import requests
 from bs4 import BeautifulSoup
 import json
+import math
 import os
 import time
 from datetime import datetime
@@ -46,8 +47,8 @@ def save_json(filename, data):
 def calc_our_price(base):
     with_markup = base + max(base * 0.15, 2)
     if with_markup < 20:
-        return round(with_markup * 2) / 2
-    return round(with_markup)
+        return math.ceil(with_markup * 2) / 2
+    return math.ceil(with_markup)
 
 
 def scrape_categories():
