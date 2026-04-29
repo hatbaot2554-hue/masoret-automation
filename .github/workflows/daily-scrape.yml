@@ -70,15 +70,17 @@ jobs:
 
       - name: התקנת ספריות
         run: |
-          pip install requests playwright
+          pip install requests playwright psycopg2-binary
           playwright install chromium
           playwright install-deps chromium
 
       - name: עיבוד הזמנות אוטומטי
         env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
           SOURCE_EMAIL: ${{ secrets.SOURCE_EMAIL }}
           SOURCE_PASSWORD: ${{ secrets.SOURCE_PASSWORD }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DASHBOARD_API_URL: https://masoret-dashboard.vercel.app
           OWNER_EMAIL: hatbaot2554@gmail.com
+          AUTO_ORDER_SUBMIT: ${{ secrets.AUTO_ORDER_SUBMIT }}
         run: python auto_order.py
