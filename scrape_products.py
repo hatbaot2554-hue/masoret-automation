@@ -20,8 +20,9 @@ PRODUCTS_FILE = "products.json"
 PROGRESS_FILE = "progress.json"
 URLS_FILE = "all_urls.json"
 CATEGORIES_FILE = "categories.json"
-BATCH_SIZE = 500
-MAX_MINUTES = 300
+DEFAULT_BATCH_SIZE = 500
+DEFAULT_UPDATE_BATCH_SIZE = 250
+DEFAULT_MAX_MINUTES = 25
 
 HEADERS = {
     "User-Agent": (
@@ -30,6 +31,18 @@ HEADERS = {
         "Chrome/120.0.0.0 Safari/537.36"
     )
 }
+
+
+def env_int(name, default):
+    try:
+        return int(os.environ.get(name, default))
+    except (TypeError, ValueError):
+        return default
+
+
+BATCH_SIZE = env_int("SCRAPE_BATCH_SIZE", DEFAULT_BATCH_SIZE)
+UPDATE_BATCH_SIZE = env_int("SCRAPE_UPDATE_BATCH_SIZE", DEFAULT_UPDATE_BATCH_SIZE)
+MAX_MINUTES = env_int("SCRAPE_MAX_MINUTES", DEFAULT_MAX_MINUTES)
 
 
 def load_json(filename, default):
@@ -383,11 +396,25 @@ def main():
     if progress.get("completed"):
         print("✅ סריקה ראשונה הושלמה! עובר למצב עדכונים...")
         urls = load_json(URLS_FILE, [])
+        if not urls:
+            print("No product URLs to update")
+            return
+
+        total = len(urls)
+        start_idx = int(progress.get("update_index", 0)) % total
+        batch_size = min(UPDATE_BATCH_SIZE, total)
+        batch_indexes = [(start_idx + offset) % total for offset in range(batch_size)]
+        print(f"Updating {batch_size} of {total} products from index {start_idx + 1}")
+
         updated = 0
-        for url in urls:
+        last_index = start_idx
+        for idx in batch_indexes:
             elapsed = (datetime.now() - start_time).seconds / 60
             if elapsed > MAX_MINUTES:
+                print(f"\nReached {MAX_MINUTES} minutes, saving progress")
                 break
+            url = urls[idx]
+            last_index = idx
             product = scrape_product(url)
             if product:
                 old = products_dict.get(url, {})
@@ -398,6 +425,8 @@ def main():
                     print(f"  🔄 עודכן [{field}]: {product['name']}")
             time.sleep(0.5)
 
+        progress["update_index"] = (last_index + 1) % total
+        save_json(PROGRESS_FILE, progress)
         save_json(PRODUCTS_FILE, list(products_dict.values()))
         print(f"\n✅ עדכון הושלם — {updated} מוצרים שונו")
         return
