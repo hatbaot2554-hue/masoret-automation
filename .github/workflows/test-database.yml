@@ -44,4 +44,38 @@ jobs:
               sys.exit(1)
 
           print("Database connection OK")
+
+          with psycopg2.connect(database_url, connect_timeout=15) as conn:
+              with conn.cursor() as cur:
+                  cur.execute("SELECT COUNT(*) FROM orders")
+                  total_orders = cur.fetchone()[0]
+
+                  cur.execute("""
+                      SELECT COALESCE(status, 'NULL') AS status, COUNT(*)
+                      FROM orders
+                      GROUP BY COALESCE(status, 'NULL')
+                      ORDER BY COUNT(*) DESC, status
+                  """)
+                  status_counts = cur.fetchall()
+
+                  cur.execute("""
+                      SELECT COUNT(*)
+                      FROM orders
+                      WHERE (auto_submitted = FALSE OR auto_submitted IS NULL)
+                        AND COALESCE(status, 'pending') = 'pending'
+                  """)
+                  pending_auto_orders = cur.fetchone()[0]
+
+                  cur.execute("""
+                      SELECT COALESCE(auto_submitted::text, 'NULL') AS auto_submitted, COUNT(*)
+                      FROM orders
+                      GROUP BY COALESCE(auto_submitted::text, 'NULL')
+                      ORDER BY auto_submitted
+                  """)
+                  auto_submitted_counts = cur.fetchall()
+
+          print(f"Total orders: {total_orders}")
+          print(f"Pending auto orders: {pending_auto_orders}")
+          print("Status counts: " + ", ".join(f"{status}={count}" for status, count in status_counts))
+          print("Auto submitted counts: " + ", ".join(f"{flag}={count}" for flag, count in auto_submitted_counts))
           PY
