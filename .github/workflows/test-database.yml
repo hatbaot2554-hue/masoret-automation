@@ -1,0 +1,47 @@
+name: Test database connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test_database:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install database driver
+        run: pip install psycopg2-binary
+
+      - name: Test PostgreSQL connection
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          python - <<'PY'
+          import os
+          import sys
+          from urllib.parse import urlparse
+
+          import psycopg2
+
+          database_url = os.environ.get("DATABASE_URL", "").strip()
+          if not database_url:
+              print("DATABASE_URL is missing")
+              sys.exit(1)
+
+          parsed = urlparse(database_url)
+          print(f"Connecting to host={parsed.hostname} db={parsed.path.lstrip('/')}")
+
+          with psycopg2.connect(database_url, connect_timeout=15) as conn:
+              with conn.cursor() as cur:
+                  cur.execute("SELECT 1")
+                  value = cur.fetchone()[0]
+
+          if value != 1:
+              print("Unexpected database response")
+              sys.exit(1)
+
+          print("Database connection OK")
+          PY
