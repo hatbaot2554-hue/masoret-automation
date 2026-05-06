@@ -1,0 +1,25 @@
+name: System Health
+
+on:
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run automation health check
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SOURCE_EMAIL: ${{ secrets.SOURCE_EMAIL }}
+          SOURCE_PASSWORD: ${{ secrets.SOURCE_PASSWORD }}
+          AUTO_ORDER_SUBMIT: ${{ secrets.AUTO_ORDER_SUBMIT }}
+        run: python health_check.py
