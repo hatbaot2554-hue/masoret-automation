@@ -45046,8 +45046,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/11/3210937.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/11/3210938.jpg"
     ],
-    "category": "חומשים לתלמידים",
-    "parent_category": "חומשים לתלמידים",
+    "category": "חומשים",
+    "parent_category": "חומשים",
     "child_category": "",
     "categories": [
       "חומשים",
@@ -45126,7 +45126,7 @@
     "attribute_labels": {
       "attribute_%d7%9b%d7%a8%d7%9a-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%94": "כרך לבחירה"
     },
-    "last_updated": "2026-04-30T11:59:18.224997"
+    "last_updated": "2026-05-07T10:58:26.973906"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%99%d7%a6%d7%95%d7%a8-%d7%a9%d7%95%d7%a2-%d7%92%d7%93%d7%95%d7%9c/",
@@ -45424,7 +45424,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%9e%d7%99%d7%a9%d7%94-%d7%97%d7%95%d7%9e%d7%a9%d7%99-%d7%aa%d7%95%d7%a8%d7%94-%d7%91%d7%9f-%d7%90%d7%99%d7%a9-%d7%97%d7%99-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
-    "product_id": "44014",
+    "product_id": "",
     "sku": "N950044",
     "name": "סט חמישה חומשי תורה בן איש חי 5 כרכים",
     "original_price": 289.0,
@@ -45447,11 +45447,11 @@
       "נידם שיווק ספרי קודש"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:00:04.495618"
+    "last_updated": "2026-05-07T10:59:02.561145"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa/",
@@ -47754,14 +47754,15 @@
     "parent_category": "ימים נוראים",
     "child_category": "",
     "categories": [
-      "ימים נוראים"
+      "ימים נוראים",
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:05:02.039417"
+    "last_updated": "2026-05-07T11:04:41.059246"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%99%d7%a9%d7%90-%d7%95%d7%a1%d7%99%d7%a4%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -48061,7 +48062,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%96%d7%95%d7%9f-%d7%90%d7%99%d7%a9-%d7%92%d7%95%d7%93%d7%9c-%d7%91%d7%99%d7%a0%d7%95%d7%a0%d7%99-7-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
-    "product_id": "",
+    "product_id": "43726",
     "sku": "7900245",
     "name": "סט חזון איש גודל בינוני 7 כרכים",
     "original_price": 415.0,
@@ -48087,11 +48088,11 @@
       "ספרי הלכה מפוסקי זמננו"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:05:47.333313"
+    "last_updated": "2026-05-07T11:05:15.434709"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%95%d7%a9%d7%a8-%d7%93%d7%91%d7%a8%d7%99-%d7%90%d7%9e%d7%aa-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -49087,14 +49088,15 @@
     "parent_category": "מחזורים",
     "child_category": "",
     "categories": [
-      "מחזורים"
+      "מחזורים",
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-16T10:43:08.008915"
+    "last_updated": "2026-05-07T11:07:03.567192"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a4%d7%9c%d7%a7%d7%a1%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a9%d7%97%d7%a8%d7%99%d7%aa-1015/",
@@ -50770,14 +50772,15 @@
     "child_category": "",
     "categories": [
       "ספרי הרב מרדכי אליהו",
-      "קיצור שולחן ערוך"
+      "קיצור שולחן ערוך",
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:11:43.209530"
+    "last_updated": "2026-05-07T11:10:01.549806"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%95%d7%94%d7%a8-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%95-%d7%95%d7%99%d7%a8%d7%90/",
@@ -51124,14 +51127,15 @@
     "parent_category": "כללי",
     "child_category": "",
     "categories": [
-      "כללי"
+      "כללי",
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:12:23.495639"
+    "last_updated": "2026-05-07T11:10:49.403920"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%97%d7%99%d7%a9%d7%a0%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -51770,8 +51774,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/07/1895-37.jpg"
     ],
-    "category": "מפרשי התורה",
-    "parent_category": "מפרשי התורה",
+    "category": "נ\"ך מפורש",
+    "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -51782,7 +51786,7 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:13:41.796817"
+    "last_updated": "2026-05-07T11:12:08.357786"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%a8%d7%9b%d7%99%d7%90%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%94-%d7%aa%d7%a0%d7%9b%d7%99%d7%aa-%d7%91-%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f/",
@@ -51833,14 +51837,14 @@
     "child_category": "",
     "categories": [
       "מחזורים",
-      "וילנא"
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T12:13:48.330515"
+    "last_updated": "2026-05-07T11:12:14.453387"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%9e%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%91%d7%98%d7%95%d7%9f-%d7%93%d7%92%d7%9d-%d7%a9%d7%98%d7%95%d7%97-%d7%98%d7%a7%d7%a1%d7%98/",
