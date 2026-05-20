@@ -16,6 +16,7 @@ import json
 import os
 import re
 from typing import Any, Dict, List, Optional, Tuple
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 import psycopg2
 from playwright.async_api import Page, async_playwright
@@ -61,7 +62,16 @@ def split_address(address: str) -> Tuple[str, str]:
 def connect_db():
     if not DATABASE_URL:
         raise RuntimeError("DATABASE_URL is not configured")
-    return psycopg2.connect(DATABASE_URL)
+    try:
+        return psycopg2.connect(DATABASE_URL)
+    except psycopg2.OperationalError:
+        parsed = urlparse(DATABASE_URL)
+        query = dict(parse_qsl(parsed.query, keep_blank_values=True))
+        if query.get("sslmode"):
+            raise
+        query["sslmode"] = "require"
+        secure_url = urlunparse(parsed._replace(query=urlencode(query)))
+        return psycopg2.connect(secure_url)
 
 
 def get_pending_orders() -> List[Dict[str, Any]]:
@@ -73,7 +83,12 @@ def get_pending_orders() -> List[Dict[str, Any]]:
                        customer_address, items, notes
                 FROM orders
                 WHERE (auto_submitted = FALSE OR auto_submitted IS NULL)
-                  AND COALESCE(status, 'pending') = 'pending'
+                  AND COALESCE(status, 'pending') IN (
+                    'pending',
+                    'ai_ready_for_source_submit',
+                    'source_submit_in_progress',
+                    'needs_care'
+                  )
                 ORDER BY created_at ASC
                 LIMIT %s
                 """,
@@ -271,6 +286,13 @@ async def process_order(page: Page, order: Dict[str, Any], products: List[Dict[s
 
     if not AUTO_ORDER_SUBMIT:
         print("AUTO_ORDER_SUBMIT is not true; stopping before final source-site submission")
+        update_order(
+            order["id"],
+            auto_submitted=False,
+            status="source_submit_simulated",
+            checkout_url=page.url,
+            external_order_id=f"SIM-{public_order_id(order['id'])}",
+        )
         return
 
     external_order_id = await click_place_order(page)
@@ -302,9 +324,11 @@ async def main() -> None:
 
         for order in orders:
             try:
+                update_order(order["id"], status="source_submit_in_progress")
                 await process_order(page, order, products)
             except Exception as exc:
                 print(f"Order {order['id']} failed: {exc}")
+                update_order(order["id"], status="needs_care")
 
         await browser.close()
 
