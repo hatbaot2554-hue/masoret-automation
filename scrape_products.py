@@ -14,6 +14,7 @@ import math
 import os
 import time
 from datetime import datetime
+from urllib.parse import unquote
 
 BASE_URL = "https://www.seferkodesh.co.il"
 PRODUCTS_FILE = "products.json"
@@ -120,8 +121,8 @@ def scrape_categories():
         return load_json(CATEGORIES_FILE, [])
 
 
-def get_all_product_urls():
-    if os.path.exists(URLS_FILE):
+def get_all_product_urls(force_refresh=False):
+    if os.path.exists(URLS_FILE) and not force_refresh:
         urls = load_json(URLS_FILE, [])
         if urls:
             print(f"📋 נטען קובץ URLs קיים: {len(urls)} כתובות")
@@ -154,9 +155,10 @@ def get_all_product_urls():
             print(f"  שגיאה בעמוד {page}: {e}")
             break
 
-    urls_list = list(urls)
+    existing_urls = load_json(URLS_FILE, []) if os.path.exists(URLS_FILE) else []
+    urls_list = list(dict.fromkeys(existing_urls + list(urls)))
     save_json(URLS_FILE, urls_list)
-    print(f"\n✅ נשמרו {len(urls_list)} כתובות")
+    print(f"\n✅ נשמרו {len(urls_list)} כתובות ({len(urls_list) - len(existing_urls)} חדשות)")
     return urls_list
 
 
@@ -325,8 +327,9 @@ def scrape_product(url):
                 except:
                     pass
 
-        # שמות האופציות
+        # שמות האופציות + אפשרויות בחירה שמופיעות בעמוד
         attribute_labels = {}
+        attribute_options = {}
         select_els = soup.select("table.variations tr")
         for row in select_els:
             label_el = row.select_one("label")
@@ -335,6 +338,27 @@ def scrape_product(url):
                 label = label_el.get_text(strip=True)
                 name_attr = select_el.get("name", "")
                 attribute_labels[name_attr] = label
+                options = []
+                for option in select_el.find_all("option"):
+                    value = (option.get("value") or "").strip()
+                    text = option.get_text(strip=True)
+                    if not value:
+                        continue
+                    clean_value = text if text and text not in ["בחר אפשרות", "Choose an option"] else unquote(value)
+                    if clean_value and clean_value not in options:
+                        options.append(clean_value)
+                if options:
+                    attribute_options[name_attr] = options
+
+        # במוצרים מסוימים WooCommerce לא מכניס data-product_variations מלא,
+        # אבל כן מציג select-ים. נשמור גם אותם כדי שהאתר יציג צבע/דגם ללקוח.
+        for variation in variations:
+            for key, value in (variation.get("attributes") or {}).items():
+                if not value:
+                    continue
+                attribute_options.setdefault(key, [])
+                if value not in attribute_options[key]:
+                    attribute_options[key].append(value)
 
         return {
             "url": url,
@@ -358,6 +382,7 @@ def scrape_product(url):
             "stock_text": stock_text_display,
             "variations": variations,
             "attribute_labels": attribute_labels,
+            "attribute_options": attribute_options,
             "last_updated": datetime.now().isoformat(),
         }
 
@@ -371,7 +396,7 @@ def products_are_different(old, new):
         "name", "original_price", "regular_price", "price", "regular_our_price",
         "description", "full_description", "image", "images", "category",
         "parent_category", "child_category", "categories", "tags", "in_stock",
-        "stock_text", "variations", "attribute_labels", "sku", "product_id"
+        "stock_text", "variations", "attribute_labels", "attribute_options", "sku", "product_id"
     ]
     for field in fields_to_check:
         if old.get(field) != new.get(field):
@@ -395,7 +420,7 @@ def main():
 
     if progress.get("completed"):
         print("✅ סריקה ראשונה הושלמה! עובר למצב עדכונים...")
-        urls = load_json(URLS_FILE, [])
+        urls = get_all_product_urls(force_refresh=True)
         if not urls:
             print("No product URLs to update")
             return
