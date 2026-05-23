@@ -3202,7 +3202,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:13:24.848776"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:05.667169"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%91%d7%9b%d7%a8%d7%99%d7%9b%d7%aa-%d7%91%d7%93-%d7%9e%d7%a9%d7%95%d7%91%d7%97-%d7%91%d7%9e%d7%92%d7%95%d7%95%d7%9f-%d7%a6%d7%91%d7%a2%d7%99%d7%9d/",
@@ -3278,7 +3279,14 @@
     "attribute_labels": {
       "attribute_%d7%a6%d7%91%d7%a2": "צבע"
     },
-    "last_updated": "2026-05-01T10:00:46.057399"
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2": [
+        "בז'-אבן",
+        "תכלת",
+        "פודרה"
+      ]
+    },
+    "last_updated": "2026-05-23T21:46:08.724398"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%9e%d7%a9%d7%94-%d7%97%d7%95%d7%9e%d7%a9%d7%99-%d7%aa%d7%95%d7%a8%d7%94%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%9b%d7%99%d7%a1%d7%91%d7%9b%d7%a8%d7%99%d7%9b%d7%aa-%d7%93%d7%9e%d7%95%d7%99/",
@@ -3312,7 +3320,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:04.211833"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:11.065750"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9b%d7%aa%d7%a8-1217-2/",
@@ -3341,7 +3350,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:07.461646"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:13.630586"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%93%d7%92%d7%9c-%d7%9e%d7%97%d7%a0%d7%94-%d7%90%d7%a4%d7%a8%d7%99%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%92-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3370,7 +3380,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:13:38.482125"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:16.366598"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%aa-%d7%9e%d7%9c%d7%9a-%d7%aa%d7%97%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-2/",
@@ -3399,7 +3410,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:13:41.651319"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:18.889105"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%9c%d7%91%d7%9f-%d7%a9%d7%99%d7%a9-%d7%91%d7%94%d7%99%d7%a8-1515/",
@@ -3428,7 +3440,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:13:44.800676"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:21.251496"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%a4%d7%a0%d7%99%d7%a0%d7%99-%d7%94%d7%97%d7%a1%d7%99%d7%93%d7%95%d7%aa-%d7%a4%d7%a1%d7%97-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3447,8 +3460,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_ebb5d2bae9f64989b86d566e774ffba1mv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_7e18397870c6416fa8e501f3d8fdf3e5mv2.png"
     ],
-    "category": "פסח",
-    "parent_category": "פסח",
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
       "ספרי חסידות שונים",
@@ -3460,7 +3473,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-05-01T10:01:05.133369"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:23.726603"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%a9%d7%91%d7%aa-%d7%9e%d7%a4%d7%95%d7%90%d7%a8/",
@@ -3491,7 +3505,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:24.447965"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:26.242343"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a0%d7%95%d7%a2%d7%9d-%d7%90%d7%9c%d7%99%d7%9e%d7%9c%d7%9a-17-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3521,7 +3536,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:13:54.991816"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:28.799944"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a7%d7%a8%d7%90-%d7%9e%d7%a4%d7%95%d7%a8%d7%a9-%d7%aa%d7%a8%d7%99-%d7%a2%d7%a9%d7%a8-%d7%90-%d7%94%d7%95%d7%a9%d7%a2-%d7%99%d7%95%d7%90%d7%9c-%d7%a2%d7%9e%d7%95%d7%a1-%d7%a2%d7%95%d7%91/",
@@ -3550,7 +3566,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:31.599625"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:31.368741"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-812-3/",
@@ -3579,7 +3596,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:34.661672"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:33.848897"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%9e%d7%97%d7%9e%d7%93%d7%99%d7%9d-%d7%97%d7%9c%d7%a7-%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3608,7 +3626,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:37.722550"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:36.591840"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/102-%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%a9%d7%a9%d7%99%d7%a0%d7%95-%d7%9c%d7%90%d7%a0%d7%a9%d7%99%d7%9d-%d7%90%d7%aa-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%97%d7%9c%d7%a7-5/",
@@ -3637,7 +3656,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:41.320576"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:38.954185"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-%d7%93%d7%92%d7%9d-%d7%a0%d7%91%d7%9c/",
@@ -3667,7 +3687,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:45.101482"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:41.528066"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%a8-%d7%a1%d7%a4%d7%a8%d7%93-%d7%95%d7%a8%d7%95%d7%93-17-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3696,7 +3717,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:14:15.819410"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:43.931930"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%95%d7%a3-%d7%94%d7%90%d7%93%d7%9d-%d7%95%d7%aa%d7%a4%d7%a7%d7%95%d7%93%d7%95-%d7%a0%d7%a1%d7%a4%d7%97/",
@@ -3725,7 +3747,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:52.379087"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:46.364864"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%90%d7%a9-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%a1%d7%9b%d7%aa-%d7%91%d7%99%d7%a6%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3755,7 +3778,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:55.459122"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:48.808609"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%91%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%aa-79/",
@@ -3785,7 +3809,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:28:58.529942"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:51.385339"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%97%d7%95%d7%9c-%d7%a9%d7%91%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-14-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3814,7 +3839,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:14:29.327762"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:54.013609"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%94%d7%a9%d7%97%d7%a8-%d7%9b%d7%99%d7%a1-%d7%93%d7%92%d7%9d-%d7%96%d7%a8%d7%99%d7%97%d7%94/",
@@ -3843,7 +3869,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:14:32.492144"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:56.595627"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%a9%d7%91%d7%a8-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%90%d7%a8%d7%91%d7%a2%d7%94-%d7%90%d7%91%d7%95%d7%aa/",
@@ -3872,7 +3899,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:14:36.012981"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:46:59.392195"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%99%d7%9c%d7%95%d7%9f-%d7%a2%d7%91%d7%a8%d7%99-%d7%a6%d7%a8%d7%a4%d7%aa%d7%99/",
@@ -3901,7 +3929,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:29:11.104124"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:47:01.884196"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%9c%d7%90%d7%99%d7%9d-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%97%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -3931,7 +3960,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:29:14.230266"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:47:04.261967"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%9e%d7%95%d7%a2%d7%93%d7%99%d7%9d-%d7%98%d7%95-%d7%91%d7%a9%d7%91%d7%98-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
@@ -3960,7 +3990,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:29:27.504531"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:47:06.821236"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%91%d7%a2%d7%9c-%d7%a9%d7%9d-%d7%98%d7%95%d7%91-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a4%d7%90%d7%a8-%d7%9e%d7%a7%d7%93%d7%95%d7%a9%d7%99%d7%9d/",
@@ -3989,7 +4020,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:14:49.353014"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:47:20.474213"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a2%d7%98%d7%a8%d7%94-%d7%9c%d7%98%d7%9c%d7%99%d7%aa-39/",
@@ -4223,7 +4255,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:29:58.001050"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:19.934353"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%a3-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%a8-%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%a4%d7%9c%d7%90%d7%92%d7%99/",
@@ -4252,7 +4285,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:15:19.134514"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:23.278524"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%91%d7%a2%d7%9c-%d7%a9%d7%9d-%d7%98%d7%95%d7%91-%d7%a2%d7%9c-%d7%94%d7%aa%d7%95%d7%a8%d7%94-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%94%d7%95%d7%a6%d7%90/",
@@ -4281,7 +4315,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:04.411917"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:25.702179"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%92%d7%a0%d7%98-%d7%a1%d7%93%d7%a8-%d7%94%d7%a4%d7%a8%d7%a9%d7%aa-%d7%97%d7%9c%d7%94-%d7%9e%d7%a4%d7%95%d7%90%d7%a8/",
@@ -4311,7 +4346,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:15:25.854404"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:28.558031"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%94%d7%9b%d7%95%d7%96%d7%a8%d7%99-%d7%91%d7%aa%d7%a8%d7%92%d7%95%d7%9d-%d7%94%d7%a8%d7%91-%d7%99%d7%a6%d7%97%d7%a7-%d7%a9%d7%99%d7%9c%d7%aa/",
@@ -4341,7 +4377,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:10.860847"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:31.127128"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%91%d7%a8%d7%aa-%d7%98%d7%96-%d7%9e%d7%a9%d7%a1-%d7%aa%d7%9c%d7%9e%d7%95%d7%93%d7%95-%d7%a8%d7%9b%d7%94-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%96%d7%a8%d7%94-%d7%94%d7%95%d7%a8%d7%99/",
@@ -4370,7 +4407,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:14.003828"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:33.878387"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%99%d7%98%d7%95%d7%9d-%d7%94%d7%a7%d7%98%d7%95%d7%a8%d7%aa-%d7%93%d7%92%d7%9d-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a2%d7%95%d7%98%d7%a8%d7%aa/",
@@ -4400,7 +4438,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:15:35.604850"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:36.620392"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%a9%d7%a7%d7%9c%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -4431,7 +4470,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:20.781638"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:39.000889"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%9d-%d7%9e%d7%9c%d7%95%d7%9b%d7%94-17-%d7%a1%d7%9e-%d7%a2%d7%95%d7%a8-%d7%91%d7%95%d7%a8%d7%93%d7%95/",
@@ -4460,7 +4500,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:24.424755"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:41.564460"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%91%d7%a8%d7%aa-%d7%99%d7%92-%d7%9e%d7%a9%d7%a1-%d7%aa%d7%9c%d7%9e%d7%95%d7%93%d7%95-%d7%a8%d7%9b%d7%94-%d7%91%d7%91%d7%90-%d7%9e%d7%a6%d7%99%d7%a2%d7%90-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -4489,7 +4530,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:28.182128"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:44.122962"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%aa%d7%a4%d7%90%d7%a8%d7%aa-%d7%a9%d7%9c%d7%9e%d7%94-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%95%d7%a6%d7%90%d7%aa-%d7%90%d7%95%d7%a8-%d7%94%d7%97%d7%99%d7%99%d7%9d/",
@@ -4518,16 +4560,17 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:31.708120"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:46.549473"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a0%d7%93%d7%94-%d7%90-%d7%91-%d7%9b%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
     "product_id": "41793",
     "sku": "142233",
     "name": "גמרא מתיבתא פנינים נדה א (ב-כא) / עוז והדר",
-    "original_price": 95.0,
+    "original_price": 65.0,
     "regular_price": 100.0,
-    "price": 110,
+    "price": 75,
     "regular_our_price": 115,
     "description": "גמרא מתיבתא פנינים על מסכת נדה א (ב-כא) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים נדה א (ב-כא) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת נדה א (ב-כא) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
@@ -4547,7 +4590,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:35.030264"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:49.022238"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%9b%d7%97%d7%95%d7%9c-%d7%97%d7%95%d7%9c%d7%99%d7%9f-%d7%93-%d7%a7%d7%92-%d7%a7%d7%9e%d7%91-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -4576,7 +4620,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:38.080269"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:51.543589"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%94-%d7%9e%d7%a0%d7%97%d7%94-%d7%9e%d7%a2%d7%a8%d7%99%d7%91-%d7%a4%d7%99%d7%95-15-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -4606,7 +4651,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:41.221089"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:54.351614"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a4%d7%a1%d7%97-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-15-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -4635,7 +4681,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:53.952023"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:49:57.431443"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a2%d7%99%d7%a8%d7%95%d7%91%d7%99%d7%9f-%d7%90-%d7%91-%d7%99%d7%96-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -4664,16 +4711,17 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:30:57.342407"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:00.314027"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a1%d7%a0%d7%94%d7%93%d7%a8%d7%99%d7%9f-%d7%91-%d7%9b%d7%92-%d7%9e%d7%94-%d7%a2%d7%95%d7%96/",
     "product_id": "41752",
     "sku": "142192",
     "name": "גמרא מתיבתא פנינים סנהדרין ב (כג-מה) / עוז והדר",
-    "original_price": 95.0,
+    "original_price": 65.0,
     "regular_price": 100.0,
-    "price": 110,
+    "price": 75,
     "regular_our_price": 115,
     "description": "גמרא מתיבתא פנינים על מסכת סנהדרין ב (כג-מה) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים סנהדרין ב (כג-מה) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת סנהדרין ב (כג-מה) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
@@ -4693,7 +4741,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:00.893245"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:02.932171"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%94%d7%a7%d7%99%d7%93%d7%95%d7%a9-%d7%9e%d7%a7%d7%93%d7%a9-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%95%d7%94%d7%96%d7%9e%d7%a0%d7%99%d7%9d-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%95%d7%9e-2/",
@@ -4723,7 +4772,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:04.116309"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:05.563044"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a9%d7%a1-%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%9e%d7%97%d7%95%d7%9c%d7%a7%d7%95%d7%aa-%d7%95%d7%a7%d7%a1%d7%91%d7%a8%d7%92%d7%a8-48-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa/",
@@ -4810,7 +4860,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:16:25.751144"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:46.404924"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%a7%d7%99%d7%93%d7%95%d7%a9-%d7%9e%d7%a7%d7%93%d7%a9-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%9e%d7%93%d7%95%d7%a8%d7%92-%d7%93%d7%92%d7%9d-%d7%9b%d7%aa%d7%a8/",
@@ -4840,7 +4891,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:17.757970"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:48.916075"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a4%d7%99%d7%95-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9e%d7%92%d7%a0%d7%98-%d7%9b%d7%99%d7%a1-912-5-3/",
@@ -4869,7 +4921,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:16:32.382066"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:51.571530"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%91%d7%a0%d7%95-%d7%91%d7%97%d7%99%d7%99-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a9%d7%9e%d7%95%d7%aa-%d7%91-%d7%99%d7%aa%d7%a8%d7%95-%d7%a4%d7%a7%d7%95%d7%93%d7%99-%d7%a2%d7%95%d7%96/",
@@ -4898,7 +4951,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:34.320880"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:53.969884"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%99%d7%a6%d7%99%d7%a8%d7%94-%d7%94%d7%a9%d7%9c%d7%9d/",
@@ -4927,7 +4981,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:16:39.021112"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:56.574281"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-1217/",
@@ -4956,7 +5011,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:41.451539"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:50:59.332567"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%93%d7%a8%d7%9a-%d7%94%d7%a9%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -4985,7 +5041,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:44.655442"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:01.883793"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%97%d7%9c%d7%a7-%d7%91%d7%91-%d7%a7%d7%a0%d7%95-%d7%a7%d7%a4-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
@@ -5014,7 +5071,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:31:47.715951"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:04.436491"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%94%d7%91%d7%93%d7%9c%d7%94-%d7%93%d7%92%d7%9d-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa/",
@@ -5043,11 +5101,12 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:16:51.716459"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:06.944298"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%9c%d7%99%d7%9c-%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%a7%d7%a9%d7%94-21-%d7%a1%d7%9e/",
-    "product_id": "",
+    "product_id": "42740",
     "sku": "714304",
     "name": "תיקון ליל שבועות קשה (21 ס\"מ)",
     "original_price": 40.0,
@@ -5072,11 +5131,12 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:16:54.877958"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:09.409124"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%a2-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%90%d7%95%d7%97-%d7%94%d7%9c%d7%9b%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%a1%d7%99-%d7%a8%d7%9e%d7%96/",
@@ -5105,7 +5165,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:07.117863"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:11.943471"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%90%d7%95%d7%a6%d7%a8-%d7%a4%d7%9c%d7%90%d7%95%d7%aa-%d7%94%d7%aa%d7%95%d7%a8%d7%94-%d7%91%d7%9e%d7%93%d7%91%d7%a8-9-%d7%97%d7%95%d7%91%d7%a8/",
@@ -5134,7 +5195,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:10.547945"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:14.507088"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%9d-%d7%9e%d7%93%d7%9c%d7%99%d7%94-%d7%93%d7%92%d7%9d-%d7%a8%d7%99%d7%91%d7%95%d7%a2%d7%99%d7%9d-%d7%90%d7%a9%d7%9b%d7%a0%d7%96/",
@@ -5165,7 +5227,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:14.232241"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:17.053141"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a9%d7%91%d7%9c%d7%91-%d7%a8%d7%99%d7%91%d7%95%d7%a2%d7%99%d7%9d-%d7%9b%d7%a1%d7%a3/",
@@ -5194,7 +5257,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:17:08.313606"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:19.729976"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98%d7%a9%d7%a9-%d7%91%d7%90%d7%9e%d7%a8%d7%aa%d7%9a-%d7%a2%d7%9c-%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%a8%d7%91-%d7%92/",
@@ -5216,14 +5280,15 @@
     "child_category": "",
     "categories": [
       "ימים נוראים",
-      "חושן"
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:20.835556"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:22.403871"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%a9%d7%9e%d7%a2-%d7%a9%d7%a2%d7%9c-%d7%94%d7%9e%d7%99%d7%98%d7%94-2/",
@@ -5252,7 +5317,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:17:14.902642"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:24.886687"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a2%d7%a7%d7%99%d7%93%d7%aa-%d7%99%d7%a6%d7%97%d7%a7-6-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5283,7 +5349,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:37.584788"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:27.417971"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%92%d7%93%d7%95%d7%9c%d7%99-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%97%d7%9c%d7%a7-%d7%92-%d7%94%d7%a8%d7%91-%d7%9e%d7%90%d7%99%d7%a8-%d7%9e%d7%90%d7%96%d7%95%d7%96/",
@@ -5315,7 +5382,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:41.059219"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:29.905355"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%93%d7%92%d7%9d-%d7%a8-%d7%9e%d7%90%d7%99%d7%a8-%d7%91%d7%a2%d7%9c-%d7%94%d7%a0%d7%a1/",
@@ -5345,7 +5413,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:45.233785"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:32.414534"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-%d7%98%d7%a1-%d7%96%d7%94%d7%91-1217-4/",
@@ -5374,7 +5443,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:48.498272"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:34.920998"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%a0%d7%93%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5403,7 +5473,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:52.002732"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:37.577147"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%99%d7%9c%d7%aa%d7%90-%d7%97%d7%93%d7%aa%d7%90-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5432,7 +5503,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:32:55.876362"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:40.058499"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%a4%d7%a8%d7%a9%d7%aa-%d7%97%d7%9c%d7%94-%d7%91%d7%9e%d7%92%d7%a0%d7%98-2/",
@@ -5461,7 +5533,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:17:38.453651"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:42.594497"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a2%d7%99%d7%9f-%d7%99%d7%a6%d7%97%d7%a7-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%a8%d7%91-%d7%99%d7%a6%d7%97%d7%a7-%d7%99%d7%95%d7%a1%d7%a3/",
@@ -5489,7 +5562,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:03.130246"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:45.702455"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a9%d7%91%d7%9c%d7%91-%d7%9b%d7%99%d7%a1-%d7%9e%d7%95%d7%93%d7%a4%d7%a1/",
@@ -5518,7 +5592,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:06.279780"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:48.377768"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%9d-%d7%9e%d7%93%d7%9c%d7%99%d7%94-%d7%93%d7%92%d7%9d-%d7%a4%d7%a1%d7%99%d7%9d-%d7%90%d7%91%d7%99%d7%a8-%d7%99%d7%a2%d7%a7%d7%91-%d7%a2%d7%9e/",
@@ -5548,7 +5623,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:09.648665"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:52.132366"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%94%d7%aa%d7%95%d7%a8%d7%94-3/",
@@ -5577,7 +5653,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:17:53.266308"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:54.649233"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%9a-%d7%9e%d7%a7%d7%a8%d7%90%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%aa%d7%a8%d7%99-%d7%a2%d7%a9%d7%a8-%d7%91-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5606,7 +5683,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:17:56.703257"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:57.135056"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%a0%d7%97%d7%95%d7%aa-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -5635,7 +5713,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:00.559916"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:51:59.666305"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-%d7%93%d7%92%d7%9d-%d7%9b%d7%95%d7%aa%d7%9c-1217-2/",
@@ -5664,7 +5743,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:22.802112"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:02.227438"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%94%d7%aa%d7%95%d7%a1%d7%a4%d7%95%d7%aa-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8-%d7%a2%d7%99%d7%a8%d7%95-2/",
@@ -5694,7 +5774,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:07.120798"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:04.617415"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%9e%d7%a7%d7%a8%d7%90-%d7%9e%d7%a4%d7%95%d7%a8%d7%a9-%d7%95%d7%99%d7%a7%d7%a8%d7%90-7-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%a2%d7%95/",
@@ -5723,7 +5804,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:38.578806"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:07.114379"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%9e%d7%a9-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5752,7 +5834,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:42.125375"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:09.615589"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%94%d7%a9%d7%97%d7%a8-%d7%9b%d7%99%d7%a1-%d7%93%d7%92%d7%9d-%d7%95%d7%a8%d7%95%d7%93-%d7%96%d7%94%d7%91/",
@@ -5781,7 +5864,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:17.048683"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:12.373059"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9e%d7%92%d7%a0%d7%98-%d7%93%d7%92%d7%9d-%d7%9e%d7%a2%d7%a8%d7%aa-%d7%94%d7%9e%d7%9b%d7%a4%d7%9c%d7%94-49/",
@@ -5810,7 +5894,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:33:58.558415"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:15.160457"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%96%d7%91%d7%97%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5839,7 +5924,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:23.685186"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:17.577020"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%90%d7%94%d7%91%d7%94-%d7%aa%d7%a4%d7%99%d7%9c%d7%94-%d7%91-%d7%96-%d7%98%d7%95-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -5868,7 +5954,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:27.095237"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:19.968902"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%90%d7%95%d7%a8-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%92%d7%93%d7%95%d7%9c-6-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -5897,7 +5984,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:30.223230"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:22.419951"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%a2%d7%95%d7%a8-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-17/",
@@ -5926,7 +6014,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:12.153673"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:24.933333"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%99%d7%a6%d7%95%d7%a8-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%a2%d7%a8%d7%95%d7%9a/",
@@ -5955,7 +6044,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:15.506018"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:27.767463"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
@@ -5984,7 +6074,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:18.750011"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:30.315933"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%94%d7%91%d7%93%d7%9c%d7%94-%d7%a4%d7%99%d7%95-1217-3/",
@@ -6013,7 +6104,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:43.458193"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:32.811062"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%a7%d7%93%d7%95%d7%a9%d7%aa-%d7%94%d7%a9%d7%9d-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94/",
@@ -6042,7 +6134,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:24.909472"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:35.305707"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a7%d7%a8%d7%90-%d7%9e%d7%a4%d7%95%d7%a8%d7%a9-%d7%9e%d7%9c%d7%9b%d7%99%d7%9d-%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6072,7 +6165,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:28.054860"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:37.844464"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%90%d7%9c%d7%91%d7%95%d7%9e%d7%99-%d7%99%d7%92%d7%9c-%d7%99%d7%a2%d7%a7%d7%91-20-%d7%a1%d7%9e-%d7%96%d7%94%d7%91-%d7%a2%d7%95%d7%96/",
@@ -6101,7 +6195,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:18:53.235857"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:40.683808"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%90%d7%91%d7%95%d7%aa-%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6131,7 +6226,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:34.397738"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:43.104671"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-12-5/",
@@ -6160,7 +6256,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:34:37.994614"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:45.716591"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a2%d7%91%d7%95%d7%93%d7%aa-%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4%d7%95%d7%a8%d7%99/",
@@ -6189,7 +6286,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:03.346506"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:48.356719"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%9f-%d7%94%d7%93%d7%9c%d7%a7%d7%aa-%d7%a0%d7%a8%d7%95%d7%aa-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-29/",
@@ -6221,7 +6319,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:06.651851"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:51.092973"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%91%d7%a6%d7%95%d7%a8-%d7%99%d7%a8%d7%95%d7%9d-17-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%94%d7%a8%d7%91-%d7%99%d7%95%d7%a8%d7%9d/",
@@ -6250,7 +6349,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:10.011456"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:53.610283"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%90%d7%9c%d7%95-%d7%9e%d7%a6%d7%99%d7%90%d7%95%d7%aa-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%9c%d7%9c%d7%90-%d7%aa%d7%9e/",
@@ -6279,7 +6379,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:13.326192"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:56.364516"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%91%d7%aa-%d7%a9%d7%9c%d7%95%d7%9d-%d7%94%d7%9c%d7%9b%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9b%d7%94%d7%a0%d7%97%d7%99%d7%95%d7%aa-%d7%9c%d7%a9%d7%9c%d7%95%d7%9d-%d7%91%d7%99%d7%aa9/",
@@ -6308,7 +6409,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:16.735589"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:52:58.960705"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9e%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-%d7%93%d7%92%d7%9d-%d7%99%d7%94%d7%9c%d7%95%d7%9d-3/",
@@ -6339,7 +6441,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:35:07.637917"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:01.547765"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8-%d7%a7%d7%99%d7%93%d7%95%d7%a9-%d7%9e%d7%a7%d7%93%d7%a9-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%9e%d7%93%d7%95%d7%a8%d7%92-%d7%93%d7%92%d7%9d-%d7%a4%d7%a8%d7%97%d7%99%d7%9d/",
@@ -6369,7 +6472,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:35:20.559372"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:04.375502"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%a1-%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%96%d7%9b%d7%a8-%d7%97%d7%a0%d7%95%d7%9a-%d7%a4%d7%95%d7%a8%d7%9e%d7%98-%d7%91%d7%99%d7%a0%d7%95%d7%a0%d7%99-13-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -6388,8 +6492,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_fc046bcb5be4497caa9deda3f001aebcmv2.jpg",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_a7a5069caae74bfc89a88fcb10e7ed3emv2.jpg"
     ],
-    "category": "ש\"ס משניות",
-    "parent_category": "ש\"ס משניות",
+    "category": "משניות כרכים בודדים",
+    "parent_category": "משניות כרכים בודדים",
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
@@ -6401,7 +6505,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-05-01T10:07:03.467604"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:06.784997"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%91%d7%91%d7%90-%d7%91%d7%aa%d7%a8%d7%90-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%9e%d7%a1%d7%95%d7%a8%d7%aa-%d7%94%d7%a9%d7%a1/",
@@ -6430,7 +6535,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:30.212785"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:09.270081"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%a8%d7%92-%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-14-%d7%a1%d7%9e-%d7%aa%d7%9b%d7%9c%d7%aa/",
@@ -6459,7 +6565,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:34.093389"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:11.863130"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%aa-%d7%99%d7%91%d7%99%d7%a2-%d7%90%d7%95%d7%9e%d7%a8-%d7%95%d7%a9%d7%95%d7%aa-%d7%97%d7%96%d7%95%d7%9f-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-12-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94/",
@@ -6492,7 +6599,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:35:33.722311"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:14.690448"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%9e%d7%a2-%d7%94%d7%90%d7%a9-%d7%a9%d7%9c%d7%99-%d7%9e%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99/",
@@ -6522,7 +6630,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:35:46.302096"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:17.270327"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%9a-%d7%9e%d7%a7%d7%a8%d7%90%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%93%d7%a0%d7%99%d7%90%d7%9c-%d7%a2%d7%96%d7%a8%d7%90-%d7%a0%d7%97%d7%9e%d7%99%d7%94-%d7%a2%d7%95%d7%96/",
@@ -6551,7 +6660,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:43.908216"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:19.791733"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%97%d7%9c%d7%a7-%d7%90%d7%93-%d7%a4%d7%98-%d7%a7%d7%9b%d7%96/",
@@ -6580,7 +6690,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:47.260293"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:22.222017"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%91%d7%a8%d7%aa-%d7%9e%d7%a7%d7%a8%d7%90%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%a4%d7%99%d7%95-%d7%95%d7%99%d7%a8%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6609,7 +6720,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:35:56.671116"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:24.795513"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%91%d7%9b%d7%95%d7%a8%d7%95%d7%aa-%d7%a2%d7%a8%d7%9b%d7%99%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6638,7 +6750,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:19:53.721411"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:27.363066"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%aa%d7%a4%d7%90%d7%a8%d7%aa-%d7%a9%d7%9c%d7%9e%d7%94-%d7%94%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-4-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-17-%d7%a1/",
@@ -6667,7 +6780,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:03.035054"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:29.915037"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%a9%d7%90%d7%9b%d7%9c%d7%95-%d7%95%d7%90%d7%9c%d7%95-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%9e%d7%a0/",
@@ -6696,7 +6810,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:00.666903"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:32.627220"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%a8%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-1217/",
@@ -6726,7 +6841,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:09.373122"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:35.069386"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-%d7%a2%d7%9d-%d7%a4%d7%99%d7%a8%d7%95%d7%a9-%d7%90%d7%91%d7%a0%d7%99-%d7%a0%d7%96%d7%a8-%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8/",
@@ -6755,7 +6871,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:07.236524"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:37.649957"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%99%d7%95%d7%9e%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6784,7 +6901,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:10.539045"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:40.001012"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a2%d7%92%d7%9c%d7%99-%d7%a6%d7%93%d7%a7-%d7%91-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6814,7 +6932,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:19.274030"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:42.616484"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a7%d7%a8%d7%90-%d7%9e%d7%a4%d7%95%d7%a8%d7%a9-%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%99%d7%a8%d7%9e%d7%99%d7%94-%d7%91-%d7%9b%d7%94-%d7%a0%d7%91-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6843,7 +6962,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:22.340571"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:45.053777"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%9e%d7%a8-%d7%9c%d7%a6%d7%99%d7%95%d7%9f-%d7%94%d7%a8%d7%91-%d7%91%d7%9f-%d7%a6%d7%99%d7%95%d7%9f-%d7%9e%d7%95%d7%a6%d7%a4%d7%99/",
@@ -6872,7 +6992,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:25.556637"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:47.577102"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%97%d7%92%d7%99%d7%92%d7%94-%d7%9e%d7%95%d7%a2%d7%93-%d7%a7%d7%98%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6901,7 +7022,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:28.682386"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:50.023211"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%99%d7%95%d7%9e%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -6930,7 +7052,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:32.151685"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:52.410439"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%9e%d7%a9-%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%9e%d7%97%d7%95%d7%93%d7%93%d7%99%d7%9f-%d7%91%d7%a4%d7%99%d7%9a-%d7%a8%d7%a9%d7%99-%d7%9e%d7%a0/",
@@ -6959,7 +7082,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:29.613015"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:55.192739"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a0%d7%a9%d7%99%d7%9d-%d7%a0%d7%a2%d7%a8%d7%94-%d7%91%d7%aa%d7%95%d7%9c%d7%94-%d7%a1%d7%95%d7%98%d7%94-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -6990,7 +7114,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:32.781185"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:57.565117"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%aa-%d7%94%d7%9e%d7%95%d7%a2%d7%93%d7%99%d7%9d-%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7019,7 +7144,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:41.889536"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:53:59.933065"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%a9%d7%9a-%d7%97%d7%9b%d7%9e%d7%94-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7049,7 +7175,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:36:44.913048"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:02.389834"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%a4%d7%99%d7%95-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9b%d7%aa%d7%a8-1217/",
@@ -7078,7 +7205,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:42.394474"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:04.943833"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a4%d7%a1%d7%97-%d7%a1%d7%a4%d7%99%d7%a8-%d7%95%d7%99%d7%94%d7%9c%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7109,7 +7237,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:45.658437"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:07.655550"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%96%d7%91%d7%97%d7%99%d7%9d-%d7%91%d7%95%d7%a8%d7%93%d7%95-%d7%9e%d7%a1%d7%95%d7%a8%d7%aa-%d7%94%d7%a9%d7%a1/",
@@ -7138,7 +7267,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:04.714107"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:10.156056"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%90%d7%9c%d7%95-%d7%9e%d7%a6%d7%99%d7%90%d7%95%d7%aa-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%aa%d7%9e%d7%95%d7%a0%d7%95/",
@@ -7167,7 +7297,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:52.292015"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:12.735128"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%a4%d7%90%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7196,7 +7327,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:21.738684"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:15.224092"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%9e%d7%a7%d7%95%d7%a6%d7%a8-%d7%92%d7%93%d7%95%d7%9c-%d7%93%d7%9e%d7%90%d7%99-%d7%9b%d7%9c%d7%90%d7%99%d7%9d-%d7%a9%d7%91%d7%99%d7%a2%d7%99%d7%aa/",
@@ -7225,16 +7357,17 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:20:59.597774"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:17.656733"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%90-%d7%91-%d7%99%d7%96-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
     "product_id": "41697",
     "sku": "142136",
     "name": "גמרא מתיבתא פנינים מגילה א (ב-יז) / עוז והדר",
-    "original_price": 95.0,
+    "original_price": 65.0,
     "regular_price": 100.0,
-    "price": 110,
+    "price": 75,
     "regular_our_price": 115,
     "description": "גמרא מתיבתא פנינים על מסכת מגילה א (ב-יז) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים מגילה א (ב-יז) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת מגילה א (ב-יז) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
@@ -7254,7 +7387,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:28.723122"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:20.184237"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%9e%d7%a8%d7%99-%d7%a9%d7%a4%d7%a8-%d7%a8-%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%90%d7%91%d7%95%d7%9c%d7%a2%d7%a4%d7%99%d7%90/",
@@ -7283,7 +7417,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:32.177067"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:22.860246"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%aa%d7%a4%d7%90%d7%a8%d7%aa-%d7%a9%d7%9c%d7%9e%d7%94-%d7%94%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-26-%d7%a1/",
@@ -7312,7 +7447,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:35.843000"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:25.408811"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%9e%d7%99%d7%a9%d7%94-%d7%97%d7%95%d7%9e%d7%a9%d7%99-%d7%aa%d7%95%d7%a8%d7%94-%d7%90%d7%91%d7%99%d7%a8-%d7%99%d7%a2%d7%a7%d7%91-%d7%a2%d7%9d-%d7%a4%d7%99%d7%aa%d7%95%d7%97%d7%99/",
@@ -7347,7 +7483,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:38.913922"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:27.944852"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%a2%d7%a8%d7%95%d7%9a-%d7%a6%d7%95%d7%a8%d7%aa-%d7%94%d7%93%d7%a3-11-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%95%d7%a6%d7%90%d7%aa-%d7%a9%d7%95%d7%9c%d7%97%d7%9f/",
@@ -7381,7 +7518,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:42.271988"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:30.460560"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a8-%d7%9c%d7%a6%d7%99%d7%95%d7%9f-%d7%97%d7%9b%d7%9e%d7%94-%d7%95%d7%9e%d7%95%d7%a1%d7%a8-%d7%97%d7%9c%d7%a7-%d7%90-%d7%96%d7%9b%d7%a8%d7%95%d7%9f-%d7%94%d7%93%d7%a1%d7%94/",
@@ -7410,7 +7548,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:37:45.529672"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:33.022547"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%9b%d7%99%d7%a1-%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%96%d7%a8%d7%94-%d7%94%d7%95%d7%a8%d7%99%d7%95%d7%aa-%d7%a2%d7%95%d7%96/",
@@ -7439,7 +7578,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:22.179113"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:35.514318"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%a8%d7%9a-%d7%90-%d7%a9%d7%a1-%d7%aa%d7%9c%d7%9e%d7%95%d7%93%d7%95-%d7%91%d7%99%d7%93%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%a2%d7%95/",
@@ -7470,7 +7610,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:25.251101"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:37.976398"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a0%d7%93%d7%a8%d7%99%d7%9d-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -7499,7 +7640,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:28.559097"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:40.408425"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%9c%d7%91%d7%9f-%d7%a9%d7%99%d7%a9-%d7%a4%d7%a8%d7%97-1515/",
@@ -7528,7 +7670,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:31.616188"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:42.828656"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%91%d7%aa-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%9c%d7%90-%d7%9e%d7%a4%d7%a8%d7%a9%d7%99%d7%9d/",
@@ -7557,7 +7700,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:02.304198"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:45.409720"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-%d7%93%d7%92%d7%9d-%d7%a2%d7%99%d7%98%d7%95%d7%a8%d7%99%d7%9d/",
@@ -7590,7 +7734,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:37.996079"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:47.915558"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%99%d7%a9%d7%95%d7%a2%d7%95%d7%aa-%d7%99%d7%95%d7%a1%d7%a3-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7621,16 +7766,17 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:18.584984"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:50.347056"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a2%d7%a8%d7%9b%d7%99%d7%9f-%d7%91-%d7%99%d7%96-%d7%9c%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
     "product_id": "41786",
     "sku": "142226",
     "name": "גמרא מתיבתא פנינים ערכין ב (יז-לד) / עוז והדר",
-    "original_price": 95.0,
+    "original_price": 65.0,
     "regular_price": 100.0,
-    "price": 110,
+    "price": 75,
     "regular_our_price": 115,
     "description": "גמרא מתיבתא פנינים על מסכת ערכין ב (יז-לד) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים ערכין ב (יז-לד) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת ערכין ב (יז-לד) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
@@ -7650,7 +7796,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:21.903053"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:52.780339"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-21-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7679,7 +7826,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:25.520669"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:55.366118"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%99-%d7%98%d7%94%d7%a8%d7%94-%d7%92-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7712,7 +7860,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:28.705757"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:54:57.855916"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%9b%d7%aa%d7%95%d7%91%d7%95%d7%aa-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%9e%d7%a1%d7%95%d7%a8%d7%aa-%d7%94%d7%a9%d7%a1/",
@@ -7741,7 +7890,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:55.064228"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:00.330579"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%a8%d7%9a-%d7%98%d7%95-%d7%a9%d7%a1-%d7%aa%d7%9c%d7%9e%d7%95%d7%93%d7%95-%d7%91%d7%99%d7%93%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%a1%d7%a0%d7%94%d7%93%d7%a8%d7%99%d7%9f/",
@@ -7772,7 +7922,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:21:58.470851"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:03.051930"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%aa%d7%a2%d7%a0%d7%99%d7%aa-%d7%91%d7%95%d7%a8%d7%93%d7%95-%d7%9e%d7%a1%d7%95%d7%a8%d7%aa-%d7%94%d7%a9%d7%a1/",
@@ -7801,7 +7952,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:38.303366"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:05.574667"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a4%d7%99%d7%95-17-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%9b%d7%97%d7%95%d7%9c-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7830,7 +7982,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:41.392350"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:08.038644"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%a2-%d7%94%d7%a8%d7%91-%d7%92%d7%93%d7%95%d7%9c-4-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7859,7 +8012,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:38:54.086889"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:10.541293"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a7%d7%a0%d7%99%d7%9f-%d7%a9%d7%9b%d7%a0%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7888,7 +8042,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:22:12.338698"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:13.145007"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a1%d7%95%d7%9b%d7%94-%d7%91-%d7%91-%d7%9b%d7%92-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -7917,11 +8072,12 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:00.842791"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:15.769781"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%95%d7%94%d7%a8-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%91%d7%9e%d7%93%d7%91%d7%a8-%d7%90-%d7%91%d7%9e%d7%93%d7%91%d7%a8-%d7%a0%d7%a9%d7%90-%d7%90-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
-    "product_id": "41968",
+    "product_id": "",
     "sku": "527681",
     "name": "זוהר המבואר במדבר א (במדבר-נשא א) / עוז והדר",
     "original_price": 78.0,
@@ -7943,11 +8099,12 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": true,
-    "stock_text": "",
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:22:18.911629"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:18.266158"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%90%d7%91%d7%99%d7%a8-%d7%99%d7%a2%d7%a7%d7%91-%d7%a9%d7%91%d7%aa-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-17-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -7977,7 +8134,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:22:22.175343"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:20.879962"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%93%d7%92%d7%9d-%d7%94%d7%9b%d7%95%d7%aa%d7%9c-%d7%94%d7%9e%d7%a2%d7%a8%d7%91%d7%99-7/",
@@ -8006,7 +8164,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:11.674815"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:23.797073"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%91%d7%a8%d7%9b%d7%99-%d7%a0%d7%a4%d7%a9%d7%99-%d7%93%d7%92%d7%9d-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d9/",
@@ -8035,7 +8194,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:14.919059"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:26.401596"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%96%d7%9e%d7%a0%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%aa%d7%95%d7%a8%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8065,16 +8225,17 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:18.253014"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:29.006341"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%91%d7%91%d7%90-%d7%9e%d7%a6%d7%99%d7%a2%d7%90-%d7%92-%d7%9e%d7%91-%d7%a1-%d7%a2%d7%95%d7%96/",
     "product_id": "41740",
     "sku": "142179",
     "name": "גמרא מתיבתא פנינים בבא מציעא ג (מב-ס) / עוז והדר",
-    "original_price": 95.0,
+    "original_price": 65.0,
     "regular_price": 100.0,
-    "price": 110,
+    "price": 75,
     "regular_our_price": 115,
     "description": "גמרא מתיבתא פנינים על מסכת בבא מציעא ג (מב-ס) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים בבא מציעא ג (מב-ס) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת בבא מציעא ג (מב-ס) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
@@ -8094,7 +8255,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:21.318118"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:31.413769"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%90%d7%95%d7%a6%d7%a8-%d7%92%d7%90%d7%95%d7%a0%d7%99-%d7%a1%d7%a4%d7%a8%d7%93-%d7%a1%d7%95%d7%9b%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8123,7 +8285,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:24.550245"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:34.086656"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%91%d7%90%d7%a8-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%94%d7%a8%d7%91-%d7%91%d7%99%d7%93%d7%a8%d7%9e%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -8154,7 +8317,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:27.744171"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:36.663662"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a4%d7%9c%d7%a7%d7%a1%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-1511-3/",
@@ -8183,7 +8347,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:22:45.905052"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:39.045631"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%a2%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%99%d7%91%d7%9e%d7%95%d7%aa-%d7%91-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8212,7 +8377,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:34.211548"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:41.588175"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%9a-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%99%d7%97%d7%96%d7%a7%d7%90%d7%9c-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8241,7 +8407,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:37.466100"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:44.166346"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a8%d7%91%d7%a0%d7%95-%d7%a0%d7%97%d7%9e%d7%9f-%d7%a2%d7%9c-%d7%94%d7%aa%d7%95%d7%a8%d7%94-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -8272,7 +8439,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-05-02T08:16:02.791945"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:46.745807"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%98%d7%9c%d7%99%d7%aa-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f-%d7%93%d7%92%d7%9d-3/",
@@ -8301,7 +8469,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:43.777255"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:49.297452"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a9%d7%91%d7%aa-%d7%95%d7%99%d7%95%d7%98-%d7%a4%d7%99%d7%95-14-%d7%a1%d7%9e-%d7%90%d7%a9%d7%9b%d7%a0%d7%96-%d7%9b%d7%97%d7%95%d7%9c/",
@@ -8330,7 +8499,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:46.961705"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:52.177386"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a4%d7%a1%d7%97-%d7%90%d7%95%d7%aa%d7%99%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%a4%d7%99%d7%95-25-%d7%a1%d7%9e-%d7%96%d7%94%d7%91-%d7%a2%d7%95%d7%96/",
@@ -8359,7 +8529,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:05.689503"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:54.601457"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8-%d7%a8%d7%a9-%d7%90%d7%9c%d7%91%d7%90%d7%96-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8388,7 +8559,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:39:53.542224"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:57.206038"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%99%d7%a8-%d7%95%d7%a9%d7%91%d7%97%d7%94-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%a8%d7%92-49/",
@@ -8419,7 +8591,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:40:06.531632"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:55:59.976692"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%95%d7%a6%d7%a8-%d7%91%d7%99%d7%9f-%d7%94%d7%9e%d7%a6%d7%a8%d7%99%d7%9d-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8448,7 +8621,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:17.006629"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:02.814329"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%9b%d7%99%d7%a1-%d7%9b%d7%95%d7%aa%d7%9c-%d7%9c%d7%91%d7%9f-%d7%9b%d7%a1%d7%a3/",
@@ -8477,7 +8651,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:40:13.445025"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:05.457637"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a2%d7%95%d7%a8-21-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%97%d7%95%d7%9d-%d7%9e%d7%91%d7%a8%d7%99%d7%a7-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -8506,7 +8681,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:23.570241"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:08.063075"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%91%d7%9f-%d7%a4%d7%95%d7%a8%d7%aa-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%94%d7%95%d7%93%d7%a8-21-%d7%a1%d7%9e-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
@@ -8528,14 +8704,15 @@
     "child_category": "",
     "categories": [
       "מחזורים",
-      "חושן"
+      "נידם שיווק ספרי קודש"
     ],
     "tags": [],
     "in_stock": false,
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:26.972802"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:10.773714"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%93%d7%92%d7%9d-%d7%97%d7%95%d7%98%d7%99%d7%9d/",
@@ -8566,7 +8743,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:30.227100"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:13.426010"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9c%d7%a9%d7%9b%d7%a0%d7%95-%d7%aa%d7%93%d7%a8%d7%a9%d7%95-%d7%9c%d7%a9%d7%9b%d7%95%d7%aa-%d7%91%d7%99%d7%aa-%d7%94%d7%9e%d7%a7%d7%93%d7%a9-%d7%94%d7%a9%d7%9c%d7%99%d7%a9%d7%99/",
@@ -8594,7 +8772,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:33.363317"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:15.832819"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a9%d7%98%d7%a2%d7%9c%d7%98%d7%a2-%d7%99%d7%a9%d7%95%d7%a2%d7%94-%d7%9e%d7%90%d7%99%d7%a8%d7%99%d7%9d-%d7%99%d7%99%d7%93%d7%99%d7%a9-04-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -8625,7 +8804,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:36.650916"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:18.425312"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a0%d7%96%d7%99%d7%a8-%d7%a1%d7%95%d7%98%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -8654,7 +8834,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:40:53.000468"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:21.039417"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a7%d7%93%d7%95%d7%a9%d7%aa-%d7%9c%d7%95%d7%99-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8685,7 +8866,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:40:56.123063"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:23.935796"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%96%d7%9e%d7%95%d7%a8-%d7%a9%d7%99%d7%a8-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-%d7%94%d7%a8%d7%91-%d7%90%d7%95%d7%a8%d7%99%d7%90%d7%9c-%d7%91%d7%95%d7%9b%d7%a8%d7%99%d7%a5/",
@@ -8839,7 +9021,19 @@
       "attribute_%d7%91%d7%97%d7%99%d7%a8%d7%aa-%d7%93%d7%92%d7%9d": "בחירת דגם",
       "attribute_%d7%a1%d7%95%d7%92-%d7%9b%d7%a8%d7%99%d7%9b%d7%94": "סוג כריכה"
     },
-    "last_updated": "2026-04-26T08:23:46.977075"
+    "attribute_options": {
+      "attribute_%d7%91%d7%97%d7%99%d7%a8%d7%aa-%d7%93%d7%92%d7%9d": [
+        "דגם נבל - זהב",
+        "דגם נבל - כחול",
+        "דגם נבל - כסף",
+        "דגם תכלת"
+      ],
+      "attribute_%d7%a1%d7%95%d7%92-%d7%9b%d7%a8%d7%99%d7%9b%d7%94": [
+        "קשה",
+        "רכה"
+      ]
+    },
+    "last_updated": "2026-05-23T21:56:26.654812"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%97%d7%9c%d7%90%d7%a7%d7%949/",
@@ -8869,7 +9063,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:50.320781"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:29.025060"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%99%d7%93%d7%95%d7%a9%d7%99-%d7%aa%d7%95%d7%a8%d7%94-%d7%a1%d7%a7%d7%90%d7%99-1724/",
@@ -8898,7 +9093,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:41:15.717846"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:31.575069"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a7%d7%a0%d7%99%d7%9f-%d7%96%d7%9b%d7%99%d7%94-%d7%95%d7%9e%d7%aa%d7%a0%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -8927,7 +9123,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:23:56.840681"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:33.986097"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-12-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%a1/",
@@ -8956,7 +9153,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:41:32.419661"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:36.454544"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%90%d7%9e%d7%a8-%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%9c%d7%9b%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-5-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%a8%d7%91-%d7%9e%d7%a8%d7%93%d7%9b/",
@@ -8986,16 +9184,17 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:03.349772"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:39.268747"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a2%d7%99%d7%a8%d7%95%d7%91%d7%99%d7%9f-%d7%91-%d7%99%d7%96-%d7%9e%d7%90-%d7%a2%d7%95%d7%96/",
     "product_id": "41683",
     "sku": "142114",
     "name": "גמרא מתיבתא פנינים עירובין ב (יז-מא) / עוז והדר",
-    "original_price": 95.0,
+    "original_price": 65.0,
     "regular_price": 100.0,
-    "price": 110,
+    "price": 75,
     "regular_our_price": 115,
     "description": "גמרא מתיבתא פנינים על מסכת עירובין ב (יז-מא) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים עירובין ב (יז-מא) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת עירובין ב (יז-מא) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
@@ -9015,7 +9214,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:41:38.504389"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:41.630513"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%94%d7%aa%d7%95%d7%a1%d7%a4%d7%95%d7%aa-%d7%a4%d7%a1%d7%97%d7%99%d7%9d-%d7%92-%d7%a4%d7%96-%d7%a7%d7%9b%d7%90/",
@@ -9044,7 +9244,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:41:41.547021"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:43.993648"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%a4%d7%99%d7%95-14-%d7%a1%d7%9e-%d7%90%d7%a9%d7%9b%d7%a0%d7%96-%d7%97%d7%95%d7%9d-%d7%9b%d7%94%d7%94/",
@@ -9073,7 +9274,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:41:44.757228"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:46.829131"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%9e%d7%a1%d7%94-%d7%9e%d7%91%d7%98%d7%95%d7%9f-%d7%93%d7%92%d7%9d-%d7%a9%d7%a4%d7%a2/",
@@ -9104,7 +9306,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:16.428760"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:49.396469"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%97%d7%95%d7%9c-21-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%97%d7%95%d7%9d-%d7%a2%d7%9d-%d7%aa%d7%94%d7%99%d7%9c%d7%99/",
@@ -9135,7 +9338,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:19.678675"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:52.085121"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a0%d7%9a-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%99%d7%94%d7%95%d7%a9%d7%a2-%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -9164,7 +9368,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:41:55.132495"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:54.529681"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%9f-%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%93%d7%92%d7%9d-%d7%9b%d7%aa%d7%9e%d7%99-%d7%a6%d7%91%d7%a2/",
@@ -9194,7 +9399,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:26.012032"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:57.005921"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%95%d7%93-%d7%aa%d7%95%d7%95%d7%99-%d7%94%d7%a4%d7%a0%d7%99%d7%9d-%d7%95%d7%9b%d7%a3-%d7%94%d7%99%d7%93/",
@@ -9223,7 +9429,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:29.194132"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:56:59.386782"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%98%d7%94%d7%a8%d7%94-%d7%9e%d7%a9%d7%9b%d7%91-%d7%95%d7%9e%d7%95%d7%a9%d7%91/",
@@ -9257,7 +9464,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:32.660536"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:01.916220"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%aa-%d7%94%d7%9e%d7%95%d7%a2%d7%93%d7%99%d7%9d-%d7%93-%d7%a4%d7%a8%d7%a9%d7%99%d7%95%d7%aa-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -9286,11 +9494,12 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:08.575893"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:04.302889"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%9e%d7%95%d7%a0%d7%94-%d7%95%d7%91%d7%98%d7%97%d7%95%d7%9f-%d7%92%d7%93%d7%95%d7%9c-24-%d7%a1%d7%9e-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a7%d7%a9%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
-    "product_id": "",
+    "product_id": "45214",
     "sku": "514113",
     "name": "אמונה ובטחון גדול (24 ס\"מ) כריכה קשה / עוז והדר",
     "original_price": 36.0,
@@ -9311,11 +9520,12 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:11.888450"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:06.916830"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%96%d7%95%d7%96%d7%aa-%d7%a2%d7%a5-%d7%90%d7%a4%d7%95%d7%a7%d7%a1%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%aa-%d7%99%d7%93/",
@@ -9347,7 +9557,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:14.860173"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:09.294459"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a9%d7%91%d7%aa-%d7%97%d7%95%d7%9c-%d7%a9%d7%97%d7%a8%d7%99%d7%aa-%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d%d7%93%d7%9e%d7%95%d7%99-%d7%a2%d7%95%d7%a8-4-2/",
@@ -9377,7 +9588,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:18.562381"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:12.035032"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99-1217-2/",
@@ -9406,7 +9618,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:49.419933"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:14.452901"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a1%d7%95%d7%9b%d7%94-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
@@ -9435,7 +9648,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:34.940134"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:17.267686"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-5-%d7%9e%d7%97%d7%96%d7%95%d7%a8%d7%99%d7%9d-%d7%90%d7%a6%d7%95%d7%9c%d7%94-17-%d7%a1%d7%9e-%d7%90%d7%a9%d7%9b%d7%a0%d7%96-%d7%9c%d7%91%d7%9f-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93/",
@@ -9464,7 +9678,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:38.344883"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:19.803680"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%91%d7%a0%d7%99-%d7%99%d7%a9%d7%a9%d7%9b%d7%a8-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a7%d7%98%d7%9f-6-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95/",
@@ -9493,7 +9708,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:24:59.477347"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:22.424858"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%9b%d7%aa%d7%95%d7%91%d7%95%d7%aa-%d7%95-%d7%a6%d7%94-%d7%a7%d7%99%d7%91-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -9522,7 +9738,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:45.130990"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:24.838724"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%93%d7%9e%d7%95%d7%99-%d7%a2%d7%95%d7%a8-%d7%9c%d7%91%d7%9f/",
@@ -9553,7 +9770,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:48.714945"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:27.509913"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%aa-%d7%9e%d7%9c%d7%9a-%d7%aa%d7%97%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-5/",
@@ -9582,7 +9800,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:25:09.233268"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:29.954434"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%99%d7%a8-%d7%95%d7%a9%d7%91%d7%97%d7%94-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%95%d7%a8%d7%92-79/",
@@ -9613,7 +9832,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:55.736385"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:32.569374"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%90%d7%91%d7%99%d7%a8-%d7%99%d7%a2%d7%a7%d7%91-%d7%a2%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -9644,7 +9864,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:42:59.059015"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:35.116041"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%99-%d7%94%d7%97%d7%a1%d7%99%d7%93%d7%95%d7%aa-%d7%a8%d7%91%d7%99-%d7%a6%d7%93%d7%95%d7%a7-%d7%94%d7%9b%d7%94%d7%9f-%d7%9e%d7%9c%d7%95%d7%91%d7%9c/",
@@ -9673,7 +9894,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:02.804640"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:37.838067"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%a4%d7%99%d7%95-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-12-%d7%a1%d7%9e-%d7%a1%d7%a4%d7%a8%d7%93-%d7%9c/",
@@ -9702,7 +9924,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:06.106895"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:40.373138"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%9a-%d7%a4%d7%a8%d7%99-%d7%aa%d7%91%d7%95%d7%90%d7%94-%d7%a2%d7%9c-%d7%94%d7%aa%d7%95%d7%a8%d7%94/",
@@ -9719,8 +9942,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ba609e_e1bf0214df7a4dc0834d4e95e29035c6mv2.jpg"
     ],
-    "category": "ספרי חסידות שונים",
-    "parent_category": "ספרי חסידות שונים",
+    "category": "מפרשי התורה",
+    "parent_category": "מפרשי התורה",
     "child_category": "",
     "categories": [
       "מפרשי התורה",
@@ -9732,7 +9955,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:25:26.169175"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:43.142903"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%99%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%99%d7%94-%d7%a7%d7%98%d7%9f/",
@@ -9762,7 +9986,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:12.804442"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:45.850737"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%93%d7%a8%d7%95%d7%a9-%d7%95%d7%97%d7%99%d7%93%d7%95%d7%a9-%d7%a8%d7%91%d7%99-%d7%a2%d7%a7%d7%99%d7%91%d7%90-%d7%90%d7%99%d7%92%d7%a8/",
@@ -9793,7 +10018,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:16.409001"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:48.257749"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%92%d7%9d-%d7%a4%d7%a1%d7%99%d7%9d/",
@@ -9823,7 +10049,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:20.076562"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:50.873204"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a8%d7%9e%d7%91%d7%9d-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%a0%d7%96%d7%99%d7%a7%d7%99%d7%9f-%d7%92%d7%96%d7%9c%d7%94-%d7%95%d7%90%d7%91%d7%99%d7%93%d7%94-%d7%91-%d7%99-%d7%99%d7%97/",
@@ -9853,7 +10080,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:25:41.079800"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:53.634160"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%a9%d7%9c%d7%9d-%d7%9e%d7%93%d7%9c%d7%99%d7%94-%d7%93%d7%92%d7%9d-%d7%90%d7%9c%d7%9b%d7%a1%d7%95%d7%9f-%d7%90%d7%91%d7%99%d7%a8-%d7%99%d7%a2%d7%a7%d7%91-%d7%a2/",
@@ -9883,7 +10111,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:26.393134"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:56.332262"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7-%d7%9c%d7%aa%d7%9c%d7%9e%d7%99%d7%93%d7%99%d7%9d-%d7%9b%d7%99%d7%a6%d7%93-%d7%94%d7%a8%d7%92%d7%9c-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -9912,7 +10141,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:25:47.914493"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:57:59.039842"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%91%d7%95%d7%93%d7%93-%d7%9c%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%94%d7%98%d7%91%d7%a2%d7%95%d7%aa/",
@@ -9941,7 +10171,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:32.902616"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:01.854583"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%a4%d7%a8%d7%95%d7%9f-%d7%9b%d7%99%d7%a1-%d7%9e%d7%a0%d7%97%d7%94-%d7%95%d7%a2%d7%a8%d7%91%d7%99%d7%aa-%d7%a0%d7%95%d7%a1%d7%97-%d7%a1%d7%a4%d7%a8%d7%93-4/",
@@ -9970,7 +10201,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:25:54.762012"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:04.255500"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%9e%d7%a7%d7%a8%d7%90%d7%95%d7%aa-%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%a7%d7%98%d7%9f-48-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%a2/",
@@ -9999,7 +10231,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:25:58.304525"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:06.775150"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9e%d7%a6%d7%95%d7%99%d7%a8-3/",
@@ -10028,7 +10261,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:02.132426"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:09.365229"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%90%d7%91%d7%a0%d7%99-%d7%a7%d7%a8%d7%99%d7%a1%d7%98%d7%9c-s-2/",
@@ -10057,7 +10291,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:45.940301"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:11.871138"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%96%d7%9e%d7%95%d7%a8-%d7%9c%d7%aa%d7%95%d7%93%d7%94-%d7%90%d7%99%d7%a9-%d7%9e%d7%a6%d7%9c%d7%99%d7%97/",
@@ -10088,7 +10323,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:48.967636"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:14.291367"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%9c%d7%90-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-6-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-29-%d7%a1%d7%9e-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -10118,7 +10354,8 @@
     "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:11.879310"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:17.119818"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a2%d7%99%d7%9f-%d7%99%d7%a2%d7%a7%d7%91-%d7%91%d7%99%d7%90%d7%95%d7%a8%d7%99-%d7%94%d7%97%d7%a1%d7%99%d7%93%d7%95%d7%aa-%d7%9e%d7%95%d7%a2%d7%93-%d7%92-%d7%9e%d7%95%d7%a2%d7%93-%d7%a7%d7%98%d7%9f/",
@@ -10147,11 +10384,12 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:43:55.424958"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:19.566574"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%94%d7%92%d7%93%d7%94-%d7%a4%d7%a1%d7%97-%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa-%d7%94%d7%a4%d7%a9%d7%98-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
-    "product_id": "",
+    "product_id": "42216",
     "sku": "711316",
     "name": "הגדה פסח מעיינות הפשט / עוז והדר",
     "original_price": 44.0,
@@ -10172,11 +10410,12 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "המלאי אזל",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:18.430141"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:22.025410"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a8%d7%9e%d7%91%d7%9f-%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%a2%d7%9c-%d7%94%d7%aa%d7%95%d7%a8%d7%94-2-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -10205,7 +10444,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:11.063344"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:24.471468"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a2%d7%a7%d7%99%d7%93%d7%aa-%d7%99%d7%a6%d7%97%d7%a7-%d7%94%d7%9e%d7%91%d7%95%d7%90%d7%a8-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%90-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%9b%d7%99-%d7%aa%d7%a6%d7%90/",
@@ -10236,7 +10476,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:25.300541"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:27.000736"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a2%d7%99%d7%a8%d7%95%d7%91%d7%99%d7%9f-%d7%9b%d7%99%d7%a1-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -10265,7 +10506,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:28.796560"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:29.740703"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%96%d7%91%d7%97%d7%99%d7%9d-%d7%91-%d7%99%d7%98-%d7%9c%d7%95-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -10294,7 +10536,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:21.379940"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:32.222082"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%a9%d7%a4%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%97%d7%95%d7%9c%d7%99%d7%9f-%d7%90-%d7%91-%d7%a2%d7%96-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -10323,7 +10566,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:35.560416"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:34.739092"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a2%d7%a8%d7%91%d7%99-%d7%a0%d7%97%d7%9c-3-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%90%d7%95%d7%a8-%d7%94%d7%97%d7%99%d7%99%d7%9d/",
@@ -10352,7 +10596,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:27.718822"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:37.038091"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%91%d7%99%d7%a6%d7%94-%d7%9e%d7%95%d7%a8%d7%97%d7%91-%d7%90%d7%93%d7%95%d7%9d-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -10381,7 +10626,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:31.416096"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:39.831882"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%97%d7%95%d7%91%d7%a8%d7%aa-%d7%a7%d7%93%d7%95%d7%a9%d7%aa-%d7%9c%d7%95%d7%99-%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%a8%d7%9b%d7%94-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
@@ -10399,8 +10645,8 @@
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_f1bc27714f7c4a36a3da5ddebd473cdfmv2.png",
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_3ef0a4ac60954662aae376e7812f7612mv2.png"
     ],
-    "category": "ספרי חסידות שונים",
-    "parent_category": "ספרי חסידות שונים",
+    "category": "פורים",
+    "parent_category": "פורים",
     "child_category": "",
     "categories": [
       "ספרי חסידות שונים",
@@ -10412,7 +10658,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:34.460496"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:42.277365"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9e%d7%a0%d7%97%d7%94-%d7%a2%d7%a8%d7%91%d7%99%d7%aa-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-1014/",
@@ -10441,7 +10688,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:37.592436"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:44.861000"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%a4%d7%99%d7%9c%d7%94-%d7%98%d7%94%d7%95%d7%a8%d7%94-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c9/",
@@ -10471,7 +10719,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:51.872799"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:47.417822"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%a9%d7%95%d7%98%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%a8%d7%99%d7%99%d7%96%d7%9e%d7%9f-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%91%d7%95%d7%93%d7%93%d7%99%d7%9d/",
@@ -10857,7 +11106,38 @@
     "attribute_labels": {
       "attribute_%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%94": "כרכים לבחירה"
     },
-    "last_updated": "2026-04-30T10:44:44.291933"
+    "attribute_options": {
+      "attribute_%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%94": [
+        "זרעים א - ברכות",
+        "זרעים ב - פאה / דמאי / כלאים",
+        "זרעים ג - שביעית",
+        "זרעים ד - תרומות / מעשרות",
+        "זרעים ה - מעשר שני / חלה / ערלה / ביכורים",
+        "מועד א - שבת",
+        "מועד ב - עירובין / פסחים",
+        "מועד ג - שקלים / יומא / סוכה",
+        "מועד ד - ביצה / ר\"ה / תענית / מגילה / מו\"ק / חגיגה",
+        "נשים א - יבמות / כתובות",
+        "נשים ב - נדרים / נזיר",
+        "נשים ג - סוטה / גיטין / קידושין",
+        "נזיקין א - בבא קמא / בבא מציעא",
+        "נזיקין ב - בבא בתרא",
+        "נזיקין ג - מכות / שבועות / עדיות",
+        "נזיקין ד - אבות / עבודה זרה / הוריות",
+        "קדשים א - זבחים",
+        "קדשים ב - מנחות / חולין",
+        "קדשים ג - בכורות / ערכין / תמורה",
+        "טהרות א - כלים א עם איורים",
+        "טהרות ב - כלים ב עם איורים",
+        "טהרות ג - אהלות עם איורים",
+        "טהרות ד נגעים / פרה עם איורים",
+        "טהרות ה - מקוואות עם איורים",
+        "טהרות ו - נדה / מכשירין",
+        "טהרות ז - זבים / טבול יום / ידיים / עוקצין",
+        "קדשים ד - כריתות / מעילה / תמיד / מידות /קנים"
+      ]
+    },
+    "last_updated": "2026-05-23T21:58:50.229648"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%9e%d7%a9%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%a8%d7%94-%d7%94%d7%9e%d7%a0%d7%95%d7%a7%d7%93-%d7%9b%d7%99%d7%a1-14-%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%a2%d7%95%d7%96-%d7%95/",
@@ -10888,7 +11168,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:26:59.108058"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:52.877982"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9e%d7%92%d7%a0%d7%98-%d7%93%d7%92%d7%9d-%d7%94%d7%9b%d7%95%d7%aa%d7%9c-%d7%94%d7%9e%d7%a2%d7%a8%d7%91%d7%99-3/",
@@ -10917,7 +11198,8 @@
     "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:44:51.480495"
+    "attribute_options": {},
+    "last_updated": "2026-05-23T21:58:55.368968"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%95%d7%98%d7%94-%d7%9b%d7%99%d7%a1-%d7%a2%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%9f-%d7%94%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
