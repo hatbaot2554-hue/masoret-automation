@@ -584,13 +584,33 @@ def main():
         if stale_urls:
             print(f"🧹 הוסרו {len(stale_urls)} מוצרים שכבר לא קיימים במקור")
 
+        new_urls = [url for url in urls if normalize_url(url) not in products_dict]
+        if new_urls:
+            print(f"🆕 נמצאו {len(new_urls)} מוצרים חדשים — סורק אותם לפני עדכון שוטף")
+
+        added = 0
+        updated = 0
+
+        for new_url in new_urls:
+            elapsed = (datetime.now() - start_time).seconds / 60
+            if elapsed > MAX_MINUTES:
+                print(f"\nReached {MAX_MINUTES} minutes while adding new products, saving progress")
+                break
+            url = normalize_url(new_url)
+            product = scrape_product(url)
+            if product:
+                product_url = normalize_url(product.get("url") or url)
+                products_dict[product_url] = product
+                added += 1
+                print(f"  🆕 נוסף: {product['name']}")
+            time.sleep(0.5)
+
         total = len(urls)
         start_idx = int(progress.get("update_index", 0)) % total
         batch_size = min(UPDATE_BATCH_SIZE, total)
         batch_indexes = [(start_idx + offset) % total for offset in range(batch_size)]
         print(f"Updating {batch_size} of {total} products from index {start_idx + 1}")
 
-        updated = 0
         last_index = start_idx
         for idx in batch_indexes:
             elapsed = (datetime.now() - start_time).seconds / 60
@@ -615,7 +635,7 @@ def main():
         progress["update_index"] = (last_index + 1) % total
         save_json(PROGRESS_FILE, progress)
         save_json(PRODUCTS_FILE, list(products_dict.values()))
-        print(f"\n✅ עדכון הושלם — {updated} מוצרים שונו")
+        print(f"\n✅ עדכון הושלם — {added} מוצרים חדשים נוספו, {updated} מוצרים שונו")
         return
 
     all_urls = get_all_product_urls()
