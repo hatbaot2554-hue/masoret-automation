@@ -307,6 +307,7 @@ def scrape_product(url):
     try:
         res = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(res.text, "html.parser")
+        url = normalize_url(res.url)
 
         # שם המוצר
         name = ""
@@ -580,10 +581,13 @@ def main():
             last_index = idx
             product = scrape_product(url)
             if product:
-                old = products_dict.get(url, {})
+                product_url = normalize_url(product.get("url") or url)
+                if product_url != url:
+                    products_dict.pop(url, None)
+                old = products_dict.get(product_url, {})
                 changed, field = products_are_different(old, product)
                 if changed:
-                    products_dict[url] = product
+                    products_dict[product_url] = product
                     updated += 1
                     print(f"  🔄 עודכן [{field}]: {product['name']}")
             time.sleep(0.5)
@@ -612,7 +616,10 @@ def main():
 
         product = scrape_product(url)
         if product:
-            products_dict[url] = product
+            product_url = normalize_url(product.get("url") or url)
+            if product_url != url:
+                products_dict.pop(url, None)
+            products_dict[product_url] = product
 
         progress["last_index"] = i + 1
         time.sleep(0.5)
