@@ -135,11 +135,22 @@ def category_name_from_page(url):
         return ""
     title = soup.select_one("h1.page-title, h1.entry-title, h1")
     if title:
-        return title.get_text(strip=True)
+        return clean_category_name(title.get_text(strip=True))
     return ""
 
 
+def clean_category_name(name):
+    cleaned = " ".join(str(name or "").split())
+    prefixes = ["קטגוריה:", "Category:"]
+    for prefix in prefixes:
+        if cleaned.startswith(prefix):
+            cleaned = cleaned[len(prefix):].strip()
+    return cleaned
+
+
 def merge_category_tree(existing, parent, child=""):
+    parent = clean_category_name(parent)
+    child = clean_category_name(child)
     if not parent:
         return
     item = next((cat for cat in existing if cat.get("parent") == parent), None)
@@ -226,9 +237,18 @@ def scrape_categories():
                     "children": children
                 })
 
+        menu_parent_names = {clean_category_name(category.get("parent")) for category in categories}
+        menu_child_names = {
+            clean_category_name(child)
+            for category in categories
+            for child in category.get("children", [])
+        }
         for sitemap_category in category_tree_from_sitemaps():
+            sitemap_parent = clean_category_name(sitemap_category.get("parent"))
+            if sitemap_parent in menu_child_names and sitemap_parent not in menu_parent_names:
+                continue
             for child in sitemap_category.get("children", []):
-                merge_category_tree(categories, sitemap_category.get("parent"), child)
+                merge_category_tree(categories, sitemap_parent, child)
 
         if categories:
             categories = sorted(categories, key=lambda cat: cat["parent"])
