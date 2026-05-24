@@ -14,13 +14,21 @@ import math
 import os
 import time
 from datetime import datetime
-from urllib.parse import unquote
+from urllib.parse import unquote, urljoin, urlparse
 
 BASE_URL = "https://www.seferkodesh.co.il"
 PRODUCTS_FILE = "products.json"
 PROGRESS_FILE = "progress.json"
 URLS_FILE = "all_urls.json"
 CATEGORIES_FILE = "categories.json"
+SITEMAP_CANDIDATES = [
+    f"{BASE_URL}/product-sitemap.xml",
+    f"{BASE_URL}/wp-sitemap-posts-product-1.xml",
+]
+CATEGORY_SITEMAP_CANDIDATES = [
+    f"{BASE_URL}/product_cat-sitemap.xml",
+    f"{BASE_URL}/wp-sitemap-taxonomies-product_cat-1.xml",
+]
 DEFAULT_BATCH_SIZE = 500
 DEFAULT_UPDATE_BATCH_SIZE = 250
 DEFAULT_MAX_MINUTES = 25
@@ -63,6 +71,116 @@ def calc_our_price(base):
     if with_markup < 20:
         return math.ceil(with_markup * 2) / 2
     return math.ceil(with_markup)
+
+
+def normalize_url(url):
+    if not url:
+        return ""
+    absolute = urljoin(BASE_URL, url).split("#")[0].split("?")[0]
+    return absolute.rstrip("/") + "/"
+
+
+def request_soup(url, timeout=15):
+    res = requests.get(url, headers=HEADERS, timeout=timeout)
+    if not res.ok:
+        return None
+    return BeautifulSoup(res.text, "html.parser")
+
+
+def sitemap_locations(url):
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=20)
+        if not res.ok:
+            return []
+        soup = BeautifulSoup(res.text, "html.parser")
+        return [loc.get_text(strip=True) for loc in soup.find_all("loc") if loc.get_text(strip=True)]
+    except Exception as exc:
+        print(f"  ⚠️ לא ניתן לקרוא sitemap {url}: {exc}")
+        return []
+
+
+def collect_product_urls_from_sitemaps():
+    urls = []
+    seen = set()
+    for sitemap_url in SITEMAP_CANDIDATES:
+        for loc in sitemap_locations(sitemap_url):
+            url = normalize_url(loc)
+            if ("/product/" in url or "/product-page/" in url) and url not in seen:
+                seen.add(url)
+                urls.append(url)
+        if urls:
+            print(f"  sitemap מוצרים: {len(urls)} כתובות מתוך {sitemap_url}")
+            break
+    return urls
+
+
+def collect_category_urls_from_sitemaps():
+    urls = []
+    seen = set()
+    for sitemap_url in CATEGORY_SITEMAP_CANDIDATES:
+        for loc in sitemap_locations(sitemap_url):
+            url = normalize_url(loc)
+            if "/product-category/" in url and url not in seen:
+                seen.add(url)
+                urls.append(url)
+        if urls:
+            print(f"  sitemap קטגוריות: {len(urls)} כתובות מתוך {sitemap_url}")
+            break
+    return urls
+
+
+def category_name_from_page(url):
+    soup = request_soup(url, timeout=12)
+    if not soup:
+        return ""
+    title = soup.select_one("h1.page-title, h1.entry-title, h1")
+    if title:
+        return title.get_text(strip=True)
+    return ""
+
+
+def merge_category_tree(existing, parent, child=""):
+    if not parent:
+        return
+    item = next((cat for cat in existing if cat.get("parent") == parent), None)
+    if not item:
+        item = {"parent": parent, "children": []}
+        existing.append(item)
+    if child and child not in item["children"]:
+        item["children"].append(child)
+
+
+def category_tree_from_sitemaps():
+    category_urls = collect_category_urls_from_sitemaps()
+    if not category_urls:
+        return []
+
+    names_by_url = {}
+    for url in category_urls:
+        name = category_name_from_page(url)
+        if name:
+            names_by_url[url] = name
+        time.sleep(0.15)
+
+    tree = []
+    for url, name in names_by_url.items():
+        parsed = urlparse(url)
+        path = parsed.path.strip("/")
+        marker = "product-category/"
+        if marker not in path:
+            continue
+        rel = path.split(marker, 1)[1].strip("/")
+        parts = [part for part in rel.split("/") if part]
+        if len(parts) <= 1:
+            merge_category_tree(tree, name)
+            continue
+
+        parent_url = normalize_url(f"{BASE_URL}/product-category/{parts[0]}/")
+        parent_name = names_by_url.get(parent_url) or category_name_from_page(parent_url)
+        if parent_name:
+            merge_category_tree(tree, parent_name, name)
+
+    return [cat for cat in tree if cat.get("children")]
 
 
 def scrape_categories():
@@ -108,7 +226,14 @@ def scrape_categories():
                     "children": children
                 })
 
+        for sitemap_category in category_tree_from_sitemaps():
+            for child in sitemap_category.get("children", []):
+                merge_category_tree(categories, sitemap_category.get("parent"), child)
+
         if categories:
+            categories = sorted(categories, key=lambda cat: cat["parent"])
+            for category in categories:
+                category["children"] = sorted(category.get("children", []))
             save_json(CATEGORIES_FILE, categories)
             print(f"✅ נשמרו {len(categories)} קטגוריות ראשיות")
         else:
@@ -130,6 +255,10 @@ def get_all_product_urls(force_refresh=False):
 
     print("🌐 סורק עמודי חנות לאיסוף כתובות...")
     urls = set()
+
+    for product_url in collect_product_urls_from_sitemaps():
+        urls.add(product_url)
+
     page = 1
 
     while True:
@@ -144,7 +273,7 @@ def get_all_product_urls(force_refresh=False):
             for a in product_links:
                 href = a.get("href", "")
                 if "/product-page/" in href or "/product/" in href:
-                    found.add(href.split("?")[0])
+                    found.add(normalize_url(href))
             if not found:
                 break
             urls.update(found)
@@ -156,9 +285,11 @@ def get_all_product_urls(force_refresh=False):
             break
 
     existing_urls = load_json(URLS_FILE, []) if os.path.exists(URLS_FILE) else []
-    urls_list = list(dict.fromkeys(existing_urls + list(urls)))
+    current_urls = sorted(urls)
+    urls_list = current_urls if force_refresh else list(dict.fromkeys(existing_urls + current_urls))
     save_json(URLS_FILE, urls_list)
-    print(f"\n✅ נשמרו {len(urls_list)} כתובות ({len(urls_list) - len(existing_urls)} חדשות)")
+    removed = max(0, len(existing_urls) - len(urls_list)) if force_refresh else 0
+    print(f"\n✅ נשמרו {len(urls_list)} כתובות ({len(urls_list) - len(existing_urls)} חדשות, {removed} הוסרו)")
     return urls_list
 
 
@@ -412,7 +543,7 @@ def main():
     scrape_categories()
 
     products = load_json(PRODUCTS_FILE, [])
-    products_dict = {p["url"]: p for p in products}
+    products_dict = {normalize_url(p["url"]): p for p in products if p.get("url")}
     progress = load_json(PROGRESS_FILE, {"last_index": 0, "completed": False})
 
     print(f"📦 מוצרים קיימים: {len(products_dict)}")
@@ -424,6 +555,13 @@ def main():
         if not urls:
             print("No product URLs to update")
             return
+
+        current_urls = set(urls)
+        stale_urls = [url for url in products_dict if normalize_url(url) not in current_urls]
+        for url in stale_urls:
+            products_dict.pop(url, None)
+        if stale_urls:
+            print(f"🧹 הוסרו {len(stale_urls)} מוצרים שכבר לא קיימים במקור")
 
         total = len(urls)
         start_idx = int(progress.get("update_index", 0)) % total
@@ -438,7 +576,7 @@ def main():
             if elapsed > MAX_MINUTES:
                 print(f"\nReached {MAX_MINUTES} minutes, saving progress")
                 break
-            url = urls[idx]
+            url = normalize_url(urls[idx])
             last_index = idx
             product = scrape_product(url)
             if product:
@@ -469,7 +607,7 @@ def main():
             print(f"\n⏰ הגענו ל-{MAX_MINUTES} דקות — עוצרים לשמירה")
             break
 
-        url = all_urls[i]
+        url = normalize_url(all_urls[i])
         print(f"[{i+1}/{total}] {url.split('/')[-2][:40]}")
 
         product = scrape_product(url)

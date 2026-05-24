@@ -42,7 +42,7 @@ jobs:
           git config user.name "אוטומציה"
           git config user.email "bot@masoret-yehudit.co.il"
           git pull --rebase origin main || true
-          git add products.json progress.json all_urls.json || true
+          git add products.json categories.json progress.json all_urls.json || true
           git diff --staged --quiet || git commit -m "עדכון מוצרים אוטומטי"
           git push --force origin main || true
 
