@@ -2,12 +2,22 @@ import os
 import psycopg2
 import requests
 from datetime import datetime, timedelta
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 DATABASE_URL = os.environ.get('DATABASE_URL')
 RESEND_API_KEY = os.environ.get('RESEND_API_KEY')
+VALID_SSLMODES = {'disable', 'allow', 'prefer', 'require', 'verify-ca', 'verify-full'}
+
+def normalize_database_url(database_url):
+    parsed = urlparse(database_url or '')
+    query = dict(parse_qsl(parsed.query, keep_blank_values=True))
+    sslmode = query.get('sslmode', '').lower()
+    if sslmode not in VALID_SSLMODES:
+        query['sslmode'] = 'require'
+    return urlunparse(parsed._replace(query=urlencode(query)))
 
 def get_orders_to_check():
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = psycopg2.connect(normalize_database_url(DATABASE_URL))
     cur = conn.cursor()
     cur.execute("""
         SELECT id, our_order_id, email, first_name, external_order_id, status
@@ -22,7 +32,7 @@ def get_orders_to_check():
     return rows
 
 def update_status(order_id, new_status):
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = psycopg2.connect(normalize_database_url(DATABASE_URL))
     cur = conn.cursor()
     cur.execute("UPDATE orders SET status = %s WHERE id = %s", (new_status, order_id))
     conn.commit()

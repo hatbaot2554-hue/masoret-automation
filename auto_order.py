@@ -29,6 +29,7 @@ SOURCE_EMAIL = os.environ.get("SOURCE_EMAIL", "")
 SOURCE_PASSWORD = os.environ.get("SOURCE_PASSWORD", "")
 AUTO_ORDER_SUBMIT = os.environ.get("AUTO_ORDER_SUBMIT", "").lower() == "true"
 MAX_ORDERS = int(os.environ.get("AUTO_ORDER_LIMIT", "5"))
+VALID_SSLMODES = {"disable", "allow", "prefer", "require", "verify-ca", "verify-full"}
 
 
 def public_order_id(order_id: str) -> str:
@@ -62,16 +63,16 @@ def split_address(address: str) -> Tuple[str, str]:
 def connect_db():
     if not DATABASE_URL:
         raise RuntimeError("DATABASE_URL is not configured")
-    try:
-        return psycopg2.connect(DATABASE_URL)
-    except psycopg2.OperationalError:
-        parsed = urlparse(DATABASE_URL)
-        query = dict(parse_qsl(parsed.query, keep_blank_values=True))
-        if query.get("sslmode"):
-            raise
+    return psycopg2.connect(normalize_database_url(DATABASE_URL))
+
+
+def normalize_database_url(database_url: str) -> str:
+    parsed = urlparse(database_url)
+    query = dict(parse_qsl(parsed.query, keep_blank_values=True))
+    sslmode = query.get("sslmode", "").lower()
+    if sslmode not in VALID_SSLMODES:
         query["sslmode"] = "require"
-        secure_url = urlunparse(parsed._replace(query=urlencode(query)))
-        return psycopg2.connect(secure_url)
+    return urlunparse(parsed._replace(query=urlencode(query)))
 
 
 def get_pending_orders() -> List[Dict[str, Any]]:
