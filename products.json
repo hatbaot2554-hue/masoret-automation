@@ -1,11 +1,11 @@
 [
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%a1-%d7%aa%d7%9c%d7%9e%d7%95%d7%93-%d7%91%d7%91%d7%9c%d7%99-%d7%95%d7%99%d7%9c%d7%a0%d7%90-%d7%97%d7%aa%d7%a0%d7%99%d7%9d-%d7%9e%d7%95%d7%a8%d7%97%d7%91-27-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-3/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A9%D7%A1-%D7%AA%D7%9C%D7%9E%D7%95%D7%93-%D7%91%D7%91%D7%9C%D7%99-%D7%95%D7%99%D7%9C%D7%A0%D7%90-%D7%97%D7%AA%D7%A0%D7%99%D7%9D-%D7%9E%D7%95%D7%A8%D7%97%D7%91-27-%D7%9B%D7%A8%D7%9B%D7%99%D7%9D-3/",
     "product_id": "43913",
     "sku": "MH950",
     "name": "ש\"ס תלמוד בבלי וילנא חתנים מורחב 27 כרכים – 36 ס\"מ / מסורת הש\"ס",
-    "original_price": 3550,
-    "regular_price": 3650,
+    "original_price": 3550.0,
+    "regular_price": 3650.0,
     "price": 4083,
     "regular_our_price": 4198,
     "description": "סט תלמוד בבלי \"וילנא החדש\" במהדורת חתנים מורחבת (27 כרכים, גובה 36 ס\"מ). יצירת מופת של \"מסורת הש\"ס\" הכוללת עריכה מחודשת של כל דפי הגמרא והמפרשים (כולל רי\"ף, רא\"ש, מהרש\"א ועוד). המהדורה המורחבת כוללת מפרשים נוספים בסוף המסכת, מדורי עזר בצדי הדף (\"תורה אור\", \"פניני רש\"י\"), ושמירה קפדנית על צורת הדף ברי\"ף. מתנה יוקרתית ומושלמת לחתנים ולבתי כנסת.",
@@ -27,15 +27,15 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-05-23T06:21:00.902725"
+    "last_updated": "2026-11-17T20:21:26.748022"
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%a1-%d7%9e%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%96%d7%9b%d7%a8-%d7%97%d7%a0%d7%95%d7%9a-%d7%a4%d7%95%d7%a8%d7%9e%d7%98-%d7%91%d7%99%d7%a0%d7%95%d7%a0%d7%99-13-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A9%D7%A1-%D7%9E%D7%A9%D7%A0%D7%99%D7%95%D7%AA-%D7%96%D7%9B%D7%A8-%D7%97%D7%A0%D7%95%D7%9A-%D7%A4%D7%95%D7%A8%D7%9E%D7%98-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-13-%D7%9B%D7%A8%D7%9B%D7%99%D7%9D/",
     "product_id": "43452",
     "sku": "70007",
     "name": "ש\"ס משניות זכר חנוך פורמט בינוני 13 כרכים",
-    "original_price": 735,
-    "regular_price": 840,
+    "original_price": 735.0,
+    "regular_price": 840.0,
     "price": 846,
     "regular_our_price": 966,
     "description": "משניות \"זכר חנוך\" במהדורה מנוקדת עם שלל מפרשי המשנה (ר\"ע מברטנורא, רמב\"ם, מלאכת שלמה, תוספות יום טוב, אנשי שם, רעק\"א, ראשון לציון ועוד).",
@@ -60,7 +60,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-05-23T21:53:06.784997"
+    "last_updated": "2026-11-17T20:21:28.403343"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%a2%d7%a8%d7%95%d7%9a-%d7%a6%d7%95%d7%a8%d7%aa-%d7%94%d7%93%d7%a3-11-%d7%9b%d7%a8%d7%9b%d7%99%d7%9d-%d7%94%d7%95%d7%a6%d7%90%d7%aa-%d7%a9%d7%95%d7%9c%d7%97%d7%9f/",
@@ -2319,12 +2319,12 @@
     "last_updated": "2026-05-23T06:10:12.232051"
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a2%d7%9d-%d7%aa%d7%94%d7%9c%d7%99%d7%9d-1217-2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A1%D7%A7%D7%90%D7%99-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A2%D7%9D-%D7%AA%D7%94%D7%9C%D7%99%D7%9D-1217-2/",
     "product_id": "",
     "sku": "1129",
-    "name": "סידור סקאי כוונת הלב עם תהילים 12*17",
-    "original_price": 36,
-    "regular_price": 38,
+    "name": "סידור סקאי כוונת הלב (12×17 ס\"מ)",
+    "original_price": 36.0,
+    "regular_price": 38.0,
     "price": 42,
     "regular_our_price": 44,
     "description": "",
@@ -2342,19 +2342,19 @@
     ],
     "tags": [],
     "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:21:20.772791",
-    "needs_revalidation": true
+    "attribute_options": {},
+    "last_updated": "2026-11-17T20:21:30.185568"
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%99%d7%a7%d7%95%d7%a0%d7%99-%d7%94%d7%96%d7%95%d7%94%d7%a8-%d7%97%d7%9c%d7%a7-%d7%94-%d7%9b%d7%91-%d7%9e-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%AA%D7%99%D7%A7%D7%95%D7%A0%D7%99-%D7%94%D7%96%D7%95%D7%94%D7%A8-%D7%97%D7%9C%D7%A7-%D7%94-%D7%9B%D7%91-%D7%9E-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8/",
     "product_id": "41960",
     "sku": "527625",
     "name": "תיקוני הזוהר חלק ה (כ\"ב-מ') / עוז והדר",
-    "original_price": 78,
-    "regular_price": 84,
+    "original_price": 78.0,
+    "regular_price": 84.0,
     "price": 90,
     "regular_our_price": 97,
     "description": "ספר \"תיקוני הזוהר\" (חלק ה' – תיקונים כ\"ב-מ') במהדורה מבוארת מבית \"עוז והדר\". כולל ביאור משולב, מדויק וברור, עם הערות וציונים להבנה מעמיקה של סודות התיקונים.",
@@ -2372,20 +2372,20 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:07:39.246229",
-    "needs_revalidation": true
+    "attribute_options": {},
+    "last_updated": "2026-11-17T20:21:32.190643"
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%90%d7%95%d7%a6%d7%a8-%d7%94%d7%9e%d7%95%d7%a2%d7%93%d7%99%d7%9d-%d7%9b%d7%a8%d7%99%d7%9b%d7%94-%d7%a8%d7%9b%d7%94-%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-4/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%98-%D7%90%D7%95%D7%A6%D7%A8-%D7%94%D7%9E%D7%95%D7%A2%D7%93%D7%99%D7%9D-%D7%9B%D7%A8%D7%99%D7%9B%D7%94-%D7%A8%D7%9B%D7%94-%D7%99%D7%9E%D7%99%D7%9D-%D7%A0%D7%95%D7%A8%D7%90%D7%99%D7%9D-4/",
     "product_id": "45204",
     "sku": "421400",
     "name": "סט אוצר המועדים כריכה רכה ימים נוראים (4 כרכים) / עוז והדר",
-    "original_price": 83,
-    "regular_price": 90,
+    "original_price": 83.0,
+    "regular_price": 90.0,
     "price": 96,
     "regular_our_price": 104,
     "description": "סט \"אוצר המועדים\" לימים הנוראים (4 כרכים) מבית \"עוז והדר\" . מארז חסכוני בכריכה רכה, המאגד בתוכו ים של דרושים, רעיונות, הלכות ופנינים לחודש אלול ותשרי.",
@@ -2403,12 +2403,12 @@
       "עוז והדר"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-05-01T09:53:47.864889",
-    "needs_revalidation": true
+    "attribute_options": {},
+    "last_updated": "2026-11-17T20:21:33.908486"
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%d7%a9%d7%95%d7%a4%d7%a8-%d7%91%d7%a6%d7%99%d7%95%d7%9f-%d7%94%d7%a8%d7%91-%d7%91%d7%9f-%d7%a6%d7%99%d7%95%d7%9f-%d7%9e%d7%95%d7%a6%d7%a4%d7%99/",
