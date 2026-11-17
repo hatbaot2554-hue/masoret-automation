@@ -6,7 +6,7 @@ on:
 
 concurrency:
   group: daily-scrape
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   scrape:
@@ -41,10 +41,10 @@ jobs:
         run: |
           git config user.name "אוטומציה"
           git config user.email "bot@masoret-yehudit.co.il"
-          git pull --rebase origin main || true
-          git add products.json categories.json progress.json all_urls.json || true
+          git add products.json categories.json progress.json all_urls.json
           git diff --staged --quiet || git commit -m "עדכון מוצרים אוטומטי"
-          git push --force origin main || true
+          git pull --rebase origin main
+          git push origin HEAD:main
 
   notify_waitlist:
     runs-on: ubuntu-latest
@@ -63,6 +63,8 @@ jobs:
 
       - name: בדיקת חזרת מוצרים למלאי ושליחת מיילים
         env:
+          DASHBOARD_ORDERS_API_SECRET: ${{ secrets.DASHBOARD_ORDERS_API_SECRET }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DASHBOARD_API_URL: https://masoret-dashboard.vercel.app
         run: python check_stock.py

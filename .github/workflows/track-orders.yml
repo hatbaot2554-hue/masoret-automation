@@ -23,14 +23,15 @@ jobs:
           python-version: '3.11'
 
       - name: התקנת ספריות
-        run: pip install requests
+        run: pip install requests psycopg2-binary
 
       - name: בדיקת סטטוסים
         env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
           SOURCE_WC_URL: ${{ secrets.SOURCE_WC_URL }}
           SOURCE_WC_KEY: ${{ secrets.SOURCE_WC_KEY }}
           SOURCE_WC_SECRET: ${{ secrets.SOURCE_WC_SECRET }}
-        run: python track_orders.py
+        run: python track_database_orders.py
 
       - name: שמירת עדכוני סטטוס
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -10,5 +10,633 @@
     "children": [
       "תהילים מחולק"
     ]
+  },
+  {
+    "parent": "ש\"ס תלמוד בבלי",
+    "children": []
+  },
+  {
+    "parent": "משניות כרכים בודדים",
+    "children": []
+  },
+  {
+    "parent": "סט שולחן ערוך",
+    "children": []
+  },
+  {
+    "parent": "שאלות ותשובות",
+    "children": []
+  },
+  {
+    "parent": "ספרי מרן הרב עובדיה",
+    "children": []
+  },
+  {
+    "parent": "ברכון ברכת המזון",
+    "children": []
+  },
+  {
+    "parent": "מפרשי התורה",
+    "children": []
+  },
+  {
+    "parent": "ברסלב",
+    "children": []
+  },
+  {
+    "parent": "מפרשי הש\"ס",
+    "children": []
+  },
+  {
+    "parent": "סידורים לבת ישראל",
+    "children": []
+  },
+  {
+    "parent": "תפילת תודה הפרשת חלה הדלקת נרות",
+    "children": []
+  },
+  {
+    "parent": "קיצור שולחן ערוך",
+    "children": []
+  },
+  {
+    "parent": "שיר ושבחה",
+    "children": []
+  },
+  {
+    "parent": "משניות מבוארות",
+    "children": []
+  },
+  {
+    "parent": "רמב\"ם פרנקל",
+    "children": []
+  },
+  {
+    "parent": "ש\"ס משניות",
+    "children": []
+  },
+  {
+    "parent": "הדלקת נרות",
+    "children": []
+  },
+  {
+    "parent": "הלכה",
+    "children": []
+  },
+  {
+    "parent": "ספרי קבלה",
+    "children": []
+  },
+  {
+    "parent": "בת מלך",
+    "children": []
+  },
+  {
+    "parent": "חומשים",
+    "children": []
+  },
+  {
+    "parent": "סדר הדלקת נרות חנוכה",
+    "children": []
+  },
+  {
+    "parent": "כללי",
+    "children": []
+  },
+  {
+    "parent": "מחזורים",
+    "children": []
+  },
+  {
+    "parent": "מדרשי חז\"ל",
+    "children": []
+  },
+  {
+    "parent": "ספרי מוסר",
+    "children": []
+  },
+  {
+    "parent": "נ\"ך מפורש",
+    "children": []
+  },
+  {
+    "parent": "עין יעקב",
+    "children": []
+  },
+  {
+    "parent": "חוק לישראל",
+    "children": []
+  },
+  {
+    "parent": "מקראות גדולות תורה",
+    "children": []
+  },
+  {
+    "parent": "חיבורים על השולחן ערוך",
+    "children": []
+  },
+  {
+    "parent": "סידורים מבוארים",
+    "children": []
+  },
+  {
+    "parent": "זוהר",
+    "children": []
+  },
+  {
+    "parent": "ימים נוראים",
+    "children": []
+  },
+  {
+    "parent": "פרקי גמרא לתלמידים",
+    "children": []
+  },
+  {
+    "parent": "זמירות לשבת ולכל אירוע",
+    "children": []
+  },
+  {
+    "parent": "גמרא כרכים בודדים",
+    "children": []
+  },
+  {
+    "parent": "ספרי הלכה מפוסקי זמננו",
+    "children": []
+  },
+  {
+    "parent": "סידורים",
+    "children": []
+  },
+  {
+    "parent": "משנה ברורה",
+    "children": []
+  },
+  {
+    "parent": "תיקון הכללי",
+    "children": []
+  },
+  {
+    "parent": "פסח",
+    "children": []
+  },
+  {
+    "parent": "מפרשי השו\"ע",
+    "children": []
+  },
+  {
+    "parent": "קובץ מפרשים",
+    "children": []
+  },
+  {
+    "parent": "זוהר המבואר",
+    "children": []
+  },
+  {
+    "parent": "סידורים מנחה וערבית",
+    "children": []
+  },
+  {
+    "parent": "פרקי אבות מעוצב",
+    "children": []
+  },
+  {
+    "parent": "ספרים לילדים",
+    "children": []
+  },
+  {
+    "parent": "תלמוד ירושלמי",
+    "children": []
+  },
+  {
+    "parent": "ספרי חסידות שונים",
+    "children": []
+  },
+  {
+    "parent": "פורים",
+    "children": []
+  },
+  {
+    "parent": "סליחות",
+    "children": []
+  },
+  {
+    "parent": "ברכות השחר",
+    "children": []
+  },
+  {
+    "parent": "חנוכה",
+    "children": []
+  },
+  {
+    "parent": "שולחן ערוך מתיבתא",
+    "children": []
+  },
+  {
+    "parent": "פרק שירה",
+    "children": []
+  },
+  {
+    "parent": "ברכונים באנגלית",
+    "children": []
+  },
+  {
+    "parent": "תורה ומדע",
+    "children": []
+  },
+  {
+    "parent": "חסידות",
+    "children": []
+  },
+  {
+    "parent": "בין המצרים",
+    "children": []
+  },
+  {
+    "parent": "זמירות חנוכה",
+    "children": []
+  },
+  {
+    "parent": "משנה תורה להרמב\"ם",
+    "children": []
+  },
+  {
+    "parent": "מגנטים",
+    "children": []
+  },
+  {
+    "parent": "סדר שבת",
+    "children": []
+  },
+  {
+    "parent": "ספרי אמונה",
+    "children": []
+  },
+  {
+    "parent": "בריאות ורפואה",
+    "children": []
+  },
+  {
+    "parent": "ט\"ו בשבט",
+    "children": []
+  },
+  {
+    "parent": "עטרות לטלית",
+    "children": []
+  },
+  {
+    "parent": "סט סידורים",
+    "children": []
+  },
+  {
+    "parent": "ספרי הראשונים",
+    "children": []
+  },
+  {
+    "parent": "פיטום הקטורת",
+    "children": []
+  },
+  {
+    "parent": "ספרי קידוש",
+    "children": []
+  },
+  {
+    "parent": "סדר הבדלה",
+    "children": []
+  },
+  {
+    "parent": "קריאי מועד",
+    "children": []
+  },
+  {
+    "parent": "קריאת שמע על המיטה",
+    "children": []
+  },
+  {
+    "parent": "גדולי הדורות",
+    "children": []
+  },
+  {
+    "parent": "זוגיות ושלום בית",
+    "children": []
+  },
+  {
+    "parent": "קמיעות וסגולות",
+    "children": []
+  },
+  {
+    "parent": "הגדות לפסח",
+    "children": []
+  },
+  {
+    "parent": "חומשים לתלמידים",
+    "children": []
+  },
+  {
+    "parent": "שבועות",
+    "children": []
+  },
+  {
+    "parent": "טהרה",
+    "children": []
+  },
+  {
+    "parent": "נ\"ך לתלמידים",
+    "children": []
+  },
+  {
+    "parent": "פרשת השבוע",
+    "children": []
+  },
+  {
+    "parent": "בית המקדש",
+    "children": []
+  },
+  {
+    "parent": "מזוזות",
+    "children": []
+  },
+  {
+    "parent": "מעמדים",
+    "children": []
+  },
+  {
+    "parent": "מתנות",
+    "children": []
+  },
+  {
+    "parent": "תחינות תפילות וסגולות",
+    "children": []
+  },
+  {
+    "parent": "ביאורים על פרקי אבות",
+    "children": []
+  },
+  {
+    "parent": "ספרי הרב רונן חזיזה",
+    "children": []
+  },
+  {
+    "parent": "מגילות",
+    "children": []
+  },
+  {
+    "parent": "רזיאל המלאך",
+    "children": []
+  },
+  {
+    "parent": "נשמת כל חי",
+    "children": []
+  },
+  {
+    "parent": "ספרי מחשבה",
+    "children": []
+  },
+  {
+    "parent": "מבצעים לוהטים",
+    "children": []
+  },
+  {
+    "parent": "ספרי הרב שלום ארוש",
+    "children": []
+  },
+  {
+    "parent": "נרות הבדלה",
+    "children": []
+  },
+  {
+    "parent": "חינוך",
+    "children": []
+  },
+  {
+    "parent": "חיזוק לבת ישראל",
+    "children": []
+  },
+  {
+    "parent": "פמוטים לשבת",
+    "children": []
+  },
+  {
+    "parent": "ספרי דקדוק לשון הקודש",
+    "children": []
+  },
+  {
+    "parent": "תמונות",
+    "children": []
+  },
+  {
+    "parent": "סוכות",
+    "children": []
+  },
+  {
+    "parent": "תפילת הדרך",
+    "children": []
+  },
+  {
+    "parent": "הפרשת חלה",
+    "children": []
+  },
+  {
+    "parent": "כלים לפסח",
+    "children": []
+  },
+  {
+    "parent": "טור בית יוסף",
+    "children": []
+  },
+  {
+    "parent": "חב\"ד",
+    "children": []
+  },
+  {
+    "parent": "שניים מקרא ואחד תרגום",
+    "children": []
+  },
+  {
+    "parent": "שילוט לבית כנסת",
+    "children": []
+  },
+  {
+    "parent": "תשעה באב",
+    "children": []
+  },
+  {
+    "parent": "ספר דברים",
+    "children": []
+  },
+  {
+    "parent": "נטלות",
+    "children": []
+  },
+  {
+    "parent": "מחזיק לטלית",
+    "children": []
+  },
+  {
+    "parent": "טור ושו\"ע המשולב",
+    "children": []
+  },
+  {
+    "parent": "מטפחות",
+    "children": []
+  },
+  {
+    "parent": "הלכות שבת",
+    "children": []
+  },
+  {
+    "parent": "תפילת תודה",
+    "children": []
+  },
+  {
+    "parent": "ספרי קינות",
+    "children": []
+  },
+  {
+    "parent": "מערכות",
+    "children": []
+  },
+  {
+    "parent": "כיסוי לחלות שבת",
+    "children": []
+  },
+  {
+    "parent": "ברכת כלה",
+    "children": []
+  },
+  {
+    "parent": "מעם לועז",
+    "children": []
+  },
+  {
+    "parent": "חושן משפט",
+    "children": []
+  },
+  {
+    "parent": "אשת חיל",
+    "children": []
+  },
+  {
+    "parent": "פרשת השבוע לילדים",
+    "children": []
+  },
+  {
+    "parent": "ספרי רבנו יוסף חיים",
+    "children": []
+  },
+  {
+    "parent": "ביאורי תפילה",
+    "children": []
+  },
+  {
+    "parent": "ספרי האר\"י",
+    "children": []
+  },
+  {
+    "parent": "ברכת אשר יצר",
+    "children": []
+  },
+  {
+    "parent": "סדר הנחת תפילין",
+    "children": []
+  },
+  {
+    "parent": "מבוא לתורת הקבלה",
+    "children": []
+  },
+  {
+    "parent": "תנ\"ך",
+    "children": []
+  },
+  {
+    "parent": "חיבורים על הש\"ס",
+    "children": []
+  },
+  {
+    "parent": "סידורים לילדים",
+    "children": []
+  },
+  {
+    "parent": "כשרות",
+    "children": []
+  },
+  {
+    "parent": "ספרי הרב מרדכי אליהו",
+    "children": []
+  },
+  {
+    "parent": "משניות לתלמידים",
+    "children": []
+  },
+  {
+    "parent": "ברכת הלבנה",
+    "children": []
+  },
+  {
+    "parent": "לשליח ציבור",
+    "children": []
+  },
+  {
+    "parent": "מלחיות לשבת",
+    "children": []
+  },
+  {
+    "parent": "תיקון קוראים",
+    "children": []
+  },
+  {
+    "parent": "כלים",
+    "children": []
+  },
+  {
+    "parent": "אגרת הרמב\"ן",
+    "children": []
+  },
+  {
+    "parent": "ספרי מהרח\"ו",
+    "children": []
+  },
+  {
+    "parent": "ל\"ג בעומר",
+    "children": []
+  },
+  {
+    "parent": "שמנים נרות ופתילות",
+    "children": []
+  },
+  {
+    "parent": "ספרוני כיס מנחה וערבית",
+    "children": []
+  },
+  {
+    "parent": "ספרי הרב שטיינזלץ",
+    "children": []
+  },
+  {
+    "parent": "חידושי ש\"ס",
+    "children": []
+  },
+  {
+    "parent": "ספרי הפטרות",
+    "children": []
+  },
+  {
+    "parent": "משניות",
+    "children": []
+  },
+  {
+    "parent": "ברכונים בצרפתית",
+    "children": []
+  },
+  {
+    "parent": "נרות נשמה",
+    "children": []
+  },
+  {
+    "parent": "ימים נוראים לשליח ציבור",
+    "children": []
+  },
+  {
+    "parent": "ילקוט יוסף",
+    "children": []
   }
 ]

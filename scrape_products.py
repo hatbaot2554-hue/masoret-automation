@@ -251,6 +251,11 @@ def scrape_categories():
                 merge_category_tree(categories, sitemap_parent, child)
 
         if categories:
+            previous = load_json(CATEGORIES_FILE, [])
+            for category in previous:
+                merge_category_tree(categories, category.get('parent', ''))
+                for child in category.get('children', []):
+                    merge_category_tree(categories, category.get('parent', ''), child)
             categories = sorted(categories, key=lambda cat: cat["parent"])
             for category in categories:
                 category["children"] = sorted(category.get("children", []))
@@ -306,7 +311,9 @@ def get_all_product_urls(force_refresh=False):
 
     existing_urls = load_json(URLS_FILE, []) if os.path.exists(URLS_FILE) else []
     current_urls = sorted(urls)
-    urls_list = current_urls if force_refresh else list(dict.fromkeys(existing_urls + current_urls))
+    if not current_urls:
+        raise RuntimeError('Product discovery returned no URLs; refusing to publish an empty scan')
+    urls_list = list(dict.fromkeys(existing_urls + current_urls))
     save_json(URLS_FILE, urls_list)
     removed = max(0, len(existing_urls) - len(urls_list)) if force_refresh else 0
     print(f"\n✅ נשמרו {len(urls_list)} כתובות ({len(urls_list) - len(existing_urls)} חדשות, {removed} הוסרו)")
@@ -579,8 +586,8 @@ def main():
 
         current_urls = set(urls)
         stale_urls = [url for url in products_dict if normalize_url(url) not in current_urls]
-        for url in stale_urls:
-            products_dict.pop(url, None)
+        # A missing discovery result is not evidence that a product was deleted.
+        # Keep its array position: saved carts and waitlists reference these indexes.
         if stale_urls:
             print(f"🧹 הוסרו {len(stale_urls)} מוצרים שכבר לא קיימים במקור")
 
@@ -611,7 +618,7 @@ def main():
         batch_indexes = [(start_idx + offset) % total for offset in range(batch_size)]
         print(f"Updating {batch_size} of {total} products from index {start_idx + 1}")
 
-        last_index = start_idx
+        last_index = (start_idx - 1) % total
         for idx in batch_indexes:
             elapsed = (datetime.now() - start_time).seconds / 60
             if elapsed > MAX_MINUTES:
@@ -626,7 +633,7 @@ def main():
                     products_dict.pop(url, None)
                 old = products_dict.get(product_url, {})
                 changed, field = products_are_different(old, product)
-                if changed:
+                if changed or old.get('needs_revalidation'):
                     products_dict[product_url] = product
                     updated += 1
                     print(f"  🔄 עודכן [{field}]: {product['name']}")
