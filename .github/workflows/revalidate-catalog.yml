@@ -1,0 +1,45 @@
+name: Revalidate restored catalog
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/revalidate-catalog.yml'
+permissions:
+  contents: write
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false
+jobs:
+  batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        batch: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - name: Verify next pending products
+        run: python -u revalidate_catalog.py
+      - name: Publish checkpoint
+        if: always()
+        run: |
+          git config user.name 'Catalog verification'
+          git config user.email 'bot@masoret-yehudit.co.il'
+          git add products.json
+          if test -f revalidation-progress.json; then git add revalidation-progress.json; fi
+          git diff --staged --quiet || git commit -m 'Verify restored catalog batch'
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Batch summary
+        if: always()
+        run: |
+          if test -f revalidation-progress.json; then cat revalidation-progress.json >> "$GITHUB_STEP_SUMMARY"; fi
