@@ -1,9 +1,7 @@
 name: מעקב סטטוס הזמנות
 
 on:
-  schedule:
-    # רץ כל 10 דקות
-    - cron: '*/10 * * * *'
+  # Supplier tracking is deferred until credentials are configured.
   workflow_dispatch:
 
 jobs:

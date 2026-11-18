@@ -50,6 +50,8 @@ jobs:
           git push origin HEAD:main
 
   notify_waitlist:
+    # Enable only after DASHBOARD_ORDERS_API_SECRET and RESEND_FROM are configured.
+    if: ${{ vars.ENABLE_WAITLIST_EMAILS == 'true' }}
     runs-on: ubuntu-latest
     needs: scrape
     steps:
@@ -73,6 +75,8 @@ jobs:
         run: python check_stock.py
 
   auto_orders:
+    # Supplier ordering is deferred; catalog synchronization remains independent.
+    if: ${{ vars.ENABLE_SUPPLIER_ORDERS == 'true' }}
     runs-on: ubuntu-latest
     needs: scrape
     steps:
