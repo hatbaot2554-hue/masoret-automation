@@ -11,7 +11,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 55
     permissions:
       contents: write
     steps:
@@ -37,11 +37,14 @@ jobs:
           SCRAPE_BATCH_SIZE: "500"
         run: python scrape_products.py
 
+      - name: Verify source taxonomy and product membership
+        run: python -u sync_source_taxonomy.py
+
       - name: שמירת המוצרים
         run: |
           git config user.name "אוטומציה"
           git config user.email "bot@masoret-yehudit.co.il"
-          git add products.json categories.json progress.json all_urls.json
+          git add products.json categories.json progress.json all_urls.json source-categories.json missing-source-products.json catalog-audit.json
           git diff --staged --quiet || git commit -m "עדכון מוצרים אוטומטי"
           git pull --rebase origin main
           git push origin HEAD:main

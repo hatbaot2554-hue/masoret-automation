@@ -195,80 +195,14 @@ def category_tree_from_sitemaps():
 
 
 def scrape_categories():
-    """סורק את תפריט האתר ומחזיר רשימת קטגוריות ראשיות עם תתי קטגוריות"""
-    print("📂 סורק תפריט קטגוריות...")
-    try:
-        res = requests.get(BASE_URL, headers=HEADERS, timeout=15)
-        soup = BeautifulSoup(res.text, "html.parser")
-
-        categories = []
-        seen_parents = set()
-
-        # מחפש פריטי תפריט עם תפריט משנה
-        menu_items = soup.select("li.menu-item-has-children")
-
-        for item in menu_items:
-            # שם הקטגוריה הראשית
-            parent_link = item.find("a", recursive=False)
-            if not parent_link:
-                continue
-            parent_name = parent_link.get_text(strip=True)
-
-            # מסנן כפילויות
-            if parent_name in seen_parents:
-                continue
-            seen_parents.add(parent_name)
-
-            # תתי קטגוריות
-            sub_menu = item.find("ul", class_="sub-menu")
-            children = []
-            if sub_menu:
-                seen_children = set()
-                for child_link in sub_menu.find_all("a"):
-                    child_name = child_link.get_text(strip=True)
-                    if child_name and child_name not in seen_children:
-                        seen_children.add(child_name)
-                        children.append(child_name)
-
-            # שומר רק קטגוריות עם תתי קטגוריות
-            if children:
-                categories.append({
-                    "parent": parent_name,
-                    "children": children
-                })
-
-        menu_parent_names = {clean_category_name(category.get("parent")) for category in categories}
-        menu_child_names = {
-            clean_category_name(child)
-            for category in categories
-            for child in category.get("children", [])
-        }
-        for sitemap_category in category_tree_from_sitemaps():
-            sitemap_parent = clean_category_name(sitemap_category.get("parent"))
-            if sitemap_parent in menu_child_names and sitemap_parent not in menu_parent_names:
-                continue
-            for child in sitemap_category.get("children", []):
-                merge_category_tree(categories, sitemap_parent, child)
-
-        if categories:
-            previous = load_json(CATEGORIES_FILE, [])
-            for category in previous:
-                merge_category_tree(categories, category.get('parent', ''))
-                for child in category.get('children', []):
-                    merge_category_tree(categories, category.get('parent', ''), child)
-            categories = sorted(categories, key=lambda cat: cat["parent"])
-            for category in categories:
-                category["children"] = sorted(category.get("children", []))
-            save_json(CATEGORIES_FILE, categories)
-            print(f"✅ נשמרו {len(categories)} קטגוריות ראשיות")
-        else:
-            print("⚠️ לא נמצאו קטגוריות — שומר קובץ קיים")
-
-        return categories
-
-    except Exception as e:
-        print(f"❌ שגיאה בסריקת קטגוריות: {e}")
-        return load_json(CATEGORIES_FILE, [])
+    from sync_source_taxonomy import read_pages, build_navigation
+    with requests.Session() as session:
+        categories = read_pages('products/categories', session)
+    response = requests.get(BASE_URL, headers=HEADERS, timeout=30)
+    response.raise_for_status()
+    tree = build_navigation(categories, response.text)
+    save_json(CATEGORIES_FILE, tree)
+    return tree
 
 
 def get_all_product_urls(force_refresh=False):
