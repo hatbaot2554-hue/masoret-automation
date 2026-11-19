@@ -3167,8 +3167,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-14-at-17.41.15.jpeg"
     ],
-    "category": "ספרי מוסר",
-    "parent_category": "ספרי מוסר",
+    "category": "ספרי אמונה",
+    "parent_category": "ספרי אמונה",
     "child_category": "",
     "categories": [
       "ספרי אמונה",
@@ -3180,7 +3180,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:47.260038",
+    "last_updated": "2026-11-19T11:17:42.477574",
     "source_category_ids": [
       2000,
       1940
@@ -14126,7 +14126,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:02:01.391943",
+    "last_updated": "2026-11-19T11:17:47.274487",
     "source_category_ids": [
       2230
     ],
@@ -61369,7 +61369,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:30.709745",
+    "last_updated": "2026-11-19T11:17:25.020823",
     "source_category_ids": [
       1949
     ],
@@ -82534,7 +82534,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:28.502760",
+    "last_updated": "2026-11-19T11:17:22.488325",
     "source_category_ids": [
       1960,
       1998
@@ -115328,7 +115328,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:40.684557",
+    "last_updated": "2026-11-19T11:17:35.355558",
     "source_category_ids": [
       1991
     ],
@@ -154452,7 +154452,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:38.374154",
+    "last_updated": "2026-11-19T11:17:32.925199",
     "source_category_ids": [
       1943
     ],
@@ -162934,7 +162934,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:42.757207",
+    "last_updated": "2026-11-19T11:17:37.665766",
     "source_category_ids": [
       1966
     ],
@@ -183132,7 +183132,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:44.819307",
+    "last_updated": "2026-11-19T11:17:39.958037",
     "source_category_ids": [
       2230
     ],
@@ -201923,8 +201923,8 @@
     "images": [
       "https://www.seferkodesh.co.il/wp-content/uploads/2026/02/f5778aa7-5216-4b7c-8ba0-997a4e81f0c4.jpeg"
     ],
-    "category": "ספרי קבלה",
-    "parent_category": "ספרי קבלה",
+    "category": "בריאות ורפואה",
+    "parent_category": "בריאות ורפואה",
     "child_category": "",
     "categories": [
       "בריאות ורפואה",
@@ -201936,7 +201936,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:35.486484",
+    "last_updated": "2026-11-19T11:17:30.338078",
     "source_category_ids": [
       2190,
       1934
@@ -208606,7 +208606,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:33.030554",
+    "last_updated": "2026-11-19T11:17:27.734791",
     "source_category_ids": [
       1993
     ],
@@ -208640,7 +208640,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T11:01:49.737523",
+    "last_updated": "2026-11-19T11:17:45.022459",
     "source_category_ids": [],
     "source_product_id": 75656,
     "source_catalog_missing": false
