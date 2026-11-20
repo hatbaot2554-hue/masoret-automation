@@ -184,14 +184,14 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%9f-%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%9F-%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F/",
     "product_id": "40696",
     "sku": "7900017",
     "name": "ברכון ברכת המזון",
     "original_price": 4.5,
-    "regular_price": 5,
+    "regular_price": 5.0,
     "price": 6.5,
-    "regular_our_price": 7,
+    "regular_our_price": 7.0,
     "description": "",
     "full_description": "תיאור ברכון ברכת המזון מפואר, עם הטבעה מזהב, עיצוב ייחודי ובלעדי. כולל שבע ברכות. ציפוי למינציה. גודל: רוחב 11 ס\"מ. אורך 16 ס\"מ.",
     "image": "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_0b820c09033e4cce9c1fe544ec1f150fmv2-600x600.jpg",
@@ -214,7 +214,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-05-23T23:58:40.458983",
+    "last_updated": "2026-11-20T11:04:45.824643",
     "source_category_ids": [
       2023
     ],
@@ -2844,7 +2844,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a0%d7%99%d7%99%d7%a8-%d7%a7%d7%a8%d7%9d-1217-3/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A1%D7%A7%D7%90%D7%99-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A0%D7%99%D7%99%D7%A8-%D7%A7%D7%A8%D7%9D-1217-3/",
     "product_id": "42814",
     "sku": "692",
     "name": "סידור סקאי כוונת הלב נייר קרם (12×17 ס\"מ)",
@@ -2870,7 +2870,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:18:08.635544",
+    "last_updated": "2026-11-17T23:45:25.984357",
     "source_category_ids": [
       1945
     ],
@@ -4011,7 +4011,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a4%d7%9c%d7%a7%d7%a1%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a9%d7%97%d7%a8%d7%99%d7%aa-2114-2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A4%D7%9C%D7%A7%D7%A1%D7%99-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A9%D7%97%D7%A8%D7%99%D7%AA-2114-2/",
     "product_id": "42443",
     "sku": "9084",
     "name": "סידור פלקסי כוונת הלב שחרית (21×14 ס\"מ)",
@@ -4037,7 +4037,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:34:35.051433",
+    "last_updated": "2026-11-17T23:04:01.095474",
     "source_category_ids": [
       1945
     ],
@@ -4283,7 +4283,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a4%d7%9c%d7%a7%d7%a1%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%aa-%d7%94%d7%97%d7%95%d7%9c-1217-3/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A4%D7%9C%D7%A7%D7%A1%D7%99-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%9C%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%97%D7%95%D7%9C-1217-3/",
     "product_id": "42436",
     "sku": "5081",
     "name": "סידור פלקסי כוונת הלב לימות החול (12×17 ס\"מ)",
@@ -4309,7 +4309,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:35:01.656223",
+    "last_updated": "2026-11-18T00:44:53.127980",
     "source_category_ids": [
       1923
     ],
@@ -5353,7 +5353,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%93%D7%A8-%D7%94%D7%A0%D7%97%D7%AA-%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F-%D7%A4%D7%99%D7%95-1217-3/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%94%d7%a0%d7%97%d7%aa-%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f-%d7%a4%d7%99%d7%95-1217-3/",
     "product_id": "42487",
     "sku": "1396",
     "name": "סדר הנחת תפילין פיו (12×17 ס\"מ)",
@@ -5377,7 +5377,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:36:35.944967",
+    "last_updated": "2026-11-18T00:06:20.705193",
     "source_category_ids": [],
     "source_product_id": 42487,
     "source_catalog_missing": false
@@ -5417,7 +5417,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7-%d7%a9%d7%99%d7%a8%d7%94-%d7%a4%d7%99%d7%95-1217-2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A4%D7%A8%D7%A7-%D7%A9%D7%99%D7%A8%D7%94-%D7%A4%D7%99%D7%95-1217-2/",
     "product_id": "42490",
     "sku": "1388",
     "name": "פרק שירה פיו (12×17 ס\"מ)",
@@ -5443,7 +5443,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:09:40.806166",
+    "last_updated": "2026-11-17T23:43:37.247556",
     "source_category_ids": [
       2053
     ],
@@ -7232,7 +7232,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%98-%d7%a4%d7%9c%d7%a7%d7%a1%d7%99-%d7%a9%d7%91%d7%aa-%d7%97%d7%95%d7%9c-%d7%95%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9b%d7%99%d7%a1-912-5-2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%98-%D7%A4%D7%9C%D7%A7%D7%A1%D7%99-%D7%A9%D7%91%D7%AA-%D7%97%D7%95%D7%9C-%D7%95%D7%AA%D7%94%D7%9C%D7%99%D7%9D-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%9B%D7%99%D7%A1-912-5-2/",
     "product_id": "40810",
     "sku": "999",
     "name": "סט פלקסי שבת, חול ותהילים כוונת הלב כיס (9*12.5 ס\"מ)",
@@ -7258,7 +7258,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:38:48.453097",
+    "last_updated": "2026-11-17T22:01:59.857339",
     "source_category_ids": [
       2208
     ],
@@ -9498,7 +9498,7 @@
     "source_catalog_missing": true
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%9c%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%9e%d7%95%d7%93%d7%a4%d7%a1/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%9C%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%9E%D7%95%D7%93%D7%A4%D7%A1/",
     "product_id": "43487",
     "sku": "E152",
     "name": "מחזור עבודה שבלב לראש השנה – למינציה",
@@ -9524,7 +9524,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:20:57.577131",
+    "last_updated": "2026-11-17T21:44:43.500482",
     "source_category_ids": [
       1907
     ],
@@ -15236,7 +15236,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%9b%d7%9c%d7%94-%d7%9e%d7%a4%d7%95%d7%90%d7%a8-%d7%95%d7%9e%d7%94%d7%95%d7%93%d7%a8/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%9B%D7%9C%D7%94-%D7%9E%D7%A4%D7%95%D7%90%D7%A8-%D7%95%D7%9E%D7%94%D7%95%D7%93%D7%A8/",
     "product_id": "44425",
     "sku": "100744",
     "name": "ברכת כלה מפואר ומהודר",
@@ -15263,7 +15263,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:49:09.853695",
+    "last_updated": "2026-11-18T00:25:24.902139",
     "source_category_ids": [
       2060
     ],
@@ -16065,7 +16065,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%a9%d7%9e%d7%a2-%d7%a4%d7%99%d7%95-%d7%a2%d7%9e-1217/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%A9%D7%9E%D7%A2-%D7%A4%D7%99%D7%95-%D7%A2%D7%9E-1217/",
     "product_id": "42492",
     "sku": "1269",
     "name": "קריאת שמע פיו ע\"מ (12×17 ס\"מ)",
@@ -16091,7 +16091,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:38:15.759911",
+    "last_updated": "2026-11-17T23:52:40.364663",
     "source_category_ids": [
       2051
     ],
@@ -19487,7 +19487,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%9e%d7%95%d7%93%d7%a4%d7%a1/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%9C%D7%99%D7%95%D7%9D-%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%93%D7%A4%D7%A1/",
     "product_id": "43488",
     "sku": "E153",
     "name": "מחזור עבודה שבלב ליום הכיפורים – למינציה",
@@ -19513,7 +19513,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:42:53.815701",
+    "last_updated": "2026-11-18T00:09:40.153783",
     "source_category_ids": [
       1907
     ],
@@ -29643,7 +29643,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-%d7%93%d7%92%d7%9d-%d7%a0%d7%91%d7%9c-2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%AA%D7%94%D7%99%D7%9C%D7%99%D7%9D-%D7%9E%D7%A2%D7%95%D7%A8-%D7%90%D7%9E%D7%99%D7%AA%D7%99-%D7%93%D7%92%D7%9D-%D7%A0%D7%91%D7%9C-2/",
     "product_id": "53081",
     "sku": "7902253",
     "name": "תהילים מעור אמיתי – דגם נבל",
@@ -29670,7 +29670,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:37:34.237500",
+    "last_updated": "2026-11-17T21:38:09.754096",
     "source_category_ids": [
       2260
     ],
@@ -37526,7 +37526,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%a1%d7%a7%d7%90%d7%99-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9b%d7%95%d7%aa%d7%9c-1217-6/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%AA%D7%94%D7%9C%D7%99%D7%9D-%D7%A1%D7%A7%D7%90%D7%99-%D7%91%D7%99%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%9B%D7%95%D7%AA%D7%9C-1217-6/",
     "product_id": "42859",
     "sku": "5057",
     "name": "תהילים סקאי בינת הלב כותל (12×17 ס\"מ)",
@@ -37552,7 +37552,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:20:25.269778",
+    "last_updated": "2026-11-18T00:57:36.523137",
     "source_category_ids": [
       1924
     ],
@@ -38759,7 +38759,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%9c%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa-%d7%9e%d7%95%d7%93%d7%a4%d7%a1/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%9C%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA-%D7%9E%D7%95%D7%93%D7%A4%D7%A1/",
     "product_id": "43491",
     "sku": "E156",
     "name": "מחזור עבודה שבלב לשבועות – למינציה",
@@ -38785,7 +38785,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:07:57.435081",
+    "last_updated": "2026-11-17T23:51:02.045021",
     "source_category_ids": [
       1907
     ],
@@ -39761,7 +39761,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%9f-%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%a0%d7%95%d7%a1%d7%97-%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99-2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%9F-%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%A0%D7%95%D7%A1%D7%97-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99-2/",
     "product_id": "52637",
     "sku": "7901989",
     "name": "ברכון ברכת המזון נוסח אשכנזי",
@@ -39787,7 +39787,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:15:55.907109",
+    "last_updated": "2026-11-17T22:37:47.056677",
     "source_category_ids": [
       2023
     ],
@@ -43096,7 +43096,7 @@
     "source_catalog_missing": true
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%9b%d7%95%d7%aa%d7%9c-%d7%a2%d7%9e-1217/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%9B%D7%95%D7%AA%D7%9C-%D7%A2%D7%9E-1217/",
     "product_id": "43027",
     "sku": "1016",
     "name": "ברכת המזון כותל ע\"מ (12×17 ס\"מ)",
@@ -43122,7 +43122,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:48:07.933212",
+    "last_updated": "2026-11-17T21:52:52.942355",
     "source_category_ids": [
       2023
     ],
@@ -45489,7 +45489,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:52:11.223409",
+    "last_updated": "2026-11-20T11:05:29.230590",
     "source_category_ids": [
       2060
     ],
@@ -45635,7 +45635,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:11:32.875287",
+    "last_updated": "2026-11-20T11:04:34.535244",
     "source_category_ids": [
       2053
     ],
@@ -54793,7 +54793,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%94%d7%a4%d7%a8%d7%a9%d7%aa-%d7%97%d7%9c%d7%94-%d7%93%d7%92%d7%9d-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%99%d7%98%d7%95%d7%a8%d7%99%d7%9d/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%93%D7%A8-%D7%94%D7%A4%D7%A8%D7%A9%D7%AA-%D7%97%D7%9C%D7%94-%D7%93%D7%92%D7%9D-%D7%9E%D7%A1%D7%92%D7%A8%D7%AA-%D7%A2%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9D/",
     "product_id": "52927",
     "sku": "101070, 101071",
     "name": "סדר הפרשת חלה דגם מסגרת עיטורים",
@@ -54820,7 +54820,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:44:56.205914",
+    "last_updated": "2026-11-17T22:02:04.574628",
     "source_category_ids": [
       2177
     ],
@@ -55150,7 +55150,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%9C%D7%99%D7%97%D7%95%D7%AA-%D7%9C%D7%9E%D7%99%D7%A0%D7%A6%D7%99%D7%94-%D7%A8%D7%9B%D7%94-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-1217/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%9c%d7%9e%d7%99%d7%a0%d7%a6%d7%99%d7%94-%d7%a8%d7%9b%d7%94-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-1217/",
     "product_id": "42874",
     "sku": "1322",
     "name": "סליחות למינציה רכה כוונת הלב (12×17 ס\"מ)",
@@ -55176,7 +55176,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:38:14.403847",
+    "last_updated": "2026-11-17T22:54:02.882625",
     "source_category_ids": [
       1944
     ],
@@ -55842,7 +55842,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%95%d7%9f-%d7%a4%d7%a8%d7%a9%d7%aa-%d7%94%d7%9e%d7%9f-%d7%9e%d7%a4%d7%95%d7%90%d7%a8/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%9F-%D7%A4%D7%A8%D7%A9%D7%AA-%D7%94%D7%9E%D7%9F-%D7%9E%D7%A4%D7%95%D7%90%D7%A8/",
     "product_id": "44494",
     "sku": "2135",
     "name": "ברכון פרשת המן מפואר",
@@ -55867,7 +55867,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:52:16.732220",
+    "last_updated": "2026-11-17T23:22:42.354838",
     "source_category_ids": [],
     "source_product_id": 44494,
     "source_catalog_missing": false
@@ -74969,7 +74969,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9b%d7%99%d7%a1-912-5-3/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A1%D7%A7%D7%90%D7%99-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%9B%D7%99%D7%A1-912-5-3/",
     "product_id": "42844",
     "sku": "891",
     "name": "סידור סקאי כוונת הלב כיס (9*12.5 ס\"מ)",
@@ -74995,7 +74995,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:04:04.509877",
+    "last_updated": "2026-11-18T00:59:31.360924",
     "source_category_ids": [
       1945
     ],
@@ -76147,7 +76147,7 @@
     "source_catalog_missing": true
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%9e%d7%96%d7%95%d7%9f-%d7%93%d7%9e%d7%95%d7%99-%d7%a2%d7%95%d7%a8-%d7%95%d7%a8%d7%95%d7%93/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%93%D7%9E%D7%95%D7%99-%D7%A2%D7%95%D7%A8-%D7%95%D7%A8%D7%95%D7%93/",
     "product_id": "52673",
     "sku": "101172",
     "name": "ברכת המזון דמוי עור ורוד",
@@ -76175,7 +76175,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:55:41.097598",
+    "last_updated": "2026-11-17T23:59:15.992995",
     "source_category_ids": [
       2023
     ],
@@ -83228,7 +83228,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%9C%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%93%D7%A4%D7%A1/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%97%d7%96%d7%95%d7%a8-%d7%9c%d7%a4%d7%a1%d7%97-%d7%9e%d7%95%d7%93%d7%a4%d7%a1/",
     "product_id": "43490",
     "sku": "E155",
     "name": "מחזור עבודה שבלב לפסח – למינציה",
@@ -83254,7 +83254,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:14:41.282614",
+    "last_updated": "2026-11-18T00:54:08.125674",
     "source_category_ids": [
       1907
     ],
@@ -89884,7 +89884,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:12:05.177204",
+    "last_updated": "2026-11-20T11:04:45.824643",
     "source_category_ids": [
       2023
     ],
@@ -92721,7 +92721,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%93%D7%A8-%D7%A9%D7%91%D7%AA-%D7%93%D7%92%D7%9D-%D7%A2%D7%99%D7%92%D7%95%D7%9C-%D7%9E%D7%A2%D7%95%D7%98%D7%A8/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%93%d7%a8-%d7%a9%d7%91%d7%aa-%d7%93%d7%92%d7%9d-%d7%a2%d7%99%d7%92%d7%95%d7%9c-%d7%9e%d7%a2%d7%95%d7%98%d7%a8/",
     "product_id": "44430",
     "sku": "2176",
     "name": "סדר שבת – דגם עיגול מעוטר",
@@ -92748,7 +92748,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:27:32.128587",
+    "last_updated": "2026-11-18T00:29:00.493075",
     "source_category_ids": [
       2052
     ],
@@ -125773,7 +125773,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%A4%D7%A8%D7%A7%D7%99-%D7%90%D7%91%D7%95%D7%AA-%D7%9E%D7%AA%D7%99%D7%91%D7%AA%D7%90-%D7%91%D7%9B%D7%A8%D7%9A-%D7%90%D7%97%D7%93-%D7%A4%D7%99%D7%95-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%a4%d7%a8%d7%a7%d7%99-%d7%90%d7%91%d7%95%d7%aa-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%91%d7%9b%d7%a8%d7%9a-%d7%90%d7%97%d7%93-%d7%a4%d7%99%d7%95-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
     "product_id": "43272",
     "sku": "514107",
     "name": "פרקי אבות מתיבתא (בכרך אחד) פיו / עוז והדר",
@@ -125800,7 +125800,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:10:57.541727",
+    "last_updated": "2026-11-18T00:44:25.723002",
     "source_category_ids": [
       1949
     ],
@@ -126216,7 +126216,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9c%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%9e%d7%93%d7%95%d7%a8%d7%92-1217-3/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A1%D7%A7%D7%90%D7%99-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%9C%D7%91%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%9E%D7%93%D7%95%D7%A8%D7%92-1217-3/",
     "product_id": "42861",
     "sku": "956",
     "name": "סידור סקאי כוונת הלב לבת ישראל מדורג  (12×17 ס\"מ)",
@@ -126242,7 +126242,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:11:35.775206",
+    "last_updated": "2026-11-18T00:41:02.561396",
     "source_category_ids": [
       1995
     ],
@@ -129240,7 +129240,7 @@
     "source_catalog_missing": true
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A1%D7%A7%D7%90%D7%99-%D7%91%D7%99%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%9B%D7%95%D7%AA%D7%9C-1217-5/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a1%d7%a7%d7%90%d7%99-%d7%91%d7%99%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%9b%d7%95%d7%aa%d7%9c-1217-5/",
     "product_id": "42836",
     "sku": "1312",
     "name": "סידור סקאי בינת הלב כותל (12×17 ס\"מ)",
@@ -129266,7 +129266,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:16:01.894767",
+    "last_updated": "2026-11-18T00:46:55.944832",
     "source_category_ids": [
       1923
     ],
@@ -129968,7 +129968,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:28:21.798853",
+    "last_updated": "2026-11-20T11:04:39.054831",
     "source_category_ids": [
       2053
     ],
@@ -146765,7 +146765,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%91%d7%a8%d7%9b%d7%aa-%d7%90%d7%a9%d7%aa-%d7%97%d7%99%d7%9c9/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%90%D7%A9%D7%AA-%D7%97%D7%99%D7%9C9/",
     "product_id": "44275",
     "sku": "C7035",
     "name": "ברכת אשת חיל",
@@ -146793,7 +146793,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:39:35.915992",
+    "last_updated": "2026-11-17T23:46:11.965536",
     "source_category_ids": [
       2225
     ],
@@ -155502,7 +155502,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9b%d7%95%d7%95%d7%a0%d7%aa-%d7%94%d7%9c%d7%91-%d7%a2%d7%95%d7%a8-%d7%90%d7%9e%d7%99%d7%aa%d7%99-%d7%98%d7%a1-%d7%96%d7%94%d7%91-1217/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A2%D7%95%D7%A8-%D7%90%D7%9E%D7%99%D7%AA%D7%99-%D7%98%D7%A1-%D7%96%D7%94%D7%91-1217/",
     "product_id": "42543",
     "sku": "1365",
     "name": "סידור כוונת הלב עור אמיתי טס זהב (12×17 ס\"מ)",
@@ -155528,7 +155528,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:50:47.257585",
+    "last_updated": "2026-11-17T23:57:01.117491",
     "source_category_ids": [
       1945
     ],
@@ -164150,7 +164150,7 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%D7%A7%D7%95%D7%91%D7%A5-%D7%AA%D7%A4%D7%99%D7%9C%D7%95%D7%AA-%D7%91%D7%AA-%D7%9E%D7%9C%D7%9A-%D7%92%D7%93%D7%95%D7%9C-1724/",
+    "url": "https://www.seferkodesh.co.il/product-page/%d7%a7%d7%95%d7%91%d7%a5-%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%91%d7%aa-%d7%9e%d7%9c%d7%9a-%d7%92%d7%93%d7%95%d7%9c-1724/",
     "product_id": "43014",
     "sku": "666",
     "name": "קובץ תפילות בת מלך גדול (17×24 ס\"מ)",
@@ -164176,7 +164176,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:01:28.788814",
+    "last_updated": "2026-11-18T00:19:56.469776",
     "source_category_ids": [
       2092
     ],
@@ -209916,6 +209916,2156 @@
       1990
     ],
     "source_product_id": 114437,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%99%D7%90%D7%95%D7%A8%D7%99-%D7%94%D7%AA%D7%95%D7%A1%D7%A4%D7%95%D7%AA-%D7%9C%D7%90-%D7%9E%D7%A0%D7%95%D7%A7%D7%93-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8-%D7%99%D7%91%D7%9E%D7%95%D7%AA-2/",
+    "product_id": "114441",
+    "sku": "553337",
+    "name": "ביאורי התוספות לא מנוקד עוז והדר יבמות ג / עוז והדר",
+    "original_price": 73.0,
+    "regular_price": 80.0,
+    "price": 84,
+    "regular_our_price": 92,
+    "description": "ביאורי התוספות יבמות ג, פד.–קכב:, לא מנוקד. ביאור משולב, סיכומים, ביאור רש\"י ושינון התוספות.",
+    "full_description": "תיאור ביאורי התוספות על יבמות חלק ג, דפים פד.–קכב:, במהדורה הלא מנוקדת של עוז והדר. הביאור משולב בלשון התוספות ומלווה את מהלך הדברים, ובסוף כל דיבור מובא סיכום המסייע לרכז את עיקרי העניין. לכרך נוסף גם ביאור רש\"י על המסכת, המסייע להבין את דברי התוספות ואת המקומות שבהם הם דנים בפירושו. מדור שינון התוספות שבסיום הכרך מאפשר לחזור על החומר ולבסס את הבנתו לאחר הלימוד.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/ביאורי-התוספות-לא-מנוקד-עוז-והדר-יבמות-ג-553337-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/ביאורי-התוספות-לא-מנוקד-עוז-והדר-יבמות-ג-553337.png"
+    ],
+    "category": "מפרשי הש\"ס",
+    "parent_category": "מפרשי הש\"ס",
+    "child_category": "",
+    "categories": [
+      "מפרשי הש\"ס"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:10.618982",
+    "source_category_ids": [
+      1990
+    ],
+    "source_product_id": 114441,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%99%D7%90%D7%95%D7%A8%D7%99-%D7%94%D7%AA%D7%95%D7%A1%D7%A4%D7%95%D7%AA-%D7%9C%D7%90-%D7%9E%D7%A0%D7%95%D7%A7%D7%93-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8-%D7%99%D7%91%D7%9E%D7%95%D7%AA/",
+    "product_id": "114439",
+    "sku": "553335",
+    "name": "ביאורי התוספות לא מנוקד עוז והדר יבמות ב / עוז והדר",
+    "original_price": 73.0,
+    "regular_price": 80.0,
+    "price": 84,
+    "regular_our_price": 92,
+    "description": "ביאורי התוספות יבמות ב, לה:–פד., לא מנוקד. ביאור משולב, סיכומים, ביאור רש\"י ושינון התוספות.",
+    "full_description": "תיאור ביאורי התוספות על יבמות חלק ב, דפים לה:–פד., במהדורה הלא מנוקדת של עוז והדר. הביאור משולב בלשון התוספות ומלווה את מהלך הדברים, ובסוף כל דיבור מובא סיכום המסייע לרכז את עיקרי העניין. לכרך נוסף גם ביאור רש\"י על המסכת, המסייע להבין את דברי התוספות ואת המקומות שבהם הם דנים בפירושו. מדור שינון התוספות שבסיום הכרך מאפשר לחזור על החומר ולבסס את הבנתו לאחר הלימוד.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/ביאורי-התוספות-לא-מנוקד-עוז-והדר-יבמות-ב-553335-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/ביאורי-התוספות-לא-מנוקד-עוז-והדר-יבמות-ב-553335.png"
+    ],
+    "category": "מפרשי הש\"ס",
+    "parent_category": "מפרשי הש\"ס",
+    "child_category": "",
+    "categories": [
+      "מפרשי הש\"ס"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:13.095511",
+    "source_category_ids": [
+      1990
+    ],
+    "source_product_id": 114439,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%99%D7%90%D7%95%D7%A8%D7%99-%D7%94%D7%AA%D7%95%D7%A1%D7%A4%D7%95%D7%AA-%D7%9E%D7%9B%D7%95%D7%AA-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8-2/",
+    "product_id": "114634",
+    "sku": "553236",
+    "name": "ביאורי התוספות מכות / עוז והדר",
+    "original_price": 69.0,
+    "regular_price": 76.0,
+    "price": 80,
+    "regular_our_price": 88,
+    "description": "ביאורי התוספות מסכת מכות: ניקוד וביאור משולב, סיכומים בסוף הדיבורים ומדור שינון התוספות לחזרה.",
+    "full_description": "תיאור ביאורי התוספות על מסכת מכות נועד ללוות את העיון בדברי התוספות שלב אחר שלב. לשון התוספות מנוקדת והביאור משולב בתוכה, כך שאפשר לעקוב אחר הקושיה, התירוץ ומהלך הדיון במהלך הקריאה. בסוף כל דיבור מופיע סיכום העניין, המסייע לארגן את הנלמד לפני המעבר לדיבור הבא. מדור שינון התוספות שבסוף הכרך מתאים לחזרה ולחיזוק הזיכרון, ומשלים את הלימוד הראשוני בחומר עזר לחזרה.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-1-600x863.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-1.png",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-2.png",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-3.png",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-4.png",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-5.png",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-6.png",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/oz-553236-7.png"
+    ],
+    "category": "מפרשי הש\"ס",
+    "parent_category": "מפרשי הש\"ס",
+    "child_category": "",
+    "categories": [
+      "מפרשי הש\"ס"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:15.410102",
+    "source_category_ids": [
+      1990
+    ],
+    "source_product_id": 114634,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%99%D7%90%D7%95%D7%A8%D7%99-%D7%94%D7%AA%D7%95%D7%A1%D7%A4%D7%95%D7%AA-%D7%A1%D7%95%D7%9B%D7%94-%D7%91-%D7%9B%D7%98-%D7%A0%D7%95-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8-2/",
+    "product_id": "114444",
+    "sku": "553212",
+    "name": "ביאורי התוספות סוכה ב (כט-נו) / עוז והדר",
+    "original_price": 69.0,
+    "regular_price": 76.0,
+    "price": 80,
+    "regular_our_price": 88,
+    "description": "ביאורי התוספות סוכה חלק ב, דפים כט–נו: ניקוד וביאור משולב, סיכומים בסוף הדיבורים ומדור שינון התוספות לחזרה.",
+    "full_description": "תיאור ביאורי התוספות על סוכה חלק ב, דפים כט–נו נועד ללוות את העיון בדברי התוספות שלב אחר שלב. לשון התוספות מנוקדת והביאור משולב בתוכה, כך שאפשר לעקוב אחר הקושיה, התירוץ ומהלך הדיון במהלך הקריאה. בסוף כל דיבור מופיע סיכום העניין, המסייע לארגן את הנלמד לפני המעבר לדיבור הבא. מדור שינון התוספות שבסוף הכרך מתאים לחזרה ולחיזוק הזיכרון, ומשלים את הלימוד הראשוני בחומר עזר לחזרה.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/ביאורי-התוספות-סוכה-ב-553212-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/ביאורי-התוספות-סוכה-ב-553212.png"
+    ],
+    "category": "מפרשי הש\"ס",
+    "parent_category": "מפרשי הש\"ס",
+    "child_category": "",
+    "categories": [
+      "מפרשי הש\"ס"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:17.808532",
+    "source_category_ids": [
+      1990
+    ],
+    "source_product_id": 114444,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%99%D7%AA-%D7%93%D7%95%D7%93-%D7%A9%D7%97%D7%99%D7%98%D7%94-%D7%95%D7%98%D7%A8%D7%99%D7%A4%D7%95%D7%AA-%D7%A2%D7%9D-%D7%91%D7%99%D7%AA-%D7%A9%D7%90%D7%95%D7%9C-%D7%95%D7%A9%D7%9E%D7%9C/",
+    "product_id": "72867",
+    "sku": "N1907",
+    "name": "בית דוד שחיטה וטריפות – עם בית שאול ושמלה חדשה / הרב דוד קאמין",
+    "original_price": 170.0,
+    "regular_price": 190.0,
+    "price": 196,
+    "regular_our_price": 219,
+    "description": "מחפשים את המדריך המקיף והפרקטי ביותר להלכות שחיטה וטריפות? הכירו את הספר \"בית דוד\" מאת הרב דוד קאמין זצוק\"ל, כולל \"בית שאול\", \"שמלה חדשה\" וקונטרס אנטומיה מפורט בתמונות.",
+    "full_description": "תיאור קחו את הלימוד והמקצועיות שלכם לשלב הבא אם אתם עוסקים במלאכת הקודש של שחיטה ובדיקה, או שאתם פשוט רוצים להעמיק את הידע שלכם בהלכות אלו בצורה הכי ברורה שיש, הספר \"בית דוד שחיטה וטריפות\" הוא בדיוק מה שאתם צריכים אצלכם בספרייה. הספר הזה, שהתקבל באהבה אצל כל השו\"בים בדורנו, מביא אליכם את כל הידע הנחוץ בצורה נגישה, מדויקת ומעוררת השראה. למה אתם פשוט חייבים את הספר הזה? הגאון רבינו דוד קאמין זצ\"ל, שהיה בעצמו שו\"ב מומחה בירושלים בסוף ימיו, השקיע את כל הלב והנשמה בחיבור הזה. הוא בנה עבורכם אוצר של ממש, המבוסס על פסקי מרן רבינו בעל ה\"תבואות שור\". תמצאו כאן ליקוט מפורט ומסודר של כל הלכות שחיטה, בדיקות הריאה, וי\"ח סימני הטריפות . הכל מוסבר בטוב טעם, כולל כל מה שמסתעף להלכה למעשה, כדי שתרגישו בטוחים בכל החלטה שלכם בשטח. מה עוד מחכה לכם בפנים? המהדורה המיוחדת הזו לא מסתפקת רק בספר הבסיסי. אתם מקבלים כאן חבילה שלמה שכוללת את התוספות הכי חשובות: בית שאול ושמלה חדשה – חיבורים שמשלימים לכם את התמונה המלאה. קונטרס ויען שאול – אנטומיה של בהמה ועוף בתמונות מוחשיות וברורות . זה עושה סדר מדהים בעיניים ועוזר לכם להבין את ההלכות הלכה למעשה. הזדמנות לעשות חסד של אמת יש כאן גם ערך מוסף נדיר שנוגע בלב. הרב קאמין זצ\"ל לא השאיר אחריו זרע של קיימא, והוא ביקש בקשה אישית מכל השובי\"ם הלומדים בספרו: ללמוד משניות ולומר קדיש לעילוי נשמתו (נפטר י\"ד אלול תרפ\"ב, מנוחתו כבוד בהר הזיתים). כשאתם רוכשים את הספר ולומדים בו, אתם לא רק מתמקצעים, אלא גם זוכים לעשות חסד עצום עם נשמת המחבר. הצטרפו לדורות של שוחטים שכבר בחרו בספר הזה כמורה הדרך שלהם. הזמינו עכשיו את העותק שלכם ותתחילו ללמוד מתוך בהירות אמיתית!",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6860443-600x600.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6860443.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:20.118789",
+    "source_category_ids": [],
+    "source_product_id": 72867,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A2%D7%9C-%D7%94%D7%AA%D7%95%D7%A8%D7%94-%D7%A8%D7%91%D7%99-%D7%A6%D7%91%D7%99-%D7%94%D7%99%D7%A8%D7%A9-%D7%9E%D7%96%D7%99%D7%93%D7%99%D7%98/",
+    "product_id": "114342",
+    "sku": "B1763",
+    "name": "בית ישראל על התורה / רבי צבי הירש מזידיטשוב",
+    "original_price": 58.0,
+    "regular_price": 65.0,
+    "price": 67,
+    "regular_our_price": 75,
+    "description": "בית ישראל על התורה ודרושים מאת רבי צבי הירש מזידיטשוב, „שר בית הזוהר” – ביאורים על התורה על פי חכמת הקבלה. כתבי הספר הוגהו בידי רבי יהודה צבי מרוזדול, אחיינו וחתנו של המחבר; ללימוד ולעיון בפנימיות התורה.",
+    "full_description": "תיאור בית ישראל על התורה ודרושים – רבי צבי הירש מזידיטשוב ביאורים על התורה ודרושים על פי חכמת האמת , מאת הרה\"ק רבי צבי הירש מזידיטשוב, המכונה „שר בית הזוהר”. הספר פותח בפני הלומד צוהר למשנתו של המחבר ולעומק ביאוריו בפנימיות התורה. ביאורי התורה לאור חכמת הקבלה „בית ישראל” מביא עיונים בפרשיות התורה בדרך הקבלה , לצד דרושים מתורתו של הרה\"ק מזידיטשוב. הספר מיועד ללומדי פנימיות התורה המבקשים להעמיק במשמעות הפסוקים על פי חכמת האמת. כתבים שהוגהו בידי רבי יהודה צבי מרוזדול את כתבי הספר הגיה הרה\"ק רבי יהודה צבי מרוזדול, אחיינו וחתנו של המחבר . פרט זה מעניק היכרות עם מסירת הכתבים ועם חלקו של בן משפחת המחבר בהגהתם. מתורתו של „שר בית הזוהר” רבי צבי הירש מזידיטשוב נודע בכינוי „שר בית הזוהר” , המעיד על מעמדו בחכמת הקבלה. בעל ה„בני יששכר” הפליג בשבחו בהסכמתו לספר „עטרת צבי”, ותיאר אותו כמי ש**„היה יחיד בדורו בחכמת האמת”**. „בית ישראל” מזמין את המעיין לפגוש את תורתו מתוך ביאוריו על התורה ודרושיו, ולהוסיף עומק ללימוד פרשיות השבוע.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/4540716-600x600.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/4540716.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-16.38.09.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-16.38.09-1.jpeg"
+    ],
+    "category": "חסידות",
+    "parent_category": "חסידות",
+    "child_category": "",
+    "categories": [
+      "חסידות"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:22.461936",
+    "source_category_ids": [
+      2185
+    ],
+    "source_product_id": 114342,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%9B%D7%95%D7%A8%D7%95%D7%AA-%D7%A2%D7%A8%D7%9B%D7%99%D7%9F-%D7%AA%D7%9E%D7%95%D7%A8%D7%94-%D7%9E%D7%A0%D7%95%D7%A7%D7%93-%D7%9E%D7%90%D7%95%D7%A8%D7%95%D7%AA-%D7%94%D7%93%D7%A3-%D7%94%D7%99/",
+    "product_id": "",
+    "sku": "124626",
+    "name": "בכורות ערכין תמורה מנוקד מאורות הדף היומי / עוז והדר",
+    "original_price": 59.0,
+    "regular_price": 66.0,
+    "price": 68,
+    "regular_our_price": 76,
+    "description": "בכורות, ערכין ותמורה מנוקד מאורות הדף היומי. גמרא, רש\"י ותוספות מנוקדים, עם משנה יומית בצדי העמוד.",
+    "full_description": "תיאור בכורות, ערכין ותמורה במהדורה המנוקדת של מאורות הדף היומי ועוז והדר. הגמרא ופירושי רש\"י ותוספות מנוקדים במלואם, בנוסח מוגה ובעימוד שנועד לסייע בקריאה רציפה של הסוגיה. לשון הגמרא מודפסת על רקע קרם ופירושי רש\"י ותוספות על רקע לבן, להבחנה נוחה בין חלקי העמוד. בצדי העמוד נוספה משנה יומית, המאפשרת לשלב את לימוד המשנה בסדר הלימוד הקבוע.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בכורות-ערכין-תמורה-מנוקד-מאורות-הדף-היומי-124626-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בכורות-ערכין-תמורה-מנוקד-מאורות-הדף-היומי-124626.png"
+    ],
+    "category": "גמרא כרכים בודדים",
+    "parent_category": "גמרא כרכים בודדים",
+    "child_category": "",
+    "categories": [
+      "גמרא כרכים בודדים"
+    ],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:24.692746",
+    "source_category_ids": [
+      1955
+    ],
+    "source_product_id": 114446,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%9B%D7%95%D7%A8%D7%95%D7%AA-%D7%A2%D7%A8%D7%9B%D7%99%D7%9F-%D7%AA%D7%9E%D7%95%D7%A8%D7%94-%D7%9E%D7%A0%D7%95%D7%A7%D7%93-%D7%A2%D7%9D-%D7%A9%D7%99%D7%A0%D7%95%D7%9F-%D7%94%D7%AA%D7%9C%D7%9E/",
+    "product_id": "",
+    "sku": "124330",
+    "name": "בכורות ערכין תמורה מנוקד עם שינון התלמוד / עוז והדר",
+    "original_price": 66.0,
+    "regular_price": 73.0,
+    "price": 76,
+    "regular_our_price": 84,
+    "description": "בכורות, ערכין ותמורה מנוקד עם שינון התלמוד. גמרא, רש\"י ותוספות בניקוד מלא ומדור עזר לשינון ולחזרה.",
+    "full_description": "תיאור בכורות, ערכין ותמורה במהדורת עוז והדר המנוקדת עם שינון התלמוד. הגמרא ופירושי רש\"י ותוספות מנוקדים, והנוסח הוגה בדקדוק עם תיקונים במסכת ובמפרשיה, כדי להקל על הקריאה ועל מעקב אחר הסוגיה. בסוף הכרך מופיע מדור שינון התלמוד, המיועד לסייע בסיכום ובחזרה על הגמרא. השילוב בין עמוד הגמרא המנוקד לבין חומר החזרה מתאים ללימוד שוטף ולחיזוק הזכירה לאחר הלימוד.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בכורות-ערכין-תמורה-מנוקד-עם-שינון-התלמוד-124330-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בכורות-ערכין-תמורה-מנוקד-עם-שינון-התלמוד-124330.png"
+    ],
+    "category": "גמרא כרכים בודדים",
+    "parent_category": "גמרא כרכים בודדים",
+    "child_category": "",
+    "categories": [
+      "גמרא כרכים בודדים"
+    ],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:26.810278",
+    "source_category_ids": [
+      1955
+    ],
+    "source_product_id": 114448,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%9F-%D7%90%D7%99%D7%A9-%D7%97%D7%99-%D7%95%D7%A2%D7%95%D7%93-%D7%99%D7%95%D7%A1%D7%A3-%D7%97%D7%99-%D7%9E%D7%90%D7%99%D7%A8-%D7%A2%D7%99%D7%A0%D7%99%D7%99%D7%9D-3-%D7%9B%D7%A8%D7%9B%D7%99/",
+    "product_id": "76547",
+    "sku": "H2717",
+    "name": "בן איש חי ועוד יוסף חי מאיר עיניים 3 כרכים",
+    "original_price": 215.0,
+    "regular_price": 230.0,
+    "price": 248,
+    "regular_our_price": 265,
+    "description": "ספר בן איש חי ועוד יוסף חי – מהדורת מאיר עיניים המבוארת. לרכישה אונליין במרכז לספרי קודש במחיר משתלם ובמשלוח נוח. הזמינו עכשיו!",
+    "full_description": "תיאור ספר בן איש חי ועוד יוסף חי – מהדורת \"מאיר עיניים\" המפוארת ספר בן איש חי הוא ספר ההלכה הנפוץ, האהוב והנלמד ביותר של רבינו יוסף חיים מבגדאד. כעת, הקלאסיקה ההלכתית שזכתה לאינספור מהדורות מאז שנת התרנ\"ח, רואה אור ב מהדורה חדשה, מפוארת ומונגשת על ידי מכון \"מאיר עיניים\". החידוש הגדול של ספר \"בן איש חי\" טמון ביכולתו המופלאה להקיף בקצרה את רוב ההלכות בחלקי אורח חיים ויורה דעה. ההלכות מוגשות בצורה קלה וברורה, כשהן בלולות מדברי הפוסקים והמקובלים גם יחד, וכתובות בלשונו הזהב של המחבר. גדולי הדור כבר העידו שהלימוד בספר זה גורם ליראת שמים טהורה, וכעת עם הוצאת המהדורה החדשה – הלימוד הופך לנגיש ונוח מאי פעם עבור כולם, החל מתלמידי חכמים ועד לאנשים העמלים לפרנסתם וקובעים עתים לתורה. מה התחדש במהדורת \"מאיר עיניים\"? המהדורה החדשה התקבלה בהתלהבות רבה בעולם התורה וזכתה להסכמות נלהבות של גדולי הדור, בזכות התוספות והמעלות הרבות ששולבו בה: ביאור מקיף ושורש ההלכה בטעמיה ומקורותיה הספר מציג ביאור מעמיק של דברי רבינו ושיטתו בכל פרט ופרט, החל ממקורות הסוגיה בגמרא ובראשונים, ועד לפוסקים האחרונים – כולל דברי הפשטנים והמקובלים. בנוסף, שולבו ביאורים מספרים שחוברו על ה\"בן איש חי\" במהלך השנים, המיישבים ומבארים את דבריו היטב. בירור מנהגים לכלל עדות ישראל המהדורה עורכת בירור יסודי של המקור והשורש לכל מנהג המוזכר בדברי ה\"בן איש חי\", תוך הרחבה והתייחסות למנהגי כל העדות: בני ספרד, בני אשכנז ושאר עדות ישראל. פסקי הלכה אקטואליים מגדולי הפוסקים בכל הלכה הובאו דעות הפוסקים האחרונים ודינים אקטואליים שנידונו בדורנו. תמצאו כאן את פסקי ה\"כף החיים\" , ה \"אור לציון\" , מרן הראשל\"צ הגר\"ע יוסף זצוק\"ל, הגר\"מ אליהו זצוק\"ל, הגר\"ש משאש זצוק\"ל ויבלחט\"א הגר\"מ מאזוז שליט\"א. במקביל, מובאת גם ההלכה לבני אשכנז מתוך ה \"משנה ברורה\" ופוסקי זמננו כדוגמת החזון איש, הגרש\"ז אוירבך, הגרי\"ש אלישיב, הגר\"ש וואזנר והגר\"ח קנייבסקי זצוק\"ל. אוצר מלוקט מכתבי רבינו גולת הכותרת ללומדים המעמיקים: ליקוט מקיף מכל כתבי רבינו יוסף חיים, ביניהם \"רב פעלים\" , \"תורה לשמה\" , \"ידי חיים\" ו\"מקבציאל\". כל התייחסות של המחבר לעניינים הנידונים בספר לוקטה בקפידה ושובצה במדויק בהערות.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/2717-600x600.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/2717.jpg"
+    ],
+    "category": "ספרי רבנו יוסף חיים",
+    "parent_category": "ספרי רבנו יוסף חיים",
+    "child_category": "",
+    "categories": [
+      "ספרי רבנו יוסף חיים"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:29.143054",
+    "source_category_ids": [
+      2003
+    ],
+    "source_product_id": 76547,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A2%D7%9C-%D7%A9%D7%9D-%D7%98%D7%95%D7%91-%D7%A9%D7%91%D7%AA-%D7%95%D7%9E%D7%95%D7%A2%D7%93%D7%99%D7%9D/",
+    "product_id": "114722",
+    "sku": "H2820",
+    "name": "בעל שם טוב שבת ומועדים",
+    "original_price": 64.0,
+    "regular_price": 69.0,
+    "price": 74,
+    "regular_our_price": 80,
+    "description": "בעל שם טוב – שבת ומועדים: אסופת דברי תורה, הנהגות, כוונות ועובדות מהבעל שם טוב הקדוש על שבת, חגים וזמני שמחה. בעריכה נגישה, בחלוקה לנושאים ועם כותרות לכל קטע, ללימוד אישי ולהעשרת שולחן השבת והחג.",
+    "full_description": "תיאור בעל שם טוב – שבת ומועדים מתורת הבעל שם טוב הקדוש אל שולחן השבת והחג. הספר „בעל שם טוב – שבת ומועדים” מרכז דברי תורה, הנהגות, כוונות ועובדות מרבינו הבעל שם טוב הק׳ זיע\"א, בענייני שבת קודש, מועדים וזמני שמחה . אוצר של תוכן חסידי המוגש בעריכה חדשה ונגישה, ברוח „קנקן חדש מלא ישן”. תורת השבת והמועדים בחלוקה מסודרת הספר ערוך לפי נושאים ותתי־נושאים , באופן המאפשר למצוא את התוכן המתאים לשבת, לחג ולזמן שבו לומדים. לכל קטע נוספו כותרת ומיקוד רעיוני , המסייעים לעמוד על עיקר הדברים ולהתבונן במשמעותם. עריכה נגישה למגוון לומדים דברי התורה מוגשים בצורה המקרבת את הלומד לתוכן, ומתאימה למגוון רמות של היכרות עם תורת החסידות. הספר מזמין ללימוד אישי, להכנה לקראת שבת ומועד ולשיתוף בדברי תורה סביב השולחן . לגלות ולהעמיק בתורת הבעל שם טוב לצד התורות וההנהגות המוכרות, נכללו בספר גם דברים פחות מוכרים , המעשירים את ההיכרות עם תורת הבעל שם טוב. השילוב בין דברי תורה, כוונות ועובדות מזמין את הקורא להתבוננות ולחיבור עמוק יותר לקדושת השבת ולשמחת המועדים.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בעל-שם-טוב-שבת-ומועדים-600x900.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בעל-שם-טוב-שבת-ומועדים.jpg"
+    ],
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
+    "child_category": "",
+    "categories": [
+      "ספרי חסידות שונים"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:04:31.465337",
+    "source_category_ids": [
+      1922
+    ],
+    "source_product_id": 114722,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%95%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%A9%D7%9E%D7%A2-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%92%D7%A9%D7%A8/",
+    "product_id": "71820",
+    "sku": "ללא",
+    "name": "קריאת שמע מהודר דגם גשר",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור קריאת שמע מהודר דגם גשר נוסח עדות מזרח לספרדים השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.06-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.06.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.05-3.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/e6195a072a88a195f0c7d7d50de8de8e.jpeg"
+    ],
+    "category": "קריאת שמע על המיטה",
+    "parent_category": "קריאת שמע על המיטה",
+    "child_category": "",
+    "categories": [
+      "קריאת שמע על המיטה"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71821,
+        "sku": "101284",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.06-600x600.jpeg"
+      },
+      {
+        "variation_id": 71822,
+        "sku": "101284-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.05-3-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:04:48.089369",
+    "source_category_ids": [
+      2051
+    ],
+    "source_product_id": 71820,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%95%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%A9%D7%9E%D7%A2-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%99%D7%9D/",
+    "product_id": "71801",
+    "sku": "ללא",
+    "name": "ברכות השחר וקריאת שמע מהודר דגם ים",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר וקריאת שמע מהודר דגם ים השבחות והבלטות בחזית כסף או זהב לבחירה נוסח עדות המזרח לספרדים אותיות גדולות ומאירות עיניים 8 עמ’ גודל: אורך -17 ס\"מ. רוחב – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.02-1-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.02-1.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-1.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/7f653dc20032a67413f4c251fa37c1cc.webp"
+    ],
+    "category": "ברכות השחר וקריאת שמע",
+    "parent_category": "ברכות השחר וקריאת שמע",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר",
+      "ברכות השחר וקריאת שמע",
+      "קריאת שמע על המיטה"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71802,
+        "sku": "101269",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.02-1-600x600.jpeg"
+      },
+      {
+        "variation_id": 71803,
+        "sku": "101269-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-1-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:04:50.335661",
+    "source_category_ids": [
+      1992,
+      2238,
+      2051
+    ],
+    "source_product_id": 71801,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%95%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%A9%D7%9E%D7%A2-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%A2%D7%9C%D7%99%D7%9D/",
+    "product_id": "71808",
+    "sku": "ללא",
+    "name": "ברכות השחר וקריאת שמע מהודר דגם עלים",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר וקריאת שמע מהודר דגם עלים השבחות והבלטות בחזית כסף או זהב לבחירה נוסח עדות המזרח לספרדים אותיות גדולות ומאירות עיניים 8 עמ’ גודל: אורך -17 ס\"מ. רוחב – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-2-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-2.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-3.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/7f653dc20032a67413f4c251fa37c1cc.webp"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר",
+      "ברכות השחר וקריאת שמע",
+      "קריאת שמע על המיטה"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71809,
+        "sku": "101271",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-2-600x600.jpeg"
+      },
+      {
+        "variation_id": 71810,
+        "sku": "101271-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.03-3-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:04:52.640810",
+    "source_category_ids": [
+      1992,
+      2238,
+      2051
+    ],
+    "source_product_id": 71808,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%95%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%A9%D7%9E%D7%A2-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%A9%D7%A7%D7%99%D7%A2%D7%94/",
+    "product_id": "71814",
+    "sku": "ללא",
+    "name": "ברכות השחר וקריאת שמע מהודר דגם שקיעה",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר וקריאת שמע מהודר דגם שקיעה השבחות והבלטות בחזית כסף או זהב לבחירה נוסח עדות המזרח לספרדים אותיות גדולות ומאירות עיניים 8 עמ’ גודל: אורך -17 ס\"מ. רוחב – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.04-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.04.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.04-1.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/7f653dc20032a67413f4c251fa37c1cc.webp"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר",
+      "ברכות השחר וקריאת שמע",
+      "קריאת שמע על המיטה"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71816,
+        "sku": "101271-1273",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.04-600x600.jpeg"
+      },
+      {
+        "variation_id": 71815,
+        "sku": "101271-1272",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.04-1-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:04:54.918187",
+    "source_category_ids": [
+      1992,
+      2238,
+      2051
+    ],
+    "source_product_id": 71814,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%91%D7%A8%D7%91%D7%95%D7%A8/",
+    "product_id": "71785",
+    "sku": "ללא",
+    "name": "ברכות השחר מהודר דגם ברבור",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר מהודר דגם ברבור נוסח חב\"ד השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-1.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6590a94335d3739e7495e3069e99335c.jpeg"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71786,
+        "sku": "101268",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-600x600.jpeg"
+      },
+      {
+        "variation_id": 71787,
+        "sku": "101268-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-1-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:04:57.264505",
+    "source_category_ids": [
+      1992
+    ],
+    "source_product_id": 71785,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%96%D7%A8%D7%99%D7%97%D7%94/",
+    "product_id": "71763",
+    "sku": "ללא",
+    "name": "ברכות השחר מהודר דגם זריחה",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר מהודר דגם זריחה נוסח חב\"ד השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.43-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.43.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.46.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6590a94335d3739e7495e3069e99335c.jpeg"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71764,
+        "sku": "101267",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.43-600x600.jpeg"
+      },
+      {
+        "variation_id": 71765,
+        "sku": "101267-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.46-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:04:59.517135",
+    "source_category_ids": [
+      1992
+    ],
+    "source_product_id": 71763,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%99%D7%95%D7%A0%D7%99%D7%9D-%D7%9C%D7%91%D7%9F/",
+    "product_id": "71792",
+    "sku": "ללא",
+    "name": "ברכות השחר מהודר דגם יונים לבן",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר מהודר דגם יונים לבן נוסח עדות מזרח לספרדים השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-2-1-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-2-1.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-3.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6590a94335d3739e7495e3069e99335c.jpeg"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71793,
+        "sku": "101264",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-2-1-600x600.jpeg"
+      },
+      {
+        "variation_id": 71794,
+        "sku": "101264-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.09-3-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:05:01.753581",
+    "source_category_ids": [
+      1992
+    ],
+    "source_product_id": 71792,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%9E%D7%A4%D7%9C/",
+    "product_id": "71778",
+    "sku": "ללא",
+    "name": "ברכות השחר מהודר דגם מפל",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר מהודר דגם מפל נוסח עדות מזרח לספרדים השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.01-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.01.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.02.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6590a94335d3739e7495e3069e99335c.jpeg"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71779,
+        "sku": "101265",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.01-600x600.jpeg"
+      },
+      {
+        "variation_id": 71780,
+        "sku": "101265-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.02-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:05:04.011336",
+    "source_category_ids": [
+      1992
+    ],
+    "source_product_id": 71778,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%A9%D7%97%D7%A8-%D7%A7%D7%A1%D7%95%D7%9D/",
+    "product_id": "71770",
+    "sku": "ללא",
+    "name": "ברכות השחר מהודר דגם שחר קסום",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור ברכות השחר מהודר דגם שחר קסום נוסח עדות מזרח לספרדים השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.55-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.55.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.00.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/6590a94335d3739e7495e3069e99335c.jpeg"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71772,
+        "sku": "101267-1269",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.09.55-600x600.jpeg"
+      },
+      {
+        "variation_id": 71771,
+        "sku": "101267-1268",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.00-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:05:06.247523",
+    "source_category_ids": [
+      1992
+    ],
+    "source_product_id": 71770,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%97%D7%A8-%D7%A4%D7%99%D7%95-%D7%A2%D7%9E-12x17-%D7%A1%D7%9E/",
+    "product_id": "73990",
+    "sku": "1590",
+    "name": "ברכות השחר פיו ע\"מ (12×17 ס\"מ)",
+    "original_price": 18.5,
+    "regular_price": 20.0,
+    "price": 22,
+    "regular_our_price": 23,
+    "description": "",
+    "full_description": "מידע נוסף סוג כריכה פיו צבע חום",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1590.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1590.jpg"
+    ],
+    "category": "ברכות השחר",
+    "parent_category": "ברכות השחר",
+    "child_category": "",
+    "categories": [
+      "ברכות השחר"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:08.441670",
+    "source_category_ids": [
+      1992
+    ],
+    "source_product_id": 73990,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A2%D7%9E-%D7%92%D7%93%D7%95%D7%9C-17x24-%D7%A1%D7%9E/",
+    "product_id": "73998",
+    "sku": "1542",
+    "name": "ברכת המזון כוונת הלב ע\"מ גדול (17×24 ס\"מ)",
+    "original_price": 4.9,
+    "regular_price": 5.0,
+    "price": 7.0,
+    "regular_our_price": 7.0,
+    "description": "",
+    "full_description": "מידע נוסף סוג כריכה למינציה סיכות צבע חום",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1542.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1542.jpg"
+    ],
+    "category": "ברכון ברכת המזון",
+    "parent_category": "ברכון ברכת המזון",
+    "child_category": "",
+    "categories": [
+      "ברכון ברכת המזון"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:10.673868",
+    "source_category_ids": [
+      2023
+    ],
+    "source_product_id": 73998,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A2%D7%9E-12x17-%D7%A1%D7%9E-2/",
+    "product_id": "73994",
+    "sku": "1543",
+    "name": "ברכת המזון כוונת הלב ע\"מ (12×17 ס\"מ)",
+    "original_price": 4.9,
+    "regular_price": 5.0,
+    "price": 7.0,
+    "regular_our_price": 7.0,
+    "description": "",
+    "full_description": "מידע נוסף סוג כריכה למינציה צבע לבן-זהב",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1543.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1543.jpg"
+    ],
+    "category": "ברכון ברכת המזון",
+    "parent_category": "ברכון ברכת המזון",
+    "child_category": "",
+    "categories": [
+      "ברכון ברכת המזון"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:12.936579",
+    "source_category_ids": [
+      2023
+    ],
+    "source_product_id": 73994,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A2%D7%9E-12x17-%D7%A1%D7%9E-3/",
+    "product_id": "73996",
+    "sku": "1541",
+    "name": "ברכת המזון כוונת הלב ע\"מ (12×17 ס\"מ)",
+    "original_price": 4.9,
+    "regular_price": 5.0,
+    "price": 7.0,
+    "regular_our_price": 7.0,
+    "description": "",
+    "full_description": "מידע נוסף סוג כריכה למינציה צבע לבן-זהב",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1541.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1541.jpg"
+    ],
+    "category": "ברכון ברכת המזון",
+    "parent_category": "ברכון ברכת המזון",
+    "child_category": "",
+    "categories": [
+      "ברכון ברכת המזון"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:15.311057",
+    "source_category_ids": [
+      2023
+    ],
+    "source_product_id": 73996,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%9B%D7%95%D7%95%D7%A0%D7%AA-%D7%94%D7%9C%D7%91-%D7%A2%D7%9E-12x17-%D7%A1%D7%9E/",
+    "product_id": "73992",
+    "sku": "1544",
+    "name": "ברכת המזון כוונת הלב ע\"מ (12×17 ס\"מ)",
+    "original_price": 4.9,
+    "regular_price": 5.0,
+    "price": 7.0,
+    "regular_our_price": 7.0,
+    "description": "",
+    "full_description": "מידע נוסף סוג כריכה למינציה צבע לבן-זהב",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1544.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/06/uc1544.jpg"
+    ],
+    "category": "ברכון ברכת המזון",
+    "parent_category": "ברכון ברכת המזון",
+    "child_category": "",
+    "categories": [
+      "ברכון ברכת המזון"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:17.571134",
+    "source_category_ids": [
+      2023
+    ],
+    "source_product_id": 73992,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%99%D7%A2%D7%91%D7%A5-%D7%90/",
+    "product_id": "",
+    "sku": "AR-BIYA",
+    "name": "ברכת יעב\"ץ א",
+    "original_price": 58.0,
+    "regular_price": 58.0,
+    "price": 67,
+    "regular_our_price": 67,
+    "description": "",
+    "full_description": "תיאור Novellae on halachic and hermeneutic aspects of the festivals.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4150.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4150.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:19.701130",
+    "source_category_ids": [],
+    "source_product_id": 100390,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%99%D7%A2%D7%91%D7%A5-%D7%91/",
+    "product_id": "",
+    "sku": "AR-BIY2",
+    "name": "ברכת יעב\"ץ ב",
+    "original_price": 58.0,
+    "regular_price": 58.0,
+    "price": 67,
+    "regular_our_price": 67,
+    "description": "",
+    "full_description": "תיאור Novellae on halachic and hermeneutic aspects of the festivals.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4149.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4149.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:21.844839",
+    "source_category_ids": [],
+    "source_product_id": 100392,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%99%D7%A2%D7%91%D7%A5-%D7%92/",
+    "product_id": "",
+    "sku": "AR-BIY4",
+    "name": "ברכת יעב\"ץ ג",
+    "original_price": 62.0,
+    "regular_price": 62.0,
+    "price": 72,
+    "regular_our_price": 72,
+    "description": "",
+    "full_description": "תיאור Novellae on halachic and hermeneutic aspects of the festivals.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/woocommerce-placeholder-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/woocommerce-placeholder-600x600.png"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:23.958252",
+    "source_category_ids": [],
+    "source_product_id": 100393,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%A8%D7%9B%D7%AA-%D7%99%D7%A2%D7%91%D7%A5-%D7%93/",
+    "product_id": "",
+    "sku": "AR-BIY3",
+    "name": "ברכת יעב\"ץ ד",
+    "original_price": 62.0,
+    "regular_price": 62.0,
+    "price": 72,
+    "regular_our_price": 72,
+    "description": "",
+    "full_description": "תיאור Novellae on halachic and hermeneutic aspects of the festivals.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/woocommerce-placeholder-600x600.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/woocommerce-placeholder-600x600.png"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:26.125320",
+    "source_category_ids": [],
+    "source_product_id": 100394,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%AA-%D7%9E%D7%9C%D7%9A-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%A0%D7%95%D7%A3/",
+    "product_id": "71861",
+    "sku": "ללא",
+    "name": "בת מלך מהודר דגם נוף",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור בת מלך מהודר דגם נוף מכיל: סדר הדלקת נרות, בקשה לאחר הדלקת נרות, תפילה לאשה על בעלה ובניה, סדר הפרשת חלה, סגולות שיתקבלו התפילות, תפילה לשמירת הלשון, תפילת הודיה לבורא עולם, סדר סעודת אמנים. השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.15-3-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.15-3.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.15-2.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/4e0056280c4a6e1bf1e550e9f30cbd7b.webp"
+    ],
+    "category": "בת מלך",
+    "parent_category": "בת מלך",
+    "child_category": "",
+    "categories": [
+      "בת מלך"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71862,
+        "sku": "101275",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.15-3-600x600.jpeg"
+      },
+      {
+        "variation_id": 71863,
+        "sku": "101275-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.15-2-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:05:31.525297",
+    "source_category_ids": [
+      2092
+    ],
+    "source_product_id": 71861,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%AA-%D7%9E%D7%9C%D7%9A-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%A4%D7%A8%D7%97%D7%99%D7%9D/",
+    "product_id": "71867",
+    "sku": "ללא",
+    "name": "בת מלך מהודר דגם פרחים",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור בת מלך מהודר דגם פרחים מכיל: סדר הדלקת נרות, בקשה לאחר הדלקת נרות, תפילה לאשה על בעלה ובניה, סדר הפרשת חלה, סגולות שיתקבלו התפילות, תפילה לשמירת הלשון, תפילת הודיה לבורא עולם, סדר סעודת אמנים. השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.14-3-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.14-3.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/7be6067b0592a551f5dc85457915c98e.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/4e0056280c4a6e1bf1e550e9f30cbd7b.webp"
+    ],
+    "category": "בת מלך",
+    "parent_category": "בת מלך",
+    "child_category": "",
+    "categories": [
+      "בת מלך"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71868,
+        "sku": "101274",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.14-3-600x600.jpeg"
+      },
+      {
+        "variation_id": 71869,
+        "sku": "101274-1",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/7be6067b0592a551f5dc85457915c98e.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:05:33.812292",
+    "source_category_ids": [
+      2092
+    ],
+    "source_product_id": 71867,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%AA-%D7%9E%D7%9C%D7%9A-%D7%9E%D7%94%D7%95%D7%93%D7%A8-%D7%93%D7%92%D7%9D-%D7%A7%D7%95%D7%95%D7%99%D7%9D-%D7%95%D7%A8%D7%95%D7%93/",
+    "product_id": "71854",
+    "sku": "ללא",
+    "name": "בת מלך מהודר דגם קווים ורוד",
+    "original_price": 9.0,
+    "regular_price": 9.0,
+    "price": 11.0,
+    "regular_our_price": 11.0,
+    "description": "",
+    "full_description": "תיאור בת מלך מהודר דגם קווים ורוד מכיל: סדר הדלקת נרות, בקשה לאחר הדלקת נרות, תפילה לאשה על בעלה ובניה, סדר הפרשת חלה, סגולות שיתקבלו התפילות, תפילה לשמירת הלשון, תפילת הודיה לבורא עולם, סדר סעודת אמנים. השבחות והבלטות כסף או זהב בכריכה לבחירה אותיות גדולות ומאירות עיניים 8 עמ’ גודל: רוחב – 17 ס\"מ. אורך – 24 ס\"מ.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.16-1-600x600.jpeg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.16-1.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.16.jpeg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/4e0056280c4a6e1bf1e550e9f30cbd7b.webp"
+    ],
+    "category": "בת מלך",
+    "parent_category": "בת מלך",
+    "child_category": "",
+    "categories": [
+      "בת מלך"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [
+      {
+        "variation_id": 71856,
+        "sku": "101283-1285",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "זהב"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.16-1-600x600.jpeg"
+      },
+      {
+        "variation_id": 71855,
+        "sku": "101283-1284",
+        "attributes": {
+          "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "כסף"
+        },
+        "original_price": 9.0,
+        "regular_price": 9.0,
+        "price": 11.0,
+        "regular_our_price": 11.0,
+        "in_stock": true,
+        "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/05/WhatsApp-Image-2025-09-29-at-17.10.16-600x600.jpeg"
+      }
+    ],
+    "attribute_labels": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": "צבע ספרון"
+    },
+    "attribute_options": {
+      "attribute_%d7%a6%d7%91%d7%a2-%d7%a1%d7%a4%d7%a8%d7%95%d7%9f": [
+        "זהב",
+        "כסף"
+      ]
+    },
+    "last_updated": "2026-11-20T11:05:36.206876",
+    "source_category_ids": [
+      2092
+    ],
+    "source_product_id": 71854,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%91%D7%AA-%D7%A2%D7%99%D7%9F-%D7%94%D7%9E%D7%A0%D7%95%D7%A7%D7%93-%D7%95%D7%94%D7%9E%D7%A4%D7%95%D7%90%D7%A8-%D7%94%D7%95%D7%A6%D7%90%D7%AA-%D7%90%D7%91%D7%95%D7%A7%D7%94/",
+    "product_id": "115097",
+    "sku": "H2796",
+    "name": "בת עין המנוקד והמפואר / הוצאת אבוקה",
+    "original_price": 49.0,
+    "regular_price": 55.0,
+    "price": 57,
+    "regular_our_price": 64,
+    "description": "בת עין לרבי אברהם דב מאווריטש – מהדורה חדשה ומתוקנת בהוצאת מכון אבוקה, עם ניקוד מלא וכותרות צד. הוצאה מפוארת בתוספת אלפי מראי מקומות, לקריאה מדויקת, ללימוד ולהעמקה בדברי המחבר.",
+    "full_description": "תיאור בת עין – מהדורת מכון אבוקה ספרו של הרה\"ק רבי אברהם דב מאווריטש זי\"ע, במהדורה חדשה, מתוקנת ומפוארת , בהוצאת מכון אבוקה. המהדורה משלבת ניקוד מלא, כותרות צד ואלפי מראי מקומות, המסייעים לקריאה ולעיון בדברי המחבר. ניקוד מלא וכותרות צד הספר מוגש בניקוד מלא , המקל על הקריאה המדויקת ועל הבנת הלשון. לצד הטקסט נוספו כותרות צד , המסייעות להתמצאות בנושאים ולמעקב אחר מהלך הדברים במהלך הלימוד והחזרה. אלפי מראי מקומות להעמקת הלימוד במהדורה נוספו אלפי מראי מקומות , המאפשרים לעיין במקורות הנזכרים ולהרחיב את הלימוד. שילובם לצד הנוסח המתוקן מתאים ללימוד אישי, ללימוד בחברותא ולהכנת שיעורים.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בת-עין-אבוקה.png",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/11/בת-עין-אבוקה.png"
+    ],
+    "category": "ספרי חסידות שונים",
+    "parent_category": "ספרי חסידות שונים",
+    "child_category": "",
+    "categories": [
+      "ספרי חסידות שונים"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:38.474678",
+    "source_category_ids": [
+      1922
+    ],
+    "source_product_id": 115097,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-02-%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%91-%D7%9C-%D7%A2%D7%91-%D7%A1%D7%93-%D7%A2/",
+    "product_id": "100396",
+    "sku": "AR-DHTBR2",
+    "name": "גמ' שוטנשטיין בינוני [#02] – ברכות ב' (ל ע\"ב – סד ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4449.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4449.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:40.718540",
+    "source_category_ids": [],
+    "source_product_id": 100396,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-03-%D7%A9%D7%91%D7%AA-%D7%90-%D7%91-%D7%A2%D7%90-%D7%9C%D7%95-%D7%A2%D7%90/",
+    "product_id": "100398",
+    "sku": "AR-DHTSH1",
+    "name": "גמ' שוטנשטיין בינוני [#03] – שבת א' (ב ע\"א – לו ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4487.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4487.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:42.962109",
+    "source_category_ids": [],
+    "source_product_id": 100398,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-04-%D7%A9%D7%91%D7%AA-%D7%91-%D7%9C%D7%95-%D7%A2%D7%91-%D7%A2%D7%95-%D7%A2%D7%91/",
+    "product_id": "100400",
+    "sku": "AR-DHTSH2",
+    "name": "גמ' שוטנשטיין בינוני [#04] – שבת ב' (לו ע\"ב – עו ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4488.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4488.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:45.214904",
+    "source_category_ids": [],
+    "source_product_id": 100400,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-05-%D7%A9%D7%91%D7%AA-%D7%92-%D7%A2%D7%95-%D7%A2%D7%91-%D7%A7%D7%98%D7%95-%D7%A2/",
+    "product_id": "100402",
+    "sku": "AR-DHTSH3",
+    "name": "גמ' שוטנשטיין בינוני [#05] – שבת ג' (עו ע\"ב – קטו ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4489.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4489.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:47.465957",
+    "source_category_ids": [],
+    "source_product_id": 100402,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-06-%D7%A9%D7%91%D7%AA-%D7%93-%D7%A7%D7%98%D7%95-%D7%A2%D7%90-%D7%A7%D7%A2%D7%96/",
+    "product_id": "100404",
+    "sku": "AR-DHTSH4",
+    "name": "גמ' שוטנשטיין בינוני [#06] – שבת ד' (קטו ע\"א – קעז ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4490.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4490.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:49.734632",
+    "source_category_ids": [],
+    "source_product_id": 100404,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-07-%D7%A2%D7%99%D7%A8%D7%95%D7%91%D7%99%D7%9F-%D7%90-%D7%91-%D7%A2%D7%90-%D7%A0/",
+    "product_id": "100406",
+    "sku": "AR-DHTER1",
+    "name": "גמ' שוטנשטיין בינוני [#07] – עירובין א' (ב ע\"א – נב ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4455.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4455.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:51.993766",
+    "source_category_ids": [],
+    "source_product_id": 100406,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-08-%D7%A2%D7%99%D7%A8%D7%95%D7%91%D7%99%D7%9F-%D7%91-%D7%A0%D7%91-%D7%A2%D7%91/",
+    "product_id": "100408",
+    "sku": "AR-DHTER2",
+    "name": "גמ' שוטנשטיין בינוני [#08] – עירובין ב' (נב ע\"ב – קה ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4456.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4456.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:54.328457",
+    "source_category_ids": [],
+    "source_product_id": 100408,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-09-%D7%A4%D7%A1%D7%97%D7%99%D7%9D-%D7%90-%D7%91-%D7%A2%D7%90-%D7%9E%D7%91-%D7%A2/",
+    "product_id": "100410",
+    "sku": "AR-DHTPE1",
+    "name": "גמ' שוטנשטיין בינוני [#09] – פסחים א' (ב ע\"א – מב ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4480.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4480.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:56.560482",
+    "source_category_ids": [],
+    "source_product_id": 100410,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-10-%D7%A4%D7%A1%D7%97%D7%99%D7%9D-%D7%91-%D7%9E%D7%91-%D7%A2%D7%90-%D7%A4-%D7%A2/",
+    "product_id": "100412",
+    "sku": "AR-DHTPE2",
+    "name": "גמ' שוטנשטיין בינוני [#10] – פסחים ב' (מב ע\"א – פ ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4481.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4481.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:05:58.834226",
+    "source_category_ids": [],
+    "source_product_id": 100412,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-11-%D7%A4%D7%A1%D7%97%D7%99%D7%9D-%D7%92-%D7%A4-%D7%A2%D7%91-%D7%A7%D7%9B%D7%90/",
+    "product_id": "100414",
+    "sku": "AR-DHTPE3",
+    "name": "גמ' שוטנשטיין בינוני [#11] – פסחים ג' (פ ע\"ב – קכא ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4482.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4482.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:01.084645",
+    "source_category_ids": [],
+    "source_product_id": 100414,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-12-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%A9%D7%A7%D7%9C%D7%99%D7%9D-%D7%91-%D7%A2%D7%90-%D7%9B/",
+    "product_id": "100416",
+    "sku": "AR-DHTSHK",
+    "name": "גמ' שוטנשטיין בינוני [#12] – מסכת שקלים (ב ע\"א – כב ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4492.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4492.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:03.383344",
+    "source_category_ids": [],
+    "source_product_id": 100416,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-13-%D7%99%D7%95%D7%9E%D7%90-%D7%90-%D7%91-%D7%A2%D7%90-%D7%9E%D7%95-%D7%A2%D7%91/",
+    "product_id": "100418",
+    "sku": "AR-DHTYO1",
+    "name": "גמ' שוטנשטיין בינוני [#13] – יומא א' (ב ע\"א – מו ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4502.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4502.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:05.608596",
+    "source_category_ids": [],
+    "source_product_id": 100418,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-14-%D7%99%D7%95%D7%9E%D7%90-%D7%91-%D7%9E%D7%96-%D7%A2%D7%90-%D7%A4%D7%97-%D7%A2/",
+    "product_id": "100420",
+    "sku": "AR-DHTYO2",
+    "name": "גמ' שוטנשטיין בינוני [#14] – יומא ב' (מז ע\"א – פח ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4503.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4503.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:07.910507",
+    "source_category_ids": [],
+    "source_product_id": 100420,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-15-%D7%A1%D7%95%D7%9B%D7%94-%D7%90-%D7%91-%D7%A2%D7%90-%D7%9B%D7%98-%D7%A2%D7%91/",
+    "product_id": "",
+    "sku": "AR-DHTSU1",
+    "name": "גמ' שוטנשטיין בינוני [#15] – סוכה א' (ב ע\"א – כט ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with thin",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4495.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4495.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": false,
+    "stock_text": "המלאי אזל",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:10.067040",
+    "source_category_ids": [],
+    "source_product_id": 100422,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-16-%D7%A1%D7%95%D7%9B%D7%94-%D7%91-%D7%9B%D7%98-%D7%A2%D7%91-%D7%A0%D7%95-%D7%A2/",
+    "product_id": "100424",
+    "sku": "AR-DHTSU2",
+    "name": "גמ' שוטנשטיין בינוני [#16] – סוכה ב' (כט ע\"ב – נו ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4496.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4496.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:12.387764",
+    "source_category_ids": [],
+    "source_product_id": 100424,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-17-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%91%D7%99%D7%A6%D7%94-%D7%91-%D7%A2%D7%90-%D7%9E/",
+    "product_id": "100426",
+    "sku": "AR-DHTBEI",
+    "name": "גמ' שוטנשטיין בינוני [#17] – מסכת ביצה (ב ע\"א – מ ע\"ב)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with th",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4441.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4441.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:14.660692",
+    "source_category_ids": [],
+    "source_product_id": 100426,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-18-%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%91-%D7%A2%D7%90-%D7%9C%D7%94/",
+    "product_id": "100428",
+    "sku": "AR-DHTROS",
+    "name": "גמ' שוטנשטיין בינוני [#18] – ראש השנה (ב ע\"א – לה ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with thinne",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4483.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4483.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:16.933617",
+    "source_category_ids": [],
+    "source_product_id": 100428,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-19-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%AA%D7%A2%D7%A0%D7%99%D7%AA-%D7%91-%D7%A2%D7%90-%D7%9C/",
+    "product_id": "100430",
+    "sku": "AR-DHTTAA",
+    "name": "גמ' שוטנשטיין בינוני [#19] – מסכת תענית (ב ע\"א – לא ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "מידע נוסף Color Blue צבע כחול Language Hebrew שפה עברית Binding Hardcover כריכה כריכה קשה",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4497.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4497.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:19.263116",
+    "source_category_ids": [],
+    "source_product_id": 100430,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-20-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%9E%D7%92%D7%99%D7%9C%D7%94-%D7%91-%D7%A2%D7%90-%D7%9C/",
+    "product_id": "100432",
+    "sku": "AR-DHTMEG",
+    "name": "גמ' שוטנשטיין בינוני [#20] – מסכת מגילה (ב ע\"א – לב ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4471.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4471.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:21.528757",
+    "source_category_ids": [],
+    "source_product_id": 100432,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-21-%D7%9E%D7%95%D7%A2%D7%93-%D7%A7%D7%98%D7%9F-%D7%91-%D7%A2%D7%90-%D7%9B%D7%98/",
+    "product_id": "100434",
+    "sku": "AR-DHTMOK",
+    "name": "גמ' שוטנשטיין בינוני [#21] – מועד קטן (ב ע\"א – כט ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4473.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4473.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:23.811138",
+    "source_category_ids": [],
+    "source_product_id": 100434,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-22-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%97%D7%92%D7%99%D7%92%D7%94-%D7%91-%D7%A2%D7%90-%D7%9B/",
+    "product_id": "100436",
+    "sku": "AR-DHTCHA",
+    "name": "גמ' שוטנשטיין בינוני [#22] – מסכת חגיגה (ב ע\"א – כז ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4454.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4454.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-20T11:06:26.084378",
+    "source_category_ids": [],
+    "source_product_id": 100436,
     "source_catalog_missing": false
   }
 ]
