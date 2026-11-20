@@ -497,6 +497,34 @@ def products_are_different(old, new):
     return False, None
 
 
+def stable_product_merge(previous, updates):
+    """Keep published array positions, including duplicates and retired entries."""
+    def identity(product):
+        return str(product.get('product_id') or product.get('source_product_id') or normalize_url(product.get('url', '')))
+
+    by_id = {identity(product): product for product in updates}
+    result = []
+    seen = set()
+    for old in previous:
+        key = identity(old)
+        updated = by_id.get(key)
+        if updated is not None:
+            merged = dict(updated)
+            for field in ('source_category_ids', 'source_product_id', 'source_catalog_missing'):
+                if field not in merged and field in old:
+                    merged[field] = old[field]
+            result.append(merged)
+        else:
+            result.append(old)
+        seen.add(key)
+    for product in updates:
+        key = identity(product)
+        if key not in seen:
+            result.append(product)
+            seen.add(key)
+    return result
+
+
 def main():
     start_time = datetime.now()
     print(f"🔍 מתחיל סריקה — {start_time.strftime('%d/%m/%Y %H:%M')}")
@@ -526,6 +554,9 @@ def main():
             print(f"🧹 הוסרו {len(stale_urls)} מוצרים שכבר לא קיימים במקור")
 
         new_urls = [url for url in urls if normalize_url(url) not in products_dict]
+        # Prioritize products confirmed by the latest complete source catalog scan.
+        confirmed_missing = {normalize_url(p['url']) for p in load_json('missing-source-products.json', [])}
+        new_urls.sort(key=lambda url: normalize_url(url) not in confirmed_missing)
         if new_urls:
             print(f"🆕 נמצאו {len(new_urls)} מוצרים חדשים — סורק אותם לפני עדכון שוטף")
 
@@ -575,7 +606,7 @@ def main():
 
         progress["update_index"] = (last_index + 1) % total
         save_json(PROGRESS_FILE, progress)
-        save_json(PRODUCTS_FILE, list(products_dict.values()))
+        save_json(PRODUCTS_FILE, stable_product_merge(products, list(products_dict.values())))
         print(f"\n✅ עדכון הושלם — {added} מוצרים חדשים נוספו, {updated} מוצרים שונו")
         return
 
@@ -612,7 +643,7 @@ def main():
         remaining = total - progress["last_index"]
         print(f"\n💾 נשארו {remaining} מוצרים לסריקות הבאות")
 
-    save_json(PRODUCTS_FILE, list(products_dict.values()))
+    save_json(PRODUCTS_FILE, stable_product_merge(products, list(products_dict.values())))
     save_json(PROGRESS_FILE, progress)
     print(f"✅ נשמרו {len(products_dict)} מוצרים")
 
