@@ -214,7 +214,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-20T11:04:45.824643",
+    "last_updated": "2026-11-21T10:49:50.688779",
     "source_category_ids": [
       2023
     ],
@@ -21962,7 +21962,6 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -21973,7 +21972,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T20:57:32.934594",
     "source_category_ids": [
-      2147,
       1913
     ],
     "source_product_id": 40720,
@@ -36022,7 +36020,6 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -36033,7 +36030,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T21:14:39.869005",
     "source_category_ids": [
-      2147,
       1913
     ],
     "source_product_id": 42794,
@@ -45489,7 +45485,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-20T11:05:29.230590",
+    "last_updated": "2026-11-21T10:49:53.850509",
     "source_category_ids": [
       2060
     ],
@@ -45635,7 +45631,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-20T11:04:34.535244",
+    "last_updated": "2026-11-21T10:49:38.859979",
     "source_category_ids": [
       2053
     ],
@@ -47544,7 +47540,6 @@
     "parent_category": "מפרשי התורה",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "מפרשי התורה"
     ],
     "tags": [],
@@ -47555,7 +47550,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T21:28:59.162276",
     "source_category_ids": [
-      2147,
       1983
     ],
     "source_product_id": 40935,
@@ -50600,7 +50594,6 @@
     "parent_category": "תלמוד ירושלמי",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "תלמוד ירושלמי"
     ],
     "tags": [],
@@ -50613,7 +50606,6 @@
     "revalidation_attempts": 2,
     "revalidation_checked_at": "2026-11-18T01:06:42.237521+00:00",
     "source_category_ids": [
-      2147,
       1919
     ],
     "source_product_id": 40771,
@@ -52826,8 +52818,7 @@
     "parent_category": "חוק לישראל",
     "child_category": "",
     "categories": [
-      "חוק לישראל",
-      "מבצעים לוהטים"
+      "חוק לישראל"
     ],
     "tags": [],
     "in_stock": true,
@@ -52837,8 +52828,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T21:35:33.179330",
     "source_category_ids": [
-      1921,
-      2147
+      1921
     ],
     "source_product_id": 40939,
     "source_catalog_missing": false
@@ -89884,7 +89874,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-20T11:04:45.824643",
+    "last_updated": "2026-11-21T10:49:50.688779",
     "source_category_ids": [
       2023
     ],
@@ -90758,7 +90748,6 @@
     "parent_category": "משנה ברורה",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "משנה ברורה"
     ],
     "tags": [],
@@ -90769,7 +90758,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T22:24:43.169018",
     "source_category_ids": [
-      2147,
       1928
     ],
     "source_product_id": 60163,
@@ -92088,7 +92076,6 @@
     "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "נ\"ך מפורש"
     ],
     "tags": [],
@@ -92099,7 +92086,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T22:26:32.606843",
     "source_category_ids": [
-      2147,
       1916
     ],
     "source_product_id": 40762,
@@ -94462,7 +94448,6 @@
     "parent_category": "ספרי חסידות שונים",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ספרי חסידות שונים"
     ],
     "tags": [],
@@ -94473,7 +94458,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T22:29:40.798002",
     "source_category_ids": [
-      2147,
       1922
     ],
     "source_product_id": 40765,
@@ -115904,8 +115888,7 @@
     "parent_category": "חומשים",
     "child_category": "",
     "categories": [
-      "חומשים",
-      "מבצעים לוהטים"
+      "חומשים"
     ],
     "tags": [],
     "in_stock": true,
@@ -115915,8 +115898,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T22:58:11.034848",
     "source_category_ids": [
-      1909,
-      2147
+      1909
     ],
     "source_product_id": 40847,
     "source_catalog_missing": false
@@ -129968,7 +129950,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-20T11:04:39.054831",
+    "last_updated": "2026-11-21T10:49:43.630391",
     "source_category_ids": [
       2053
     ],
@@ -152177,7 +152159,6 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -152188,7 +152169,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T23:46:14.570240",
     "source_category_ids": [
-      2147,
       1913
     ],
     "source_product_id": 40763,
@@ -158245,8 +158225,7 @@
     "parent_category": "מבצעים לוהטים",
     "child_category": "",
     "categories": [
-      "חומשים",
-      "מבצעים לוהטים"
+      "חומשים"
     ],
     "tags": [],
     "in_stock": true,
@@ -158256,8 +158235,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T23:54:11.664313",
     "source_category_ids": [
-      1909,
-      2147
+      1909
     ],
     "source_product_id": 57485,
     "source_catalog_missing": false
@@ -168835,7 +168813,6 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -168846,7 +168823,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-18T00:07:29.386483",
     "source_category_ids": [
-      2147,
       1913
     ],
     "source_product_id": 40896,
@@ -193248,7 +193224,6 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -193259,7 +193234,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-18T00:39:25.365647",
     "source_category_ids": [
-      2147,
       1913
     ],
     "source_product_id": 40949,
@@ -199780,7 +199754,6 @@
     "parent_category": "מבצעים לוהטים",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -199791,7 +199764,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-18T00:48:04.406322",
     "source_category_ids": [
-      2147,
       1913
     ],
     "source_product_id": 40760,
@@ -208079,7 +208051,6 @@
     "parent_category": "מקראות גדולות תורה",
     "child_category": "",
     "categories": [
-      "מבצעים לוהטים",
       "מקראות גדולות תורה"
     ],
     "tags": [],
@@ -208090,7 +208061,6 @@
     "attribute_options": {},
     "last_updated": "2026-11-18T00:58:55.526381",
     "source_category_ids": [
-      2147,
       1920
     ],
     "source_product_id": 42107,
@@ -212066,6 +212036,36 @@
     "last_updated": "2026-11-20T11:06:26.084378",
     "source_category_ids": [],
     "source_product_id": 100436,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-23-%D7%99%D7%91%D7%9E%D7%95%D7%AA-%D7%90-%D7%91-%D7%A2%D7%90-%D7%9E%D7%90-%D7%A2/",
+    "product_id": "100438",
+    "sku": "AR-DHTYE1",
+    "name": "גמ' שוטנשטיין בינוני [#23] – יבמות א' (ב ע\"א – מא ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4499.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4499.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-21T10:49:56.208711",
+    "source_category_ids": [],
+    "source_product_id": 100438,
     "source_catalog_missing": false
   }
 ]

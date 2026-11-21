@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-11-20T11:10:10.400047+00:00",
+  "checked_at": "2026-11-21T10:53:37.476588+00:00",
   "source_products": 10332,
-  "local_products": 6066,
+  "local_products": 6067,
   "source_categories": 182,
   "root_categories": 59,
   "source_menu_groups": 15,
-  "matched_products": 5732,
+  "matched_products": 5733,
   "local_not_in_source": 334,
-  "missing_products": 4629,
+  "missing_products": 4628,
   "pending_revalidation": 610,
   "local_not_in_source_indexes": [
     81,
