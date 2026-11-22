@@ -18,7 +18,8 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "ש\"ס תלמוד בבלי"
+      "ש\"ס תלמוד בבלי",
+      "וילנא"
     ],
     "tags": [],
     "in_stock": true,
@@ -26,7 +27,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:21:26.748022",
+    "last_updated": "2026-11-22T22:18:38.359913",
     "source_category_ids": [
       1913
     ],
@@ -55,7 +56,8 @@
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
-      "ש\"ס משניות"
+      "ש\"ס משניות",
+      "וגשל"
     ],
     "tags": [],
     "in_stock": true,
@@ -63,7 +65,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:21:28.403343",
+    "last_updated": "2026-11-22T22:18:40.201160",
     "source_category_ids": [
       1947,
       1954
@@ -4660,12 +4662,12 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%a7%d7%a8%d7%90-%d7%9e%d7%a4%d7%95%d7%a8%d7%a9-%d7%9e%d7%92%d7%99%d7%9c%d7%aa-%d7%a9%d7%99%d7%a8-%d7%94%d7%a9%d7%99%d7%a8%d7%99%d7%9d-%d7%92%d7%93%d7%95%d7%9c-24-%d7%a1%d7%9e-%d7%a2/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%A7%D7%A8%D7%90-%D7%9E%D7%A4%D7%95%D7%A8%D7%A9-%D7%9E%D7%92%D7%99%D7%9C%D7%AA-%D7%A9%D7%99%D7%A8-%D7%94%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%92%D7%93%D7%95%D7%9C-24-%D7%A1%D7%9E-%D7%A2/",
     "product_id": "42325",
     "sku": "322702",
     "name": "מקרא מפורש מגילת שיר השירים גדול (24 ס\"מ) / עוז והדר",
-    "original_price": 61,
-    "regular_price": 65,
+    "original_price": 61.0,
+    "regular_price": 65.0,
     "price": 71,
     "regular_our_price": 75,
     "description": "מגילת שיר השירים מהדורת 'מקרא מפורש' (פורמט גדול, 24 ס\"מ) מבית \"עוז והדר\". ביאור משולב בתוך תיבות הפסוקים ובפירוש רש\"י להבנה בהירה ורציפה.",
@@ -4678,17 +4680,16 @@
     "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
-      "נ\"ך מפורש"
+      "נ\"ך מפורש",
+      "עוז והדר"
     ],
     "tags": [],
     "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:24:58.356336",
-    "needs_revalidation": true,
-    "revalidation_attempts": 2,
-    "revalidation_checked_at": "2026-11-18T00:59:49.821396+00:00",
+    "attribute_options": {},
+    "last_updated": "2026-11-22T22:18:41.799168",
     "source_category_ids": [
       1916
     ],
@@ -4908,14 +4909,14 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%9e%d7%99%d7%9c%d7%aa%d7%90-%d7%97%d7%93%d7%aa%d7%90-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%98%d7%95-%d7%91%d7%a9%d7%91%d7%98-%d7%a2%d7%95%d7%96-%d7%95%d7%94%d7%93%d7%a8/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%99%D7%9C%D7%AA%D7%90-%D7%97%D7%93%D7%AA%D7%90-%D7%97%D7%A0%D7%95%D7%9B%D7%94-%D7%98%D7%95-%D7%91%D7%A9%D7%91%D7%98-%D7%A2%D7%95%D7%96-%D7%95%D7%94%D7%93%D7%A8/",
     "product_id": "59009",
     "sku": "558409",
     "name": "מילתא חדתא חנוכה – ט\"ו בשבט / עוז והדר",
-    "original_price": 48,
-    "regular_price": 53,
-    "price": 56,
-    "regular_our_price": 61,
+    "original_price": 57.0,
+    "regular_price": 65.0,
+    "price": 66,
+    "regular_our_price": 75,
     "description": "",
     "full_description": "תיאור שיחות קודש ודברי חיזוק על עניני חנוכה וט\"ו בשבט, מתאימים  במיוחד בהתמודדויות ובאתגרים של דורנו. דברים נעלים שנאמרו במשך השנים מפ\"ק כבוד קדושת מרן אדמו\"ר רבי דוד חי אביחצירא שליט\"א , ונכתבו ונערכו בלשון בהירה ונגישה לכל נפש, מתוך מטרה לחזק, לעורר ולרומם את הלבבות באור התורה, האמונה והמועדים.",
     "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/01/מילתא-חדתא-חנוכה-600x600.png",
@@ -4927,17 +4928,16 @@
     "child_category": "",
     "categories": [
       "חנוכה",
-      "ט\"ו בשבט"
+      "ט\"ו בשבט",
+      "עוז והדר"
     ],
     "tags": [],
     "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T10:25:21.740467",
-    "needs_revalidation": true,
-    "revalidation_attempts": 2,
-    "revalidation_checked_at": "2026-11-18T00:59:55.230731+00:00",
+    "attribute_options": {},
+    "last_updated": "2026-11-22T22:18:43.415115",
     "source_category_ids": [
       1936,
       1969
@@ -5656,12 +5656,12 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%93%d7%a8%d7%9b%d7%99-%d7%a6%d7%93%d7%a7-%d7%9e%d7%97%d7%91%d7%a8%d7%aa-%d7%94%d7%a7%d7%95%d7%93%d7%a9-%d7%9c%d7%a8%d7%91%d7%99-%d7%96%d7%9b%d7%a8%d7%99%d7%94-%d7%9e%d7%a0%d7%93%d7%9c-%d7%9e/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%93%D7%A8%D7%9B%D7%99-%D7%A6%D7%93%D7%A7-%D7%9E%D7%97%D7%91%D7%A8%D7%AA-%D7%94%D7%A7%D7%95%D7%93%D7%A9-%D7%9C%D7%A8%D7%91%D7%99-%D7%96%D7%9B%D7%A8%D7%99%D7%94-%D7%9E%D7%A0%D7%93%D7%9C-%D7%9E/",
     "product_id": "56483",
     "sku": "Y301",
     "name": "דרכי צדק – מחברת הקודש לרבי זכריה מנדל מירוסלב ושנדישוב",
-    "original_price": 52,
-    "regular_price": 60,
+    "original_price": 52.0,
+    "regular_price": 60.0,
     "price": 60,
     "regular_our_price": 69,
     "description": "",
@@ -5678,17 +5678,16 @@
     "parent_category": "חסידות",
     "child_category": "",
     "categories": [
-      "חסידות"
+      "חסידות",
+      "המיטב בספרים"
     ],
     "tags": [],
     "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-26T08:12:30.156577",
-    "needs_revalidation": true,
-    "revalidation_attempts": 2,
-    "revalidation_checked_at": "2026-11-18T00:59:57.664206+00:00",
+    "attribute_options": {},
+    "last_updated": "2026-11-22T22:18:45.379724",
     "source_category_ids": [
       2185
     ],
