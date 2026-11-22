@@ -303,14 +303,9 @@ def scrape_product(url):
             sku = sku_el.get_text(strip=True)
 
         # מזהה מוצר
-        product_id = ""
-        add_to_cart = soup.select_one("button.single_add_to_cart_button, [name='add-to-cart']")
-        if add_to_cart:
-            product_id = add_to_cart.get("value", "")
+        product_id = extract_product_id(soup)
         if not product_id:
-            form = soup.select_one("form.cart")
-            if form:
-                product_id = form.get("data-product_id", "")
+            return None
 
         # תיאור קצר
         description = ""
@@ -495,6 +490,26 @@ def products_are_different(old, new):
         if old.get(field) != new.get(field):
             return True, field
     return False, None
+
+
+def extract_product_id(soup):
+    # Out-of-stock WooCommerce pages have no cart button, but retain their post ID.
+    classes = soup.body.get('class', []) if soup.body else []
+    if 'single-product' in classes:
+        ids = [value.removeprefix('postid-') for value in classes
+               if value.startswith('postid-') and value.removeprefix('postid-').isdigit()]
+        if len(set(ids)) == 1:
+            return ids[0]
+    form = soup.select_one('form.cart')
+    if form:
+        value = str(form.get('data-product_id') or '')
+        if value.isdigit():
+            return value
+        button = form.select_one('[name="add-to-cart"]')
+        value = str(button.get('value') or '') if button else ''
+        if value.isdigit():
+            return value
+    return ''
 
 
 def stable_product_merge(previous, updates):

@@ -1,8 +1,14 @@
 import unittest
-from scrape_products import stable_product_merge
+from scrape_products import stable_product_merge, extract_product_id
+from bs4 import BeautifulSoup
 
 
 class StableCatalogTests(unittest.TestCase):
+    def test_out_of_stock_identity_without_cart(self):
+        soup = BeautifulSoup('<body class="single-product postid-123"><button name="add-to-cart" value="999">Related</button></body>', 'html.parser')
+        self.assertEqual(extract_product_id(soup), '123')
+        self.assertEqual(extract_product_id(BeautifulSoup('<body>Not a product</body>', 'html.parser')), '')
+
     def test_positions_duplicates_and_retired_products(self):
         previous = [dict(product_id=1, url='/a', price=10),
                     dict(product_id=2, url='/b'),

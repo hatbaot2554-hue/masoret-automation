@@ -5,6 +5,9 @@ on:
     paths:
       - '.github/workflows/verify-catalog-sync.yml'
       - 'verify_catalog_sync.py'
+      - 'scrape_products.py'
+      - 'sync_source_taxonomy.py'
+      - 'verify_catalog_health.py'
 permissions:
   contents: write
 concurrency:
@@ -23,6 +26,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4
+      - run: python -m unittest test_stable_catalog test_source_taxonomy test_catalog_health
       - run: python verify_catalog_sync.py
       - uses: actions/upload-artifact@v4
         if: always()
