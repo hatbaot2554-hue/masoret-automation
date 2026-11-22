@@ -41,6 +41,15 @@ class TaxonomyTests(unittest.TestCase):
         self.assertFalse(updated[1]['in_stock'])
         self.assertEqual((matched, absent, missing[0]['id']), (1, [1], 10))
 
+    def test_reused_url_cannot_change_product_identity(self):
+        old = [dict(product_id=8, url='/reused', in_stock=True)]
+        source = [dict(id=9, name='Different', permalink='/reused', categories=[])]
+        updated, matched, absent, missing = reconcile(old, source, self.categories)
+        self.assertEqual(matched, 0)
+        self.assertTrue(updated[0]['source_catalog_missing'])
+        self.assertFalse(updated[0]['in_stock'])
+        self.assertEqual(missing[0]['id'], 9)
+
 
 if __name__ == '__main__':
     unittest.main()

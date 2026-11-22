@@ -1,7 +1,7 @@
 name: סריקה יומית של מוצרים
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -40,6 +40,11 @@ jobs:
       - name: Verify source taxonomy and product membership
         run: python -u sync_source_taxonomy.py
 
+      - name: Reject product identity drift before publication
+        run: |
+          python -m unittest test_stable_catalog test_source_taxonomy test_catalog_health
+          python verify_catalog_health.py
+
       - name: שמירת המוצרים
         run: |
           git config user.name "אוטומציה"
@@ -48,6 +53,9 @@ jobs:
           git diff --staged --quiet || git commit -m "עדכון מוצרים אוטומטי"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Check catalog completeness after saving progress
+        run: python verify_catalog_health.py --ready
 
   notify_waitlist:
     # Enable only after DASHBOARD_ORDERS_API_SECRET and RESEND_FROM are configured.

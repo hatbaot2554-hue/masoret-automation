@@ -543,20 +543,26 @@ def main():
         print("✅ סריקה ראשונה הושלמה! עובר למצב עדכונים...")
         urls = get_all_product_urls(force_refresh=True)
         if not urls:
-            print("No product URLs to update")
-            return
+            raise RuntimeError('No product URLs discovered; synchronization did not run')
 
         current_urls = set(urls)
         stale_urls = [url for url in products_dict if normalize_url(url) not in current_urls]
         # A missing discovery result is not evidence that a product was deleted.
         # Keep its array position: saved carts and waitlists reference these indexes.
         if stale_urls:
-            print(f"🧹 הוסרו {len(stale_urls)} מוצרים שכבר לא קיימים במקור")
+            print(f"Keeping {len(stale_urls)} undiscovered products pending source verification")
 
         new_urls = [url for url in urls if normalize_url(url) not in products_dict]
         # Prioritize products confirmed by the latest complete source catalog scan.
         confirmed_missing = {normalize_url(p['url']) for p in load_json('missing-source-products.json', [])}
         new_urls.sort(key=lambda url: normalize_url(url) not in confirmed_missing)
+        last_new = progress.get('last_new_url')
+        if last_new in new_urls:
+            cursor = new_urls.index(last_new) + 1
+            new_urls = new_urls[cursor:] + new_urls[:cursor]
+        work_started = time.monotonic()
+        remaining_seconds = max(0, MAX_MINUTES * 60 - (datetime.now() - start_time).total_seconds())
+        new_deadline = work_started + remaining_seconds * 0.5
         if new_urls:
             print(f"🆕 נמצאו {len(new_urls)} מוצרים חדשים — סורק אותם לפני עדכון שוטף")
 
@@ -565,11 +571,12 @@ def main():
 
         for new_url in new_urls:
             elapsed = (datetime.now() - start_time).seconds / 60
-            if elapsed > MAX_MINUTES:
+            if elapsed > MAX_MINUTES or time.monotonic() >= new_deadline:
                 print(f"\nReached {MAX_MINUTES} minutes while adding new products, saving progress")
                 break
             url = normalize_url(new_url)
             product = scrape_product(url)
+            progress['last_new_url'] = new_url
             if product:
                 product_url = normalize_url(product.get("url") or url)
                 products_dict[product_url] = product

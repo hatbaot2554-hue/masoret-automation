@@ -125,7 +125,8 @@ def reconcile(products, source, categories):
     output = []
     for index, old in enumerate(products):
         product = dict(old)
-        original = by_id.get(str(old.get('product_id'))) or by_url.get(url_key(old.get('url')))
+        source_id = old.get('product_id') or old.get('source_product_id')
+        original = by_id.get(str(source_id)) if source_id else by_url.get(url_key(old.get('url')))
         if original:
             assigned = original.get('categories', [])
             if any(c['id'] not in category_ids for c in assigned):

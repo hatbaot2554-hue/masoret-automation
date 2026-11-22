@@ -1,9 +1,6 @@
 name: Revalidate restored catalog
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/revalidate-catalog.yml'
 permissions:
   contents: write
 concurrency:
@@ -30,8 +27,8 @@ jobs:
       - name: Verify next pending products
         run: python -u revalidate_catalog.py
       - name: Publish checkpoint
-        if: always()
         run: |
+          python verify_catalog_health.py
           git config user.name 'Catalog verification'
           git config user.email 'bot@masoret-yehudit.co.il'
           git add products.json
