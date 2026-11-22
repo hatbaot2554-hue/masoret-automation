@@ -21,6 +21,11 @@ class StableCatalogTests(unittest.TestCase):
                                       [dict(product_id=2, url='/new')])
         self.assertEqual([p['product_id'] for p in merged], [1, 2])
 
+    def test_newly_discovered_id_keeps_existing_url_position(self):
+        merged = stable_product_merge([dict(url='/same')], [dict(product_id=5, url='/same')])
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]['product_id'], 5)
+
 
 if __name__ == '__main__':
     unittest.main()

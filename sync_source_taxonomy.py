@@ -174,7 +174,7 @@ def main():
         'source_menu_groups': sum(str(node['id']).startswith('menu:') for node in tree),
         'matched_products': matched, 'local_not_in_source': len(absent),
         'missing_products': len(missing),
-        'pending_revalidation': sum(bool(p.get('needs_revalidation')) for p in updated),
+        'pending_revalidation': sum(bool(p.get('needs_revalidation')) and not p.get('source_catalog_missing') for p in updated),
         'local_not_in_source_indexes': absent,
     }
     # Publish only after every page and relationship has been validated.

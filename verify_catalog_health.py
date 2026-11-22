@@ -13,7 +13,9 @@ def validate_positions(previous, current):
     if not current or len(current) < len(previous):
         raise ValueError('Catalog was emptied or shortened')
     for index, old in enumerate(previous):
-        if not identity(old) or identity(old) != identity(current[index]):
+        old_id = old.get('product_id') or old.get('source_product_id')
+        same = identity(old) == identity(current[index]) if old_id else old.get('url') == current[index].get('url')
+        if not identity(old) or not same:
             raise ValueError(f'Product identity changed at published position {index}')
 
 

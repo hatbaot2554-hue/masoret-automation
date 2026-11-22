@@ -5,7 +5,7 @@ import os
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from scrape_products import scrape_product
+from scrape_products import scrape_product, stable_product_merge
 
 def valid_product(old, new):
     if not isinstance(new, dict) or not new.get('name') or not isinstance(new.get('in_stock'), bool):
@@ -28,7 +28,7 @@ def save(path, value):
 def run(limit=400, minutes=25, pause=0.6):
     path = Path('products.json')
     products = json.loads(path.read_text(encoding='utf-8'))
-    pending = [i for i, p in enumerate(products) if p.get('needs_revalidation')]
+    pending = [i for i, p in enumerate(products) if p.get('needs_revalidation') and not p.get('source_catalog_missing')]
     # Failed products move to the back so every pending product gets a first attempt.
     pending.sort(key=lambda i: products[i].get('revalidation_attempts', 0))
     deadline = time.monotonic() + minutes * 60
@@ -42,7 +42,7 @@ def run(limit=400, minutes=25, pause=0.6):
         except Exception:
             fresh = None
         if valid_product(old, fresh):
-            products[index] = fresh
+            products[index] = stable_product_merge([old], [fresh])[0]
             verified += 1
         else:
             old['revalidation_attempts'] = old.get('revalidation_attempts', 0) + 1

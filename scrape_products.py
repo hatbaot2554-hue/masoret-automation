@@ -503,17 +503,21 @@ def stable_product_merge(previous, updates):
         return str(product.get('product_id') or product.get('source_product_id') or normalize_url(product.get('url', '')))
 
     by_id = {identity(product): product for product in updates}
+    by_url = {normalize_url(product.get('url', '')): product for product in updates if product.get('url')}
     result = []
     seen = set()
     for old in previous:
         key = identity(old)
         updated = by_id.get(key)
+        if updated is None and not (old.get('product_id') or old.get('source_product_id')):
+            updated = by_url.get(normalize_url(old.get('url', '')))
         if updated is not None:
             merged = dict(updated)
             for field in ('source_category_ids', 'source_product_id', 'source_catalog_missing'):
                 if field not in merged and field in old:
                     merged[field] = old[field]
             result.append(merged)
+            seen.add(identity(merged))
         else:
             result.append(old)
         seen.add(key)

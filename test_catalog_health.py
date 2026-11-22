@@ -10,6 +10,7 @@ class CatalogHealthTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 validate_positions(old, bad)
         validate_positions(old, old + [dict(product_id=3)])
+        validate_positions([dict(url='/same')], [dict(url='/same', product_id=5)])
 
     def test_incomplete_catalog_is_not_ready(self):
         report = dict(checked_at=datetime.now(timezone.utc).isoformat(), missing_products=1,
