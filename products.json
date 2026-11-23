@@ -18,8 +18,7 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
-      "ש\"ס תלמוד בבלי",
-      "וילנא"
+      "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
     "in_stock": true,
@@ -56,8 +55,7 @@
     "child_category": "",
     "categories": [
       "משניות כרכים בודדים",
-      "ש\"ס משניות",
-      "וגשל"
+      "ש\"ס משניות"
     ],
     "tags": [],
     "in_stock": true,
@@ -216,7 +214,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-22T10:36:44.579464",
+    "last_updated": "2026-11-23T06:21:43.530813",
     "source_category_ids": [
       2023
     ],
@@ -2473,6 +2471,7 @@
     "parent_category": "גמרא ומשנה",
     "child_category": "שוטנשטיין",
     "categories": [
+      "מבצעים לוהטים",
       "משניות מבוארות",
       "ש\"ס משניות",
       "שוטנשטיין"
@@ -2485,6 +2484,7 @@
     "attribute_options": {},
     "last_updated": "2026-05-21T07:00:47.461351",
     "source_category_ids": [
+      2147,
       1950,
       1954,
       1973
@@ -4680,8 +4680,7 @@
     "parent_category": "נ\"ך מפורש",
     "child_category": "",
     "categories": [
-      "נ\"ך מפורש",
-      "עוז והדר"
+      "נ\"ך מפורש"
     ],
     "tags": [],
     "in_stock": false,
@@ -4928,8 +4927,7 @@
     "child_category": "",
     "categories": [
       "חנוכה",
-      "ט\"ו בשבט",
-      "עוז והדר"
+      "ט\"ו בשבט"
     ],
     "tags": [],
     "in_stock": false,
@@ -5678,8 +5676,7 @@
     "parent_category": "חסידות",
     "child_category": "",
     "categories": [
-      "חסידות",
-      "המיטב בספרים"
+      "חסידות"
     ],
     "tags": [],
     "in_stock": false,
@@ -7946,7 +7943,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:40:03.177685",
+    "last_updated": "2026-11-23T06:22:29.884769",
     "source_category_ids": [
       1955
     ],
@@ -11324,7 +11321,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:44:34.035131",
+    "last_updated": "2026-11-23T06:23:03.017275",
     "source_category_ids": [
       1955
     ],
@@ -12912,7 +12909,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:46:35.408165",
+    "last_updated": "2026-11-23T06:22:51.174580",
     "source_category_ids": [
       1955
     ],
@@ -37997,7 +37994,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:17:08.947665",
+    "last_updated": "2026-11-23T06:23:07.711921",
     "source_category_ids": [
       1955
     ],
@@ -38545,7 +38542,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:17:49.680389",
+    "last_updated": "2026-11-23T06:22:34.580117",
     "source_category_ids": [
       1955
     ],
@@ -44856,7 +44853,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:25:42.842062",
+    "last_updated": "2026-11-23T06:23:05.354459",
     "source_category_ids": [
       1955
     ],
@@ -45484,7 +45481,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-22T10:36:47.802283",
+    "last_updated": "2026-11-23T06:21:46.639534",
     "source_category_ids": [
       2060
     ],
@@ -45630,7 +45627,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-22T10:36:21.407403",
+    "last_updated": "2026-11-23T06:21:31.821507",
     "source_category_ids": [
       2053
     ],
@@ -54254,14 +54251,14 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%92%d7%9e%d7%a8%d7%90-%d7%9e%d7%aa%d7%99%d7%91%d7%aa%d7%90-%d7%a4%d7%a0%d7%99%d7%a0%d7%99%d7%9d-%d7%a7%d7%99%d7%93%d7%95%d7%a9%d7%99%d7%9f-%d7%90-%d7%91-%d7%9b-%d7%a2%d7%95%d7%96-%d7%95%d7%94/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E%D7%A8%D7%90-%D7%9E%D7%AA%D7%99%D7%91%D7%AA%D7%90-%D7%A4%D7%A0%D7%99%D7%A0%D7%99%D7%9D-%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F-%D7%90-%D7%91-%D7%9B-%D7%A2%D7%95%D7%96-%D7%95%D7%94/",
     "product_id": "41728",
     "sku": "142167",
     "name": "גמרא מתיבתא פנינים קידושין א (ב-כ) / עוז והדר",
-    "original_price": 95,
-    "regular_price": 100,
-    "price": 110,
-    "regular_our_price": 115,
+    "original_price": 92.0,
+    "regular_price": 95.0,
+    "price": 106,
+    "regular_our_price": 110,
     "description": "גמרא מתיבתא פנינים על מסכת קידושין א (ב-כ) מבית \"עוז והדר\" . המהדורה הקומפקטית והנוחה של הפרויקט האדיר, המנגישה את הגמרא עם ביאור משולב, ילקוט ביאורים, אוצר עיונים ועוד. כל התורה בכף ידכם, ללימוד בכל מקום ובכל זמן.",
     "full_description": "תיאור המהפכה בלימוד הגמרא, עכשיו במהדורה קומפקטית – גמרא מתיבתא פנינים קידושין א (ב-כ) ממלכת התורה \"עוז והדר\" גאה להציג את פרויקט הדגל ששינה את פני עולם התורה, כעת ב מהדורת \"פנינים\" נוחה וקומפקטית: גמרא מתיבתא פנינים . כעת מוגש לפניכם הכרך על מסכת קידושין א (ב-כ) . מהדורה זו מאפשרת לכם לקחת את הלימוד העמוק והמבואר לכל מקום, בדרכים, בנסיעות או בהפסקה בעבודה, מבלי להתפשר על איכות ועושר התוכן. מאות תלמידי חכמים עמלו במשך שנים כדי לבאר כל תג בדברי הגמרא, רש\"י ותוספות, ולהגיש לכם את התלמוד הבבלי בצורה הבהירה, המקיפה והנגישה ביותר. מה תמצאו במהדורת פנינים? נוחות מקסימלית: פורמט מוקטן ונוח לנשיאה (פנינים), אידיאלי ללימוד בכל מקום ובכל מצב. ביאור משולב: ביאור בהיר וקולח המשולב בתוך דברי הגמרא, המאפשר הבנה רציפה וחלקה של הסוגיה. ילקוט ביאורים: אוצר בלום של מפרשי הש\"ס, ראשונים ואחרונים, המלוקטים ומסודרים על סדר הדף. אוצר עיונים: הרחבה והעמקה בסוגיות נבחרות, המעניקה מבט רחב ויסודי על נושאי המסכת. אליבא דהלכתא וכפתור ופרח: פסק ההלכה היוצא מתוך הסוגיה, לצד פנינים, פרפראות ודברי אגדה הקשורים לנלמד. אל תוותרו על לימוד איכותי גם כשאתם מחוץ לבית המדרש. הוסיפו את הכרך לספרייה שלכם עכשיו והתחילו ללמוד בהבנה מלאה, בכל מקום!",
     "image": "https://www.seferkodesh.co.il/wp-content/uploads/2024/12/ae269d_4c85168d6d1b4c808d5770858034a15bmv2-600x600.png",
@@ -54275,14 +54272,12 @@
       "גמרא כרכים בודדים"
     ],
     "tags": [],
-    "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "in_stock": true,
+    "stock_text": "",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-30T11:58:52.688344",
-    "needs_revalidation": true,
-    "revalidation_attempts": 2,
-    "revalidation_checked_at": "2026-11-18T01:07:17.417135+00:00",
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:23:19.489783",
     "source_category_ids": [
       1955
     ],
@@ -60725,7 +60720,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:45:18.889733",
+    "last_updated": "2026-11-23T06:23:14.764586",
     "source_category_ids": [
       1955
     ],
@@ -71397,7 +71392,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:59:24.688647",
+    "last_updated": "2026-11-23T06:23:00.694927",
     "source_category_ids": [
       1955
     ],
@@ -75807,7 +75802,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:05:07.241061",
+    "last_updated": "2026-11-23T06:22:41.771472",
     "source_category_ids": [
       1955
     ],
@@ -76986,7 +76981,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:06:31.961366",
+    "last_updated": "2026-11-23T06:23:10.057097",
     "source_category_ids": [
       1955
     ],
@@ -77121,7 +77116,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:06:42.449965",
+    "last_updated": "2026-11-23T06:23:12.412587",
     "source_category_ids": [
       1955
     ],
@@ -78053,7 +78048,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:07:52.964668",
+    "last_updated": "2026-11-23T06:22:55.848972",
     "source_category_ids": [
       1955
     ],
@@ -84383,7 +84378,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:16:06.054315",
+    "last_updated": "2026-11-23T06:22:48.802616",
     "source_category_ids": [
       1955
     ],
@@ -86952,7 +86947,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:19:36.869307",
+    "last_updated": "2026-11-23T06:22:46.467443",
     "source_category_ids": [
       1955
     ],
@@ -89873,7 +89868,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-22T10:36:44.579464",
+    "last_updated": "2026-11-23T06:21:43.530813",
     "source_category_ids": [
       2023
     ],
@@ -96035,7 +96030,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:31:46.080178",
+    "last_updated": "2026-11-23T06:22:32.238429",
     "source_category_ids": [
       1955
     ],
@@ -100454,7 +100449,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:38:02.857876",
+    "last_updated": "2026-11-23T06:22:37.008288",
     "source_category_ids": [
       1955
     ],
@@ -117756,7 +117751,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:00:28.040740",
+    "last_updated": "2026-11-23T06:23:17.191810",
     "source_category_ids": [
       1955
     ],
@@ -120834,7 +120829,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:04:34.953466",
+    "last_updated": "2026-11-23T06:22:39.355357",
     "source_category_ids": [
       1955
     ],
@@ -129949,7 +129944,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-22T10:36:25.846418",
+    "last_updated": "2026-11-23T06:21:36.505041",
     "source_category_ids": [
       2053
     ],
@@ -138933,7 +138928,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:28:54.450593",
+    "last_updated": "2026-11-23T06:23:24.138049",
     "source_category_ids": [
       1955
     ],
@@ -146566,7 +146561,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:39:19.156722",
+    "last_updated": "2026-11-23T06:23:21.807978",
     "source_category_ids": [
       1955
     ],
@@ -159213,7 +159208,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:55:21.034745",
+    "last_updated": "2026-11-23T06:22:58.337573",
     "source_category_ids": [
       1955
     ],
@@ -164743,7 +164738,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:02:11.095041",
+    "last_updated": "2026-11-23T06:22:44.117541",
     "source_category_ids": [
       1955
     ],
@@ -174567,7 +174562,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:14:17.750084",
+    "last_updated": "2026-11-23T06:22:53.498675",
     "source_category_ids": [
       1955
     ],
@@ -226805,6 +226800,621 @@
       2264
     ],
     "source_product_id": 101571,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%92%D7%9E-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%91%D7%99%D7%A0%D7%95%D7%A0%D7%99-24-%D7%99%D7%91%D7%9E%D7%95%D7%AA-%D7%91-%D7%9E%D7%90-%D7%A2%D7%90-%D7%A4%D7%93/",
+    "product_id": "100440",
+    "sku": "AR-DHTYE2",
+    "name": "גמ' שוטנשטיין בינוני [#24] – יבמות ב' (מא ע\"א – פד ע\"א)",
+    "original_price": 106.0,
+    "regular_price": 106.0,
+    "price": 122,
+    "regular_our_price": 122,
+    "description": "",
+    "full_description": "תיאור For many years, travelers have been asking for a smaller, lighter, edition of the Schottenstein Hebrew Edition of the Talmud. Finally – it’s here! Every word of the full-size edition is here, but on a compact 7 x 10 page size — lighter, with t",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4500.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-4500.jpg"
+    ],
+    "category": "כללי",
+    "parent_category": "כללי",
+    "child_category": "",
+    "categories": [],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:21:48.985748",
+    "source_category_ids": [],
+    "source_product_id": 100440,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%92%D7%93%D7%95%D7%9C-46-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%91%D7%91%D7%90-%D7%91/",
+    "product_id": "101485",
+    "sku": "AR-HTBB3",
+    "name": "תלמוד בבלי שוטנשטיין גדול [#46] – מסכת בבא בתרא חלק ג' (קטז ע\"ב – קעו ע\"ב)",
+    "original_price": 131.0,
+    "regular_price": 131.0,
+    "price": 151,
+    "regular_our_price": 151,
+    "description": "",
+    "full_description": "תיאור Open the Schottenstein Edition and step into a study hall without walls. Feel the electricity, the excitement, the profundity, the beauty of the Talmudic experience! Let the Talmud open your eyes to the wonders of the Torah. Acclaimed by a",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5201.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5201.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:21:51.207611",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101485,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-18/",
+    "product_id": "101573",
+    "sku": "AR-HTRSA1B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [B47] – מסכת סנהדרין חלק ב'",
+    "original_price": 47.0,
+    "regular_price": 47.0,
+    "price": 55,
+    "regular_our_price": 55,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Hebrew Schottenstein Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to take Torah with them, on land, and in the air. A durable paperback book that slips easily into a briefcase or carry-on bag Includes every word of the English elucidation and commentary found in the full-size edition Less than a third the weight of the regular hard-cover Daf Yomi Edition the same high quality paper and printing you expect from ArtScroll/Mesorah",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5363.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5363.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:21:53.444467",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101573,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-19/",
+    "product_id": "101575",
+    "sku": "AR-HTRSA2B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [B48] – מסכת סנהדרין חלק ב2'",
+    "original_price": 47.0,
+    "regular_price": 47.0,
+    "price": 55,
+    "regular_our_price": 55,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Hebrew Schottenstein Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to take Torah with them, on land, and in the air. A durable paperback book that slips easily into a briefcase or carry-on bag Includes every word of the English elucidation and commentary found in the full-size edition Less than a third the weight of the regular hard-cover Daf Yomi Edition the same high quality paper and printing you expect from ArtScroll/Mesorah",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5365.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5365.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:21:55.667136",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101575,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-2/",
+    "product_id": "101541",
+    "sku": "AR-HTRPE2B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [10ב] פסחים 2ב (58א – 80ב)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5357.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5357.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:21:57.910119",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101541,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-20/",
+    "product_id": "101577",
+    "sku": "AR-HTRSA3B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [B49] – מסכת סנהדרין חלק ב3'",
+    "original_price": 47.0,
+    "regular_price": 47.0,
+    "price": 55,
+    "regular_our_price": 55,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Hebrew Schottenstein Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to take Torah with them, on land, and in the air. A durable paperback book that slips easily into a briefcase or carry-on bag Includes every word of the English elucidation and commentary found in the full-size edition Less than a third the weight of the regular hard-cover Daf Yomi Edition the same high quality paper and printing you expect from ArtScroll/Mesorah",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5367.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5367.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:00.152591",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101577,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-3/",
+    "product_id": "101543",
+    "sku": "AR-HTRPE3A",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [11א] פסחים 3א (99א – 80ב)",
+    "original_price": 47.0,
+    "regular_price": 47.0,
+    "price": 55,
+    "regular_our_price": 55,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5358.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5358.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:02.300840",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101543,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-4/",
+    "product_id": "101545",
+    "sku": "AR-HTRPE3B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [11ב] פסחים 3ב ( 99א – 121ב)",
+    "original_price": 47.0,
+    "regular_price": 47.0,
+    "price": 55,
+    "regular_our_price": 55,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5359.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5359.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:04.509471",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101545,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-5/",
+    "product_id": "101547",
+    "sku": "AR-HTRSH1B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [3ב] שבת 1ב (20ב – 36ב)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5369.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5369.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:06.697580",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101547,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-6/",
+    "product_id": "101549",
+    "sku": "AR-HTRSH2A",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [4א] שבת 2א (36ב – 56ב)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5370.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5370.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:08.838657",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101549,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-7/",
+    "product_id": "101551",
+    "sku": "AR-HTRSH2B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [4ב] שבת 2ב (57א – 76ב)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5371.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5371.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:11.392478",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101551,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-8/",
+    "product_id": "101553",
+    "sku": "AR-HTRSH3A",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [5א] שבת 3א (76ב – 96א)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5372.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5372.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:13.588620",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101553,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA-9/",
+    "product_id": "101555",
+    "sku": "AR-HTRSH3B",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [5ב] שבת 3ב (96א – 115א)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5373.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5373.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:15.831608",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101555,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%AA-%D7%A9%D7%95%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%92%D7%95%D7%93%D7%9C-%D7%9E%D7%AA%D7%90%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%AA/",
+    "product_id": "101539",
+    "sku": "AR-HTRPE2A",
+    "name": "תלמוד בבלי שוטנשטיין גודל מתאים לנסיעות תלמוד [10א] פסחים 2א ( 42א – 57ב)",
+    "original_price": 49.0,
+    "regular_price": 49.0,
+    "price": 57,
+    "regular_our_price": 57,
+    "description": "",
+    "full_description": "תיאור From early morning till late at night, people are using their Schottenstein Hebrew Talmud volumes and enriching their lives with the word of Hashem. Now – thanks to this new ultra-lightweight, paperback TRAVEL EDITION – more people than ever will be able to ta",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5356.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5356.jpg"
+    ],
+    "category": "שוטנשטיין - בבלי",
+    "parent_category": "שוטנשטיין - בבלי",
+    "child_category": "",
+    "categories": [
+      "שוטנשטיין - בבלי"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:18.128178",
+    "source_category_ids": [
+      2264
+    ],
+    "source_product_id": 101539,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94-%D7%91%D7%A4%D7%A8%D7%A9%D7%94-%D7%A1%D7%A4%D7%A8-%D7%91%D7%9E%D7%93%D7%91%D7%A8-%D7%A2%D7%91%D7%A8%D7%99%D7%AA/",
+    "product_id": "101181",
+    "sku": "AR-HWP4H",
+    "name": "מה בפרשה – ספר במדבר – עברית",
+    "original_price": 85.0,
+    "regular_price": 85.0,
+    "price": 98,
+    "regular_our_price": 98,
+    "description": "",
+    "full_description": "תיאור Now available in Hebrew! A Unique Way to Instill a Love of Torah into our Children! This unique narrative retelling of the Chumash is designed to engage readers ages 8 and up, and to connect them in a deep and meaningful way to the Torah. Written by an educator with decades of experience, it will instill in the heart of young people a love for Torah and a commitment to Jewish tradition and values. Based on the Chumash text, classic commentators, and the Midrash, The Weekly Parashah features age-appropriate text and graphics, gorgeous illustrations, and dozens of short sidebars that enhance the reading experience. A special section in the back lists the hundreds of sources, making it a fantastic resource for parents and educators. In addition to a full narrative of the parashah, The Weekly Parashah includes: Maaseh Avos: What happened to the Avos is a sign of what will happen to us! Fascinating Facts: Interesting information related to the parashah. Torah in our Lives: The Torah shows us how to live. Questions, Anyone? We all have questions. Here are some of the answers. Who’s Who in the Torah: A fascinating look at some of the people in the Torah.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5441.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5441.jpg"
+    ],
+    "category": "פרשת השבוע",
+    "parent_category": "פרשת השבוע",
+    "child_category": "",
+    "categories": [
+      "פרשת השבוע"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:20.463820",
+    "source_category_ids": [
+      1960
+    ],
+    "source_product_id": 101181,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94-%D7%91%D7%A4%D7%A8%D7%A9%D7%94-%D7%A1%D7%A4%D7%A8-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%A2%D7%91%D7%A8%D7%99%D7%AA/",
+    "product_id": "101164",
+    "sku": "AR-HWP1H",
+    "name": "מה בפרשה – ספר בראשית – עברית",
+    "original_price": 75.0,
+    "regular_price": 75.0,
+    "price": 87,
+    "regular_our_price": 87,
+    "description": "",
+    "full_description": "תיאור חדש מבית היוצר ‘ארטסקרול מסורה’ לאור ההצלחה המסחררת של סדרת הספרים באנגלית The Weekly Parashah ולאור הביקוש הרב, כעת ניתן להנות מפרשת השבוע בדרך אחרת וכעת גם בעברית! ‘מה בפרשה’ – דרך ייחודית להחדיר אהבת תורה לילדנו! פורמט ייחודי זה של החומש נועד למשוך את הקוראים מגיל 8 ומעלה, ולחבר אותם בצורה עמוקה ומשמעותית לתורה. הסדרה נכתבה על ידי איש חינוך עם ניסיון של עשרות שנים, היא תחדיר בלב הצעירים אהבה לתורה מתוך הנאה מרובה. הסדרה מבוססת על טקסט החומש, מפרשי התורה והמדרש. הפרשה השבועית כוללת טקסט וגרפיקה המתאימים לכל גיל, איורים מרהיבים ועשרות סרגלי צד קצרים המשפרים את חווית הקריאה. חלק מיוחד מאחור מפרט את מאות המקורות, מה שהופך אותו למשאב פנטסטי עבור הורים ומחנכים. בנוסף לסיפור הפרשה, הפרשה השבועית כוללת גם את המדורים הבאים: מעשה אבות: מה שקרה לאבות זה סימן למה שיקרה לנו! מעניין לדעת: מידע מעניין הקשור לפרשה. התורה בחיינו: התורה מראה לנו כיצד לחיות. מה השאלה?: לכולנו יש שאלות. הנה כמה מהתשובות. מי ומי בתורה: מבט מרתק על דמויות מהפרשה",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5438.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5438.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/MXUQmy.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/syQOWN.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/b6OPZB.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/lnFn2D.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/fsvN9y.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/uHO815.jpg",
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/QBFqZy.jpg"
+    ],
+    "category": "פרשת השבוע",
+    "parent_category": "פרשת השבוע",
+    "child_category": "",
+    "categories": [
+      "פרשת השבוע"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:22.794978",
+    "source_category_ids": [
+      1960
+    ],
+    "source_product_id": 101164,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94-%D7%91%D7%A4%D7%A8%D7%A9%D7%94-%D7%A1%D7%A4%D7%A8-%D7%93%D7%91%D7%A8%D7%99%D7%9D-%D7%A2%D7%91%D7%A8%D7%99%D7%AA/",
+    "product_id": "101183",
+    "sku": "AR-HWP5H",
+    "name": "מה בפרשה – ספר דברים– עברית",
+    "original_price": 85.0,
+    "regular_price": 85.0,
+    "price": 98,
+    "regular_our_price": 98,
+    "description": "",
+    "full_description": "תיאור חדש מבית היוצר ‘ארטסקרול מסורה’ לאור ההצלחה המסחררת של סדרת הספרים באנגלית The Weekly Parashah ולאור הביקוש הרב, כעת ניתן להנות מפרשת השבוע בדרך אחרת וכעת גם בעברית! ‘מה בפרשה’ – דרך ייחודית להחדיר אהבת תורה לילדנו! פורמט ייחודי זה של החומש נועד למשוך את הקוראים מגיל 8 ומעלה, ולחבר אותם בצורה עמוקה ומשמעותית לתורה. הסדרה נכתבה על ידי איש חינוך עם ניסיון של עשרות שנים, היא תחדיר בלב הצעירים אהבה לתורה מתוך הנאה מרובה. הסדרה מבוססת על טקסט החומש, מפרשי התורה והמדרש. הפרשה השבועית כוללת טקסט וגרפיקה המתאימים לכל גיל, איורים מרהיבים ועשרות סרגלי צד קצרים המשפרים את חווית הקריאה. חלק מיוחד מאחור מפרט את מאות המקורות, מה שהופך אותו למשאב פנטסטי עבור הורים ומחנכים. בנוסף לסיפור הפרשה, הפרשה השבועית כוללת גם את המדורים הבאים: מעשה אבות: מה שקרה לאבות זה סימן למה שיקרה לנו! מעניין לדעת: מידע מעניין הקשור לפרשה. התורה בחיינו: התורה מראה לנו כיצד לחיות. מה השאלה?: לכולנו יש שאלות. הנה כמה מהתשובות. מי ומי בתורה: מבט מרתק על דמויות מהפרשה",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5442.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5442.jpg"
+    ],
+    "category": "פרשת השבוע",
+    "parent_category": "פרשת השבוע",
+    "child_category": "",
+    "categories": [
+      "פרשת השבוע"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:25.196328",
+    "source_category_ids": [
+      1960
+    ],
+    "source_product_id": 101183,
+    "source_catalog_missing": false
+  },
+  {
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%9E%D7%94-%D7%91%D7%A4%D7%A8%D7%A9%D7%94-%D7%A1%D7%A4%D7%A8-%D7%95%D7%99%D7%A7%D7%A8%D7%90-%D7%A2%D7%91%D7%A8%D7%99%D7%AA/",
+    "product_id": "101185",
+    "sku": "AR-HWP3H",
+    "name": "מה בפרשה – ספר ויקרא – עברית",
+    "original_price": 75.0,
+    "regular_price": 75.0,
+    "price": 87,
+    "regular_our_price": 87,
+    "description": "",
+    "full_description": "תיאור Now available in Hebrew! A Unique Way to Instill a Love of Torah into our Children! This unique narrative retelling of the Chumash is designed to engage readers ages 8 and up, and to connect them in a deep and meaningful way to the Torah. Written by an educator with decades of experience, it will instill in the heart of young people a love for Torah and a commitment to Jewish tradition and values. Based on the Chumash text, classic commentators, and the Midrash, The Weekly Parashah features age-appropriate text and graphics, gorgeous illustrations, and dozens of short sidebars that enhance the reading experience. A special section in the back lists the hundreds of sources, making it a fantastic resource for parents and educators. In addition to a full narrative of the parashah, The Weekly Parashah includes: Maaseh Avos: What happened to the Avos is a sign of what will happen to us! Fascinating Facts: Interesting information related to the parashah. Torah in our Lives: The Torah shows us how to live. Questions, Anyone? We all have questions. Here are some of the answers. Who’s Who in the Torah: A fascinating look at some of the people in the Torah.",
+    "image": "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5440.jpg",
+    "images": [
+      "https://www.seferkodesh.co.il/wp-content/uploads/2026/07/cover-5440.jpg"
+    ],
+    "category": "פרשת השבוע",
+    "parent_category": "פרשת השבוע",
+    "child_category": "",
+    "categories": [
+      "פרשת השבוע"
+    ],
+    "tags": [],
+    "in_stock": true,
+    "stock_text": "",
+    "variations": [],
+    "attribute_labels": {},
+    "attribute_options": {},
+    "last_updated": "2026-11-23T06:22:27.568730",
+    "source_category_ids": [
+      1960
+    ],
+    "source_product_id": 101185,
     "source_catalog_missing": false
   }
 ]
