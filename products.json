@@ -10315,7 +10315,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T20:43:14.990623",
+    "last_updated": "2026-11-26T21:23:38.898547",
     "source_category_ids": [
       2235
     ],
@@ -48986,6 +48986,7 @@
     "parent_category": "ש\"ס תלמוד בבלי",
     "child_category": "",
     "categories": [
+      "מבצעים לוהטים",
       "ש\"ס תלמוד בבלי"
     ],
     "tags": [],
@@ -48996,6 +48997,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T21:30:46.475362",
     "source_category_ids": [
+      2147,
       1913
     ],
     "source_product_id": 40948,
@@ -50584,6 +50586,7 @@
     "parent_category": "תלמוד ירושלמי",
     "child_category": "",
     "categories": [
+      "מבצעים לוהטים",
       "תלמוד ירושלמי"
     ],
     "tags": [],
@@ -50596,6 +50599,7 @@
     "revalidation_attempts": 2,
     "revalidation_checked_at": "2026-11-18T01:06:42.237521+00:00",
     "source_category_ids": [
+      2147,
       1919
     ],
     "source_product_id": 40771,
@@ -72613,6 +72617,7 @@
     "parent_category": "מקראות גדולות תורה",
     "child_category": "",
     "categories": [
+      "מבצעים לוהטים",
       "מקראות גדולות תורה"
     ],
     "tags": [],
@@ -72623,6 +72628,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T22:01:14.286543",
     "source_category_ids": [
+      2147,
       1920
     ],
     "source_product_id": 40772,
@@ -81602,7 +81608,9 @@
     "category": "כללי",
     "parent_category": "כללי",
     "child_category": "",
-    "categories": [],
+    "categories": [
+      "מבצעים לוהטים"
+    ],
     "tags": [],
     "in_stock": true,
     "stock_text": "",
@@ -81610,7 +81618,9 @@
     "attribute_labels": {},
     "attribute_options": {},
     "last_updated": "2026-11-17T22:12:53.109840",
-    "source_category_ids": [],
+    "source_category_ids": [
+      2147
+    ],
     "source_product_id": 45173,
     "source_catalog_missing": false
   },
@@ -108276,7 +108286,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:47:52.499669",
+    "last_updated": "2026-11-26T21:23:33.340034",
     "source_category_ids": [
       1955
     ],
@@ -139438,7 +139448,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:29:37.573458",
+    "last_updated": "2026-11-26T21:23:36.334689",
     "source_category_ids": [
       1965
     ],
@@ -157687,6 +157697,7 @@
     "parent_category": "מדרשי חז\"ל",
     "child_category": "",
     "categories": [
+      "מבצעים לוהטים",
       "מדרשי חז\"ל"
     ],
     "tags": [],
@@ -157697,6 +157708,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-17T23:53:34.269269",
     "source_category_ids": [
+      2147,
       1918
     ],
     "source_product_id": 50334,
@@ -159120,7 +159132,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:55:16.182142",
+    "last_updated": "2026-11-26T21:23:41.430036",
     "source_category_ids": [
       2235
     ],
@@ -206857,6 +206869,7 @@
     "parent_category": "סט שולחן ערוך",
     "child_category": "",
     "categories": [
+      "מבצעים לוהטים",
       "סט שולחן ערוך"
     ],
     "tags": [],
@@ -206867,6 +206880,7 @@
     "attribute_options": {},
     "last_updated": "2026-11-18T00:57:26.398850",
     "source_category_ids": [
+      2147,
       1935
     ],
     "source_product_id": 54484,
