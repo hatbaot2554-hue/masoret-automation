@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-28T02:59:32.655317+00:00",
+  "checked_at": "2026-11-28T13:13:12.126457+00:00",
   "source_products": 10344,
   "local_products": 6496,
   "source_categories": 182,
@@ -8,7 +8,7 @@
   "matched_products": 6162,
   "local_not_in_source": 334,
   "missing_products": 4211,
-  "pending_revalidation": 257,
+  "pending_revalidation": 256,
   "local_not_in_source_indexes": [
     81,
     127,

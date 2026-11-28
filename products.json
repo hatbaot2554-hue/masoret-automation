@@ -32453,7 +32453,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:10:25.697213",
+    "last_updated": "2026-11-28T13:08:56.457121",
     "source_category_ids": [],
     "source_product_id": 43630,
     "source_catalog_missing": false
@@ -58508,7 +58508,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T21:42:16.462281",
+    "last_updated": "2026-11-28T13:08:46.425901",
     "source_category_ids": [],
     "source_product_id": 43631,
     "source_catalog_missing": false
@@ -96943,7 +96943,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:33:03.551930",
+    "last_updated": "2026-11-28T13:08:53.727992",
     "source_category_ids": [],
     "source_product_id": 43628,
     "source_catalog_missing": false
@@ -109079,7 +109079,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T22:48:51.469411",
+    "last_updated": "2026-11-28T13:08:48.847035",
     "source_category_ids": [],
     "source_product_id": 43629,
     "source_catalog_missing": false
@@ -118093,14 +118093,14 @@
     "source_catalog_missing": false
   },
   {
-    "url": "https://www.seferkodesh.co.il/product-page/%d7%96%d7%9e%d7%99%d7%a8%d7%95%d7%aa-%d7%a9%d7%91%d7%aa-%d7%93%d7%92%d7%9d-%d7%a2%d7%99%d7%98%d7%95%d7%a8%d7%99-%d7%96%d7%94%d7%91/",
+    "url": "https://www.seferkodesh.co.il/product-page/%D7%96%D7%9E%D7%99%D7%A8%D7%95%D7%AA-%D7%A9%D7%91%D7%AA-%D7%93%D7%92%D7%9D-%D7%A2%D7%99%D7%98%D7%95%D7%A8%D7%99-%D7%96%D7%94%D7%91/",
     "product_id": "40698",
     "sku": "7900025",
     "name": "זמירות שבת דגם עיטורי זהב",
-    "original_price": 7,
-    "regular_price": 8,
-    "price": 9,
-    "regular_our_price": 10,
+    "original_price": 7.0,
+    "regular_price": 8.0,
+    "price": 9.0,
+    "regular_our_price": 10.0,
     "description": "",
     "full_description": "תיאור זמירות שבת כולל קידוש והבדלה וברכת המזון לפני מנהגי עדות המזרח 64 עמ' אורך: 16 ס\"מ רוחב: 11.5 ס\"מ",
     "image": "https://www.seferkodesh.co.il/wp-content/uploads/2025/02/ae269d_16e21f712ade41339a9a15e0874f4161mv2-600x600.jpg",
@@ -118119,13 +118119,11 @@
     ],
     "tags": [],
     "in_stock": false,
-    "stock_text": "ממתין לאימות מחיר ומלאי",
+    "stock_text": "המלאי אזל",
     "variations": [],
     "attribute_labels": {},
-    "last_updated": "2026-04-19T08:17:06.977868",
-    "needs_revalidation": true,
-    "revalidation_attempts": 2,
-    "revalidation_checked_at": "2026-11-18T01:18:42.935326+00:00",
+    "attribute_options": {},
+    "last_updated": "2026-11-28T13:09:16.741350",
     "source_category_ids": [
       1943
     ],
@@ -125176,7 +125174,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%93%D7%A8-%D7%98%D7%95-%D7%91%D7%A9%D7%91%D7%98-%D7%97%D7%95%D7%91%D7%A8%D7%AA-%D7%9E%D7%94%D7%95%D7%93%D7%A8%D7%AA/",
-    "product_id": "",
+    "product_id": "44212",
     "sku": "C20623",
     "name": "סדר ט\"ו בשבט – חוברת מהודרת",
     "original_price": 7.0,
@@ -125204,7 +125202,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-17T23:10:14.322010",
+    "last_updated": "2026-11-28T13:08:51.366670",
     "source_category_ids": [
       1969
     ],
@@ -175536,7 +175534,7 @@
   },
   {
     "url": "https://www.seferkodesh.co.il/product-page/%D7%A1%D7%93%D7%A8-%D7%9C%D7%A9%D7%91%D7%AA-%D7%9E%D7%A4%D7%95%D7%90%D7%A8-%D7%95%D7%9E%D7%A2%D7%95%D7%A6%D7%91/",
-    "product_id": "",
+    "product_id": "44708",
     "sku": "2184",
     "name": "סדר לשבת מפואר ומעוצב",
     "original_price": 7.0,
@@ -175561,7 +175559,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:15:40.429544",
+    "last_updated": "2026-11-28T13:08:59.132294",
     "source_category_ids": [
       2052
     ],
@@ -181173,7 +181171,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:23:04.758640",
+    "last_updated": "2026-11-28T13:09:06.859473",
     "source_category_ids": [
       1943
     ],
@@ -195563,7 +195561,7 @@
     "variations": [],
     "attribute_labels": {},
     "attribute_options": {},
-    "last_updated": "2026-11-18T00:42:40.237444",
+    "last_updated": "2026-11-28T13:09:01.553300",
     "source_category_ids": [
       1943
     ],
@@ -216598,7 +216596,7 @@
         "כסף"
       ]
     },
-    "last_updated": "2026-11-22T10:42:26.383516",
+    "last_updated": "2026-11-28T13:09:03.984472",
     "source_category_ids": [
       1943
     ],
@@ -216670,7 +216668,7 @@
         "כסף"
       ]
     },
-    "last_updated": "2026-11-22T10:42:28.550755",
+    "last_updated": "2026-11-28T13:09:09.305529",
     "source_category_ids": [
       1943
     ],
@@ -216742,7 +216740,7 @@
         "כסף"
       ]
     },
-    "last_updated": "2026-11-22T10:42:30.777217",
+    "last_updated": "2026-11-28T13:09:11.708305",
     "source_category_ids": [
       1943
     ],
@@ -216814,7 +216812,7 @@
         "כסף"
       ]
     },
-    "last_updated": "2026-11-22T10:42:33.360174",
+    "last_updated": "2026-11-28T13:09:14.445845",
     "source_category_ids": [
       1943
     ],
